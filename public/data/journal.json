@@ -1,0 +1,15 @@
+[
+  {
+    "startedAt": "2026-03-03T22:35:50.000000+00:00",
+    "finishedAt": "2026-03-03T22:46:53.794764+00:00",
+    "status": "success",
+    "targetHandle": "karpathy",
+    "targetUserId": "33836629",
+    "mode": "following+bio+recent_tweets",
+    "followingCount": 1054,
+    "processedAccounts": 150,
+    "errorAccounts": 106,
+    "manifestPath": "data/manifest.json",
+    "note": "Backfilled from existing scrape state before journal automation was added."
+  }
+]

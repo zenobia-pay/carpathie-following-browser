@@ -93,6 +93,7 @@ index = f"""<!doctype html>
       <div class='controls'>
         <input id='q' placeholder='Filter by handle, name, or bio...' />
         <a target='_blank' href='data/manifest.json'>manifest.json</a>
+        <a target='_blank' href='data/journal.json'>journal.json</a>
         <a target='_blank' href='data/raw/following.json'>following.json</a>
       </div>
     </section>
@@ -114,4 +115,6 @@ index = f"""<!doctype html>
 (PUB / 'index.html').write_text(index)
 (PUB / 'data').mkdir(parents=True, exist_ok=True)
 (PUB / 'data' / 'manifest.json').write_text((DATA / 'manifest.json').read_text())
+if (DATA / 'journal.json').exists():
+    (PUB / 'data' / 'journal.json').write_text((DATA / 'journal.json').read_text())
 print('built public/index.html')
