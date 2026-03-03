@@ -1,0 +1,10 @@
+{
+  "username": "rookisaacman",
+  "name": "Jared Isaacman",
+  "bio": "Keeping busy on and off the planet. Personal account.  Follow @NASAAdmin for official updates as I serve under POTUS as NASA Administrator \ud83c\uddfa\ud83c\uddf8",
+  "followersCount": 394287,
+  "followingCount": 451,
+  "profileUrl": "https://x.com/rookisaacman",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'rookisaacman', '-n', '10', '--json']' returned non-zero exit status 1."
+}

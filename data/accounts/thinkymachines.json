@@ -1,0 +1,10 @@
+{
+  "username": "thinkymachines",
+  "name": "Thinking Machines",
+  "bio": "Thinking, beeping, and booping.",
+  "followersCount": 112907,
+  "followingCount": 2,
+  "profileUrl": "https://x.com/thinkymachines",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'thinkymachines', '-n', '10', '--json']' returned non-zero exit status 1."
+}

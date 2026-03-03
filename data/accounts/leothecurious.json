@@ -1,0 +1,100 @@
+{
+  "username": "leothecurious",
+  "name": "davinci",
+  "bio": "robotics engineer, student of nature, perpetually curious.",
+  "followersCount": 5164,
+  "followingCount": 1006,
+  "profileUrl": "https://x.com/leothecurious",
+  "tweets": [
+    {
+      "id": "2028910013025001869",
+      "url": "https://x.com/leothecurious/status/2028910013025001869",
+      "createdAt": "Tue Mar 03 19:06:57 +0000 2026",
+      "text": "RT @ronalhwang: 2/ \nWe identify a consistent 3-stage training story behind grokking:\n\n(1) memorization\n(2) symmetry acquisition\n(3) geometr\u2026",
+      "likeCount": 0,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2028890059454242951",
+      "url": "https://x.com/leothecurious/status/2028890059454242951",
+      "createdAt": "Tue Mar 03 17:47:39 +0000 2026",
+      "text": "RT @leothecurious: @Matthewagi nothing too concrete as this is very much an open research problem, but i've listed a few relevant topics in\u2026",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028872480476086397",
+      "url": "https://x.com/leothecurious/status/2028872480476086397",
+      "createdAt": "Tue Mar 03 16:37:48 +0000 2026",
+      "text": "tfw next week's work gets done for u. i find myself consistently grateful for the gift of open source.",
+      "likeCount": 13,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028819221409407313",
+      "url": "https://x.com/leothecurious/status/2028819221409407313",
+      "createdAt": "Tue Mar 03 13:06:10 +0000 2026",
+      "text": "this is a well-calibrated take. i say this applies quite fittingly probably up till 2030, beyond that, i reserve some naive optimism.",
+      "likeCount": 12,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028811037487612338",
+      "url": "https://x.com/leothecurious/status/2028811037487612338",
+      "createdAt": "Tue Mar 03 12:33:39 +0000 2026",
+      "text": "imagine how much catastrophic forgetting already occurs over the span of a pretraining+midtraining+posttraining run. the models we get are probably heavily lobotimized relative to the full scope of knowledge latent in their datasets. there's so much to fix.",
+      "likeCount": 28,
+      "retweetCount": 1,
+      "replyCount": 3
+    },
+    {
+      "id": "2028811439322898792",
+      "url": "https://x.com/leothecurious/status/2028811439322898792",
+      "createdAt": "Tue Mar 03 12:35:15 +0000 2026",
+      "text": "many are eager to aggressively expand the datasets while overlooking the more efficient alternative of improving learning algorithms to squeeze out more out of the existng datasets",
+      "likeCount": 15,
+      "retweetCount": 1,
+      "replyCount": 2
+    },
+    {
+      "id": "2028522365756264885",
+      "url": "https://x.com/leothecurious/status/2028522365756264885",
+      "createdAt": "Mon Mar 02 17:26:34 +0000 2026",
+      "text": "looks interesting",
+      "likeCount": 4,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028428052129100150",
+      "url": "https://x.com/leothecurious/status/2028428052129100150",
+      "createdAt": "Mon Mar 02 11:11:48 +0000 2026",
+      "text": "looks similar to the VLAW implementation but applied to process rewards instead of only terminal reward https://t.co/sOM0vMnixq",
+      "likeCount": 11,
+      "retweetCount": 1,
+      "replyCount": 1
+    },
+    {
+      "id": "2028428381667127459",
+      "url": "https://x.com/leothecurious/status/2028428381667127459",
+      "createdAt": "Mon Mar 02 11:13:07 +0000 2026",
+      "text": "using the probability itself as a progress proxy is neat though",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028249448279601160",
+      "url": "https://x.com/leothecurious/status/2028249448279601160",
+      "createdAt": "Sun Mar 01 23:22:06 +0000 2026",
+      "text": "fuck. here we go again. why can't it ever be stable for like 2 seconds?",
+      "likeCount": 16,
+      "retweetCount": 0,
+      "replyCount": 4
+    }
+  ]
+}

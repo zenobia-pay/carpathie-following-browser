@@ -1,0 +1,10 @@
+{
+  "username": "SeunghyunSEO7",
+  "name": "Seunghyun Seo",
+  "bio": "deep learning enjoyer. from speech to llm @ naver, now exploring images @midjourney",
+  "followersCount": 3131,
+  "followingCount": 892,
+  "profileUrl": "https://x.com/SeunghyunSEO7",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'SeunghyunSEO7', '-n', '10', '--json']' returned non-zero exit status 1."
+}

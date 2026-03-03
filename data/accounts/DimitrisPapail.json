@@ -1,0 +1,100 @@
+{
+  "username": "DimitrisPapail",
+  "name": "Dimitris Papailiopoulos",
+  "bio": "Researcher @MSFTResearch, AI Frontiers Lab; Prof @UWMadison (on leave); reasoning in context; learning to remember; agent of agents; babas of Inez Lily.",
+  "followersCount": 24411,
+  "followingCount": 1319,
+  "profileUrl": "https://x.com/DimitrisPapail",
+  "tweets": [
+    {
+      "id": "2028956112737775684",
+      "url": "https://x.com/DimitrisPapail/status/2028956112737775684",
+      "createdAt": "Tue Mar 03 22:10:08 +0000 2026",
+      "text": "Holy smokes. What??? \u201cInvestigating\u201d is putting it lightly",
+      "likeCount": 36,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2028945511370375468",
+      "url": "https://x.com/DimitrisPapail/status/2028945511370375468",
+      "createdAt": "Tue Mar 03 21:28:00 +0000 2026",
+      "text": "Btw, a fun footnote: you don\u2019t actually need a computer to train this computer.\n\nGenerating training data requires executing one SUBLEQ step which is a fixed function. A combinational circuit can do it, so no CPU needed. \n\nThen actual training is GD so a bunch of matrix multiplies and weight updates. Also implementable as a fixed-function circuit. Neither of these is Turing-complete.\n\nSo: two non-computers, can create a general-purpose computer. \n\nTuring completeness emerging from non Turing completeness :p",
+      "likeCount": 32,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2028898095308652895",
+      "url": "https://x.com/DimitrisPapail/status/2028898095308652895",
+      "createdAt": "Tue Mar 03 18:19:35 +0000 2026",
+      "text": "I've seen AI agents discover new stuff. Grounding an llm with a feedback loop is pretty powerful paradigm, and allows you to explore this super cool area. Ton of work happening at all abstraction levels from algorithm discovery, to artifacts that sit at higher abstraction levels. Fun!",
+      "likeCount": 49,
+      "retweetCount": 5,
+      "replyCount": 4
+    },
+    {
+      "id": "2028875735205581164",
+      "url": "https://x.com/DimitrisPapail/status/2028875735205581164",
+      "createdAt": "Tue Mar 03 16:50:44 +0000 2026",
+      "text": "RT @aaditya_prakash: Excellent work, and a great writing. Computation is key to problem solving. Machines that \"compute\" natively will even\u2026",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028810528257126652",
+      "url": "https://x.com/DimitrisPapail/status/2028810528257126652",
+      "createdAt": "Tue Mar 03 12:31:38 +0000 2026",
+      "text": "RT @erichorvitz: 2026 will be notable for acceleration in AI research, driven by using AI to deepen our understanding of AI science and eng\u2026",
+      "likeCount": 0,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2028715575988379862",
+      "url": "https://x.com/DimitrisPapail/status/2028715575988379862",
+      "createdAt": "Tue Mar 03 06:14:19 +0000 2026",
+      "text": "RT @gapDEEPry: Inspired by @alexlitzenberge\u2019s write-up, I took a shot at it and went with 4 params that became mostly an algo rather learne\u2026",
+      "likeCount": 0,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2028669695344148946",
+      "url": "https://x.com/DimitrisPapail/status/2028669695344148946",
+      "createdAt": "Tue Mar 03 03:12:00 +0000 2026",
+      "text": "Can You Train a Computer?",
+      "likeCount": 595,
+      "retweetCount": 86,
+      "replyCount": 22
+    },
+    {
+      "id": "2028704946325946625",
+      "url": "https://x.com/DimitrisPapail/status/2028704946325946625",
+      "createdAt": "Tue Mar 03 05:32:05 +0000 2026",
+      "text": "oh btw, this computer was trained on my laptop in &lt;4.5 hours :)",
+      "likeCount": 24,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028702015371514147",
+      "url": "https://x.com/DimitrisPapail/status/2028702015371514147",
+      "createdAt": "Tue Mar 03 05:20:26 +0000 2026",
+      "text": "RT @kfountou: This is super non-trivial to do. The best human-made version I know is in \"Learning to Add, Multiply, and Execute Algorithmic\u2026",
+      "likeCount": 0,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2028694385227948163",
+      "url": "https://x.com/DimitrisPapail/status/2028694385227948163",
+      "createdAt": "Tue Mar 03 04:50:07 +0000 2026",
+      "text": "RT @neural_avb: Each article he writes is so immensely educational and interesting to read.\n\nThis is basically yet another arxiv preprint d\u2026",
+      "likeCount": 0,
+      "retweetCount": 8,
+      "replyCount": 0
+    }
+  ]
+}

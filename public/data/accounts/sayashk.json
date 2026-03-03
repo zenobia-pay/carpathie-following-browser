@@ -1,0 +1,10 @@
+{
+  "username": "sayashk",
+  "name": "Sayash Kapoor",
+  "bio": "On the faculty job market. I tweet about AI agents, AI evals, AI for science.\nAI as Normal Technology: https://t.co/5amOkqKDf2\nBook: https://t.co/DabpkhNrcM",
+  "followersCount": 11789,
+  "followingCount": 2221,
+  "profileUrl": "https://x.com/sayashk",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'sayashk', '-n', '10', '--json']' returned non-zero exit status 1."
+}

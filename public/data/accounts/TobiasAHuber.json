@@ -1,0 +1,10 @@
+{
+  "username": "TobiasAHuber",
+  "name": "Tobias Huber",
+  "bio": "Investing in anomalies (@stripepress book out now: https://t.co/z1p1U0KY2q)",
+  "followersCount": 4327,
+  "followingCount": 809,
+  "profileUrl": "https://x.com/TobiasAHuber",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'TobiasAHuber', '-n', '10', '--json']' returned non-zero exit status 1."
+}

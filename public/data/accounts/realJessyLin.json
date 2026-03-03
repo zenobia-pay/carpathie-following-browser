@@ -1,0 +1,10 @@
+{
+  "username": "realJessyLin",
+  "name": "Jessy Lin",
+  "bio": "PhD @Berkeley_AI. ai x humans",
+  "followersCount": 5255,
+  "followingCount": 994,
+  "profileUrl": "https://x.com/realJessyLin",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'realJessyLin', '-n', '10', '--json']' returned non-zero exit status 1."
+}

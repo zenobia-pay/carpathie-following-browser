@@ -1,0 +1,10 @@
+{
+  "username": "EpochAIResearch",
+  "name": "Epoch AI",
+  "bio": "Investigating the trajectory of AI for the benefit of society.",
+  "followersCount": 40826,
+  "followingCount": 0,
+  "profileUrl": "https://x.com/EpochAIResearch",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'EpochAIResearch', '-n', '10', '--json']' returned non-zero exit status 1."
+}

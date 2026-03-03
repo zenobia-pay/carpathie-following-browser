@@ -1,0 +1,10 @@
+{
+  "username": "JingyuanLiu123",
+  "name": "JingyuanLiu",
+  "bio": "https://t.co/D7zLeTZRMh is all you need | Opinions are my own",
+  "followersCount": 3125,
+  "followingCount": 529,
+  "profileUrl": "https://x.com/JingyuanLiu123",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'JingyuanLiu123', '-n', '10', '--json']' returned non-zero exit status 1."
+}

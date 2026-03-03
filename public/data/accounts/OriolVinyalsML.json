@@ -1,0 +1,100 @@
+{
+  "username": "OriolVinyalsML",
+  "name": "Oriol Vinyals",
+  "bio": "VP of Research & Deep Learning Lead, Google DeepMind. Gemini co-lead.\n\nPast: AlphaStar, AlphaFold, AlphaCode, WaveNet, seq2seq, distillation, TF.",
+  "followersCount": 197157,
+  "followingCount": 86,
+  "profileUrl": "https://x.com/OriolVinyalsML",
+  "tweets": [
+    {
+      "id": "2027057776535720347",
+      "url": "https://x.com/OriolVinyalsML/status/2027057776535720347",
+      "createdAt": "Thu Feb 26 16:26:49 +0000 2026",
+      "text": "Banana^2 https://t.co/EN9pHgkbA1",
+      "likeCount": 113,
+      "retweetCount": 3,
+      "replyCount": 4
+    },
+    {
+      "id": "2024519605570720185",
+      "url": "https://x.com/OriolVinyalsML/status/2024519605570720185",
+      "createdAt": "Thu Feb 19 16:21:02 +0000 2026",
+      "text": "Gemini 3.1 Pro has landed! Amazing performance / capabilities across the board. \n\nBeyond SOTA, the best are all the things that evals can't measure. E.g. SVG has gotten so much better (see \ud83e\uddf5)\n\nhttps://t.co/JDhT0NRY5L https://t.co/P5Usa67bzQ",
+      "likeCount": 407,
+      "retweetCount": 30,
+      "replyCount": 23
+    },
+    {
+      "id": "2024519610683576422",
+      "url": "https://x.com/OriolVinyalsML/status/2024519610683576422",
+      "createdAt": "Thu Feb 19 16:21:03 +0000 2026",
+      "text": "\"Generate an SVG of a rollercoaster\" https://t.co/wjslGNUs3A",
+      "likeCount": 35,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2024519612579422598",
+      "url": "https://x.com/OriolVinyalsML/status/2024519612579422598",
+      "createdAt": "Thu Feb 19 16:21:04 +0000 2026",
+      "text": "\"make it first person view (i want to see the rollercoaster in front of me)\" https://t.co/bDeCbpOWuL",
+      "likeCount": 25,
+      "retweetCount": 1,
+      "replyCount": 1
+    },
+    {
+      "id": "2022744750319907321",
+      "url": "https://x.com/OriolVinyalsML/status/2022744750319907321",
+      "createdAt": "Sat Feb 14 18:48:23 +0000 2026",
+      "text": "Personal update: After an amazing 10 years in London, it's time for a major change. One-way ticket back to California \ud83c\udf1e! I'm incredibly excited to return to the Bay Area to continue building Gemini and pushing us toward the age of AGI \ud83d\ude80",
+      "likeCount": 1525,
+      "retweetCount": 32,
+      "replyCount": 59
+    },
+    {
+      "id": "2021982720860233992",
+      "url": "https://x.com/OriolVinyalsML/status/2021982720860233992",
+      "createdAt": "Thu Feb 12 16:20:21 +0000 2026",
+      "text": "An updated &amp; faster Gemini 3 Deep Think is taking off! \ud83d\ude80 Our smartest mode to date!\u2122\ufe0f\n\nPhD-level reasoning to the most rigorous STEM challenges (models' gotta think harder). Gold medal-level results on Physics &amp; Chemistry Olympiads. \ud83e\uddea\ud83d\udcbb\n\nFull details: https://t.co/9XBQwHSCYW https://t.co/aOlbjI8RKo",
+      "likeCount": 317,
+      "retweetCount": 27,
+      "replyCount": 13
+    },
+    {
+      "id": "2021982723733438725",
+      "url": "https://x.com/OriolVinyalsML/status/2021982723733438725",
+      "createdAt": "Thu Feb 12 16:20:22 +0000 2026",
+      "text": "Fun to see Deep Think\u2019s real-world impact. Check out how it\u2019s helping researchers catch errors in high-level mathematics research papers. As \"just\" a math undergrad, I couldn't even dream to do any of this myself! https://t.co/ueFGoOwPiX",
+      "likeCount": 67,
+      "retweetCount": 4,
+      "replyCount": 3
+    },
+    {
+      "id": "2011809799906681106",
+      "url": "https://x.com/OriolVinyalsML/status/2011809799906681106",
+      "createdAt": "Thu Jan 15 14:36:48 +0000 2026",
+      "text": "RT @A_G_I_Joe: New paper out today, proving a novel theorem in algebraic geometry with an internal math-specialized version of Gemini.\u00a0This\u2026",
+      "likeCount": 0,
+      "retweetCount": 332,
+      "replyCount": 0
+    },
+    {
+      "id": "2001743451163967872",
+      "url": "https://x.com/OriolVinyalsML/status/2001743451163967872",
+      "createdAt": "Thu Dec 18 19:56:44 +0000 2025",
+      "text": "RT @OfficialLoganK: Recapping an incredibly year of Gemini progress with @OriolVinyalsML @JeffDean and @NoamShazeer live, join us : ) \n\nhtt\u2026",
+      "likeCount": 0,
+      "retweetCount": 24,
+      "replyCount": 0
+    },
+    {
+      "id": "2001325389306872134",
+      "url": "https://x.com/OriolVinyalsML/status/2001325389306872134",
+      "createdAt": "Wed Dec 17 16:15:30 +0000 2025",
+      "text": "Classic LLM dilemma: smart vs fast. The new reality with Gemini 3 Flash: Why not both?\n\nThat trade-off has never felt smaller. Congrats to the team! \u26a1\ufe0f https://t.co/Ur29rwrhig",
+      "likeCount": 288,
+      "retweetCount": 19,
+      "replyCount": 16
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "username": "hardmaru",
+  "name": "hardmaru",
+  "bio": "Co-Founder and CEO @SakanaAILabs \ud83c\udf8f",
+  "followersCount": 388132,
+  "followingCount": 1815,
+  "profileUrl": "https://x.com/hardmaru",
+  "tweets": [
+    {
+      "id": "2028628646311956963",
+      "url": "https://x.com/hardmaru/status/2028628646311956963",
+      "createdAt": "Tue Mar 03 00:28:54 +0000 2026",
+      "text": "RT @SakanaAILabs: \u30d9\u30fc\u30bf\u30c6\u30b9\u30c8\u306b\u3066\u3001\u30ea\u30b5\u30fc\u30c1\u7528\u9014\u3067\u306e\u8eab\u306b\u4f59\u308b\u8a55\u4fa1\u3092\u3044\u305f\u3060\u304d\u5927\u5909\u6050\u7e2e\u3067\u3059\u3002\u3044\u305f\u3060\u3044\u305f\u304a\u58f0\u3092\u52b1\u307f\u306b\u3001\u6b63\u5f0f\u30ed\u30fc\u30f3\u30c1\u306b\u5411\u3051\u3066\u7740\u5b9f\u306b\u6e96\u5099\u3092\u9032\u3081\u3066\u307e\u3044\u308a\u307e\u3059\u3002\u65e5\u672c\u767a\u306eAI\u30b5\u30fc\u30d3\u30b9\u3068\u3057\u3066\u5c11\u3057\u3067\u3082\u304a\u5f79\u306b\u7acb\u3066\u308b\u3088\u3046\u52aa\u3081\u307e\u3059\u306e\u3067\u3001\u5f15\u304d\u7d9a\u304d\u5fcc\u619a\u306e\u306a\u3044\u3054\u610f\u898b\u3092\u304a\u805e\u304b\u305b\u2026",
+      "likeCount": 0,
+      "retweetCount": 13,
+      "replyCount": 0
+    },
+    {
+      "id": "2028273713129599313",
+      "url": "https://x.com/hardmaru/status/2028273713129599313",
+      "createdAt": "Mon Mar 02 00:58:31 +0000 2026",
+      "text": "Great to see Vinod Khosla (@vkhosla) visit Japan \ud83c\udf38\ud83c\uddef\ud83c\uddf5",
+      "likeCount": 56,
+      "retweetCount": 3,
+      "replyCount": 7
+    },
+    {
+      "id": "2027240562898976770",
+      "url": "https://x.com/hardmaru/status/2027240562898976770",
+      "createdAt": "Fri Feb 27 04:33:09 +0000 2026",
+      "text": "Instead of forcing models to hold everything in an active context window, we can use hypernetworks to instantly compile documents and tasks directly into the model's weights. A step towards giving language models durable memory and fast adaptation.\n\nBlog: https://t.co/iHoifpsLMu",
+      "likeCount": 2513,
+      "retweetCount": 228,
+      "replyCount": 63
+    },
+    {
+      "id": "2027603304184979625",
+      "url": "https://x.com/hardmaru/status/2027603304184979625",
+      "createdAt": "Sat Feb 28 04:34:33 +0000 2026",
+      "text": "Doc-to-LoRA: Learning to Instantly Internalize Contexts\n\nhttps://t.co/bDqLdqhmB9\nhttps://t.co/UOHnPZ8sfO",
+      "likeCount": 23,
+      "retweetCount": 1,
+      "replyCount": 6
+    },
+    {
+      "id": "2027204334413574305",
+      "url": "https://x.com/hardmaru/status/2027204334413574305",
+      "createdAt": "Fri Feb 27 02:09:11 +0000 2026",
+      "text": "RT @SakanaAILabs: We are excited to announce a strategic partnership with @datadoghq! \ud83e\udd1d\n\nDatadog values our research capabilities focused o\u2026",
+      "likeCount": 0,
+      "retweetCount": 13,
+      "replyCount": 0
+    },
+    {
+      "id": "2026537191908979030",
+      "url": "https://x.com/hardmaru/status/2026537191908979030",
+      "createdAt": "Wed Feb 25 05:58:12 +0000 2026",
+      "text": "RT @nikkei: \u7c73\u91d1\u878d\u5927\u624b\u30b7\u30c6\u30a3\u3001\u30b5\u30ab\u30caAI\u306b\u51fa\u8cc7\u3000\u65e5\u672c\u4f01\u696d\u3078\u521d\u306e\u6226\u7565\u7684\u6295\u8cc7\nhttps://t.co/dw9yvY51yW",
+      "likeCount": 0,
+      "retweetCount": 62,
+      "replyCount": 0
+    },
+    {
+      "id": "2026429259594776752",
+      "url": "https://x.com/hardmaru/status/2026429259594776752",
+      "createdAt": "Tue Feb 24 22:49:19 +0000 2026",
+      "text": "Sakana AI started as a pure AI R&amp;D lab in Tokyo. Since then, we have built a solid enterprise business in Japan, working with major institutions like MUFG, SMBC, and Daiwa Securities. Now, we are ready to deploy our technologies abroad with @Citi!",
+      "likeCount": 158,
+      "retweetCount": 15,
+      "replyCount": 11
+    },
+    {
+      "id": "2024733711640776820",
+      "url": "https://x.com/hardmaru/status/2024733711640776820",
+      "createdAt": "Fri Feb 20 06:31:49 +0000 2026",
+      "text": "Sakana AI\u3067\u4e00\u7dd2\u306b\u50cd\u304fApplied Research Engineer\u3092\u7d76\u8cdb\u52df\u96c6\u4e2d\u3067\u3059\uff01\ud83d\udc1f\ud83d\udca8\nhttps://t.co/FuEoI2xrzS",
+      "likeCount": 61,
+      "retweetCount": 9,
+      "replyCount": 2
+    },
+    {
+      "id": "2025769130004238572",
+      "url": "https://x.com/hardmaru/status/2025769130004238572",
+      "createdAt": "Mon Feb 23 03:06:12 +0000 2026",
+      "text": "Applied Research Engineer \ud83d\udc1f\nhttps://t.co/FuEoI2xrzS",
+      "likeCount": 2,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2025446040862851299",
+      "url": "https://x.com/hardmaru/status/2025446040862851299",
+      "createdAt": "Sun Feb 22 05:42:21 +0000 2026",
+      "text": "\u300cFish Recruiter\u300d\u3092\u63a2\u3057\u3066\u3044\u307e\u3059\ud83d\udc1f",
+      "likeCount": 24,
+      "retweetCount": 4,
+      "replyCount": 6
+    }
+  ]
+}

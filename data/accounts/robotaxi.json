@@ -1,0 +1,10 @@
+{
+  "username": "robotaxi",
+  "name": "Tesla Robotaxi",
+  "bio": "The future of autonomy",
+  "followersCount": 168974,
+  "followingCount": 5,
+  "profileUrl": "https://x.com/robotaxi",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'robotaxi', '-n', '10', '--json']' returned non-zero exit status 1."
+}

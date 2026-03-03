@@ -1,0 +1,10 @@
+{
+  "username": "VivekGRamaswamy",
+  "name": "Vivek Ramaswamy",
+  "bio": "Father. Husband. Entrepreneur. Candidate for Governor of Ohio. Posts made by Vivek\u2019s team.",
+  "followersCount": 3606776,
+  "followingCount": 305,
+  "profileUrl": "https://x.com/VivekGRamaswamy",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'VivekGRamaswamy', '-n', '10', '--json']' returned non-zero exit status 1."
+}

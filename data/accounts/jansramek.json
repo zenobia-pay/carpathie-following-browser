@@ -1,0 +1,10 @@
+{
+  "username": "jansramek",
+  "name": "Jan Sramek \ud83c\uddfa\ud83c\uddf2 \ud83c\udf01 \u26f0\ufe0f",
+  "bio": "Founder & CEO, @CAForever. Raised $1bn+ to build a new city on 100+ square miles an hour north of SF/SV. Join the call to break ground in 2026! Link below.",
+  "followersCount": 14600,
+  "followingCount": 476,
+  "profileUrl": "https://x.com/jansramek",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jansramek', '-n', '10', '--json']' returned non-zero exit status 1."
+}

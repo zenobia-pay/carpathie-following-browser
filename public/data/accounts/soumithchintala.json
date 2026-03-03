@@ -1,0 +1,100 @@
+{
+  "username": "soumithchintala",
+  "name": "Soumith Chintala",
+  "bio": "Building new things @thinkymachines.  Also dabble in robotics at NYU.  Cofounded @PyTorch. AI is delicious when it is accessible and open-source.",
+  "followersCount": 284869,
+  "followingCount": 1200,
+  "profileUrl": "https://x.com/soumithchintala",
+  "tweets": [
+    {
+      "id": "2027879680024469982",
+      "url": "https://x.com/soumithchintala/status/2027879680024469982",
+      "createdAt": "Sat Feb 28 22:52:46 +0000 2026",
+      "text": "RT @BetterCallMedhi: https://t.co/5nF9K4lpWi",
+      "likeCount": 0,
+      "retweetCount": 45,
+      "replyCount": 0
+    },
+    {
+      "id": "2027367287330611478",
+      "url": "https://x.com/soumithchintala/status/2027367287330611478",
+      "createdAt": "Fri Feb 27 12:56:42 +0000 2026",
+      "text": "this takes a lot of bravery \ud83e\udee1",
+      "likeCount": 1279,
+      "retweetCount": 31,
+      "replyCount": 27
+    },
+    {
+      "id": "2026704992678133888",
+      "url": "https://x.com/soumithchintala/status/2026704992678133888",
+      "createdAt": "Wed Feb 25 17:04:59 +0000 2026",
+      "text": "this is as wild as OpenAI dropping the \"open\", probably wilder: https://t.co/Lg1jjlwjtT",
+      "likeCount": 2700,
+      "retweetCount": 226,
+      "replyCount": 200
+    },
+    {
+      "id": "2023513986965307778",
+      "url": "https://x.com/soumithchintala/status/2023513986965307778",
+      "createdAt": "Mon Feb 16 21:45:04 +0000 2026",
+      "text": "the speed at which @Kimi_Moonshot shipped KimiClaw is impressive!",
+      "likeCount": 477,
+      "retweetCount": 16,
+      "replyCount": 13
+    },
+    {
+      "id": "2022849950799876392",
+      "url": "https://x.com/soumithchintala/status/2022849950799876392",
+      "createdAt": "Sun Feb 15 01:46:25 +0000 2026",
+      "text": "openclaw is going to accelerate the need for better and robust human verification",
+      "likeCount": 751,
+      "retweetCount": 31,
+      "replyCount": 95
+    },
+    {
+      "id": "2019167897084658137",
+      "url": "https://x.com/soumithchintala/status/2019167897084658137",
+      "createdAt": "Wed Feb 04 21:55:15 +0000 2026",
+      "text": "RT @tinkerapi: Since Tinker launched, our community has used it to train state-of-the-art models, build infrastructure, and publish novel r\u2026",
+      "likeCount": 0,
+      "retweetCount": 27,
+      "replyCount": 0
+    },
+    {
+      "id": "2019127291880894473",
+      "url": "https://x.com/soumithchintala/status/2019127291880894473",
+      "createdAt": "Wed Feb 04 19:13:54 +0000 2026",
+      "text": "RT @tinkerapi: We\u2019ve loved watching the Tinker community grow, and we're excited to have a place to share product updates, helpful recipes,\u2026",
+      "likeCount": 0,
+      "retweetCount": 20,
+      "replyCount": 0
+    },
+    {
+      "id": "2011577949770957137",
+      "url": "https://x.com/soumithchintala/status/2011577949770957137",
+      "createdAt": "Wed Jan 14 23:15:31 +0000 2026",
+      "text": "RT @miramurati: We have parted ways with Barret Zoph. \n\nSoumith Chintala will be the new CTO of Thinking Machines. He is a brilliant and se\u2026",
+      "likeCount": 0,
+      "retweetCount": 134,
+      "replyCount": 0
+    },
+    {
+      "id": "1999984550555124038",
+      "url": "https://x.com/soumithchintala/status/1999984550555124038",
+      "createdAt": "Sat Dec 13 23:27:29 +0000 2025",
+      "text": "RT @rown: Today we are releasing Tinker to everyone, and now with vision input!\n\nYou can now finetune a frontier Qwen3-VL-235B on your own\u2026",
+      "likeCount": 0,
+      "retweetCount": 114,
+      "replyCount": 0
+    },
+    {
+      "id": "1998926753079935320",
+      "url": "https://x.com/soumithchintala/status/1998926753079935320",
+      "createdAt": "Thu Dec 11 01:24:10 +0000 2025",
+      "text": "the chats I've had with @ying11231 and @BanghuaZ make it evident that the culture they've built with SGLang and the ambition they have for @radixark are quite unique and very differentiated from the established AI Infra players. I think they'll do big things!\nCongrats @ying11231 and team, I'm glad to be an angel for @radixark",
+      "likeCount": 252,
+      "retweetCount": 19,
+      "replyCount": 14
+    }
+  ]
+}

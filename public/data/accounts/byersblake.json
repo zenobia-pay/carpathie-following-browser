@@ -1,0 +1,10 @@
+{
+  "username": "byersblake",
+  "name": "Blake Byers",
+  "bio": "Cofounder @Newlimit to extend our lifespans. Investor in early stage ambitious founders, 10 IPOs and counting. ex @GVteam. @Stanford bioengineering PhD.",
+  "followersCount": 19349,
+  "followingCount": 346,
+  "profileUrl": "https://x.com/byersblake",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'byersblake', '-n', '10', '--json']' returned non-zero exit status 1."
+}

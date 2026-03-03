@@ -1,0 +1,10 @@
+{
+  "username": "GavinSBaker",
+  "name": "Gavin Baker",
+  "bio": "Managing Partner & CIO, @atreidesmgmt. Husband, @l3eckyy. No investment advice, views my own. https://t.co/pFe9KmNu9U",
+  "followersCount": 224060,
+  "followingCount": 5715,
+  "profileUrl": "https://x.com/GavinSBaker",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'GavinSBaker', '-n', '10', '--json']' returned non-zero exit status 1."
+}

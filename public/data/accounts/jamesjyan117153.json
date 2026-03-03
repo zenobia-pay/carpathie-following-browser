@@ -1,0 +1,10 @@
+{
+  "username": "jamesjyan117153",
+  "name": "James An",
+  "bio": "My opinions are my own.",
+  "followersCount": 1573,
+  "followingCount": 269,
+  "profileUrl": "https://x.com/jamesjyan117153",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jamesjyan117153', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "DannyLimanseta",
+  "name": "Danny Limanseta",
+  "bio": "I make games with AI. \nPatreon: https://t.co/0QzonXPiOY\nProduct Designer, Co-founder at Nurture and Reroll.",
+  "followersCount": 27831,
+  "followingCount": 1269,
+  "profileUrl": "https://x.com/DannyLimanseta",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'DannyLimanseta', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,100 @@
+{
+  "username": "elvissun",
+  "name": "Elvis",
+  "bio": "2x dad building the modern PR stack in public:\n\u26a1 https://t.co/JcWBKKpG6Y",
+  "followersCount": 42182,
+  "followingCount": 342,
+  "profileUrl": "https://x.com/elvissun",
+  "tweets": [
+    {
+      "id": "2028953890272706790",
+      "url": "https://x.com/elvissun/status/2028953890272706790",
+      "createdAt": "Tue Mar 03 22:01:18 +0000 2026",
+      "text": "RT @elvissun: tried opus 4.6 for a day. back on 4.5 now.\n\nmore expensive, slower, and no quality difference I can tell. really breaks up my\u2026",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028878582358171829",
+      "url": "https://x.com/elvissun/status/2028878582358171829",
+      "createdAt": "Tue Mar 03 17:02:03 +0000 2026",
+      "text": "here's why I don't use claude for coding: https://t.co/L6TP1j67YZ",
+      "likeCount": 129,
+      "retweetCount": 1,
+      "replyCount": 23
+    },
+    {
+      "id": "2028938654648033500",
+      "url": "https://x.com/elvissun/status/2028938654648033500",
+      "createdAt": "Tue Mar 03 21:00:45 +0000 2026",
+      "text": "The 2026 trust stack: \nGoing viral -&gt; Press \u2192 AI recommendation \u2192 customers\n\nI'm building an AI that makes it dead simple to get press coverage.\n\nwaitlist open:\nhttps://t.co/TzzFbsO6un",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028833100936118377",
+      "url": "https://x.com/elvissun/status/2028833100936118377",
+      "createdAt": "Tue Mar 03 14:01:19 +0000 2026",
+      "text": "RT @elvissun: somehow I'm spending more on @vercel build minutes than on tokens https://t.co/ucAm90BYAI",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028822898929238227",
+      "url": "https://x.com/elvissun/status/2028822898929238227",
+      "createdAt": "Tue Mar 03 13:20:47 +0000 2026",
+      "text": "RT @elvissun: zoe was burning 24M+ opus tokens/day monitoring agents that weren't running.\n\nreplaced her cron with a 2-layer system:\n- bash\u2026",
+      "likeCount": 0,
+      "retweetCount": 127,
+      "replyCount": 0
+    },
+    {
+      "id": "2028817843022942230",
+      "url": "https://x.com/elvissun/status/2028817843022942230",
+      "createdAt": "Tue Mar 03 13:00:42 +0000 2026",
+      "text": "RT @elvissun: there's a reason boring saas makes money.\n\n- clear problem\n- clear buyer\n- clear roi\n\nexcitement fades.\n\nutility compounds.",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028802072125251945",
+      "url": "https://x.com/elvissun/status/2028802072125251945",
+      "createdAt": "Tue Mar 03 11:58:01 +0000 2026",
+      "text": "tried opus 4.6 for a day. back on 4.5 now.\n\nmore expensive, slower, and no quality difference I can tell. really breaks up my flow waiting for responses.\n\ncodex 5.2 \u2192 5.3 was a step-function - moved all my codex usage from background overnight tasks to active foreground work.\n\n4.6 seems like paying more to wait longer. also less... personality? hard to pin down exactly but it's there",
+      "likeCount": 86,
+      "retweetCount": 1,
+      "replyCount": 39
+    },
+    {
+      "id": "2028686899850981585",
+      "url": "https://x.com/elvissun/status/2028686899850981585",
+      "createdAt": "Tue Mar 03 04:20:22 +0000 2026",
+      "text": "RT @elvissun: startups in 2026 will be ran by agent swarms\n\n(living this first hand myself)",
+      "likeCount": 0,
+      "retweetCount": 9,
+      "replyCount": 0
+    },
+    {
+      "id": "2028671336219107687",
+      "url": "https://x.com/elvissun/status/2028671336219107687",
+      "createdAt": "Tue Mar 03 03:18:32 +0000 2026",
+      "text": "zoe was burning 24M+ opus tokens/day monitoring agents that weren't running.\n\nreplaced her cron with a 2-layer system:\n- bash pre-check, zero tokens when idle\n- webhook fires opus only when needed.\n\n~95% token reduction and more reliable output. details below.\n\n(set up a cron to watch this performance, if it works well I'll double down on this event driven stack, seems like the future)",
+      "likeCount": 1667,
+      "retweetCount": 127,
+      "replyCount": 84
+    },
+    {
+      "id": "2028684502206492822",
+      "url": "https://x.com/elvissun/status/2028684502206492822",
+      "createdAt": "Tue Mar 03 04:10:51 +0000 2026",
+      "text": "The 2026 trust stack: \nGoing viral -&gt; Press \u2192 AI recommendation \u2192 customers\n\nI'm building an AI that makes it dead simple to get press coverage.\n\nwaitlist open:\nhttps://t.co/TzzFbsO6un",
+      "likeCount": 9,
+      "retweetCount": 1,
+      "replyCount": 0
+    }
+  ]
+}

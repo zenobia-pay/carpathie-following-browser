@@ -1,0 +1,10 @@
+{
+  "username": "wilsonzlin",
+  "name": "Wilson Lin",
+  "bio": "Using Cursor at @cursor_ai",
+  "followersCount": 4878,
+  "followingCount": 1,
+  "profileUrl": "https://x.com/wilsonzlin",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'wilsonzlin', '-n', '10', '--json']' returned non-zero exit status 1."
+}

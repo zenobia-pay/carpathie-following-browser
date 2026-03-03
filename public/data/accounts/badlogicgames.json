@@ -1,0 +1,100 @@
+{
+  "username": "badlogicgames",
+  "name": "Mario Zechner",
+  "bio": "Old man yelling at Claudes. The fucking bluecheck is temporary...\n\nhttps://t.co/mnOoWUqt4g\n\nhttps://t.co/8i5vIRDt6P",
+  "followersCount": 27670,
+  "followingCount": 1186,
+  "profileUrl": "https://x.com/badlogicgames",
+  "tweets": [
+    {
+      "id": "2028955580660871661",
+      "url": "https://x.com/badlogicgames/status/2028955580660871661",
+      "createdAt": "Tue Mar 03 22:08:01 +0000 2026",
+      "text": "Resharing this ML Street Talk episode with @jeremyphoward again, because I think you should watch it. So many grounded thoughts cutting through the hype and breathlessness.\n\nAlso discusses juniors in the age of agentic coding.\n\nhttps://t.co/RCqANPOVZ5",
+      "likeCount": 14,
+      "retweetCount": 1,
+      "replyCount": 1
+    },
+    {
+      "id": "2028957171371712614",
+      "url": "https://x.com/badlogicgames/status/2028957171371712614",
+      "createdAt": "Tue Mar 03 22:14:20 +0000 2026",
+      "text": "@jeremyphoward i think how we help juniors to grow in this new environment will be one of the biggest questions to solve in software engineering. i think in a broader sense, we'll also need to solve this in education in general.\n\nwhich is harder, because education is slow to react and change.",
+      "likeCount": 3,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028962548238692584",
+      "url": "https://x.com/badlogicgames/status/2028962548238692584",
+      "createdAt": "Tue Mar 03 22:35:42 +0000 2026",
+      "text": "@jeremyphoward overall just love his thoughts on human/machine relation. just ... healthy, for a lack of a better word.",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028946984447492223",
+      "url": "https://x.com/badlogicgames/status/2028946984447492223",
+      "createdAt": "Tue Mar 03 21:33:51 +0000 2026",
+      "text": "RT @sophiamyang: Hiring hiring hiring! \n\nWe @MistralAI are hiring developer advocates on my team. Join us! https://t.co/J8Vd8Ithb6",
+      "likeCount": 0,
+      "retweetCount": 43,
+      "replyCount": 0
+    },
+    {
+      "id": "2028945452935119222",
+      "url": "https://x.com/badlogicgames/status/2028945452935119222",
+      "createdAt": "Tue Mar 03 21:27:46 +0000 2026",
+      "text": "seconded.  @jeremyphoward is a true gem. always worth listening to.",
+      "likeCount": 5,
+      "retweetCount": 0,
+      "replyCount": 3
+    },
+    {
+      "id": "2028945275566408115",
+      "url": "https://x.com/badlogicgames/status/2028945275566408115",
+      "createdAt": "Tue Mar 03 21:27:04 +0000 2026",
+      "text": "RT @ferologics: great ep @MLStreetTalk \ud83d\udd25\n\nhttps://t.co/xbdLAASuUj",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028944687432647059",
+      "url": "https://x.com/badlogicgames/status/2028944687432647059",
+      "createdAt": "Tue Mar 03 21:24:44 +0000 2026",
+      "text": "RT @matteocollina: Every Node.js developer has lost a background job to a server restart.\n\nWe just open-sourced @platformatic/job-queue, a\u2026",
+      "likeCount": 0,
+      "retweetCount": 38,
+      "replyCount": 0
+    },
+    {
+      "id": "2028943965173494124",
+      "url": "https://x.com/badlogicgames/status/2028943965173494124",
+      "createdAt": "Tue Mar 03 21:21:51 +0000 2026",
+      "text": "RT @sqs: Built with Amp\u2019s new plugin API: https://t.co/wkpV1V59lw",
+      "likeCount": 0,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2028943921842172414",
+      "url": "https://x.com/badlogicgames/status/2028943921842172414",
+      "createdAt": "Tue Mar 03 21:21:41 +0000 2026",
+      "text": "RT @raysan5: It's been 5 days since 0 Issues/PRs. I took 2 days off... kind of... During that time I closed 4 new Issues and 13 new PRs. At\u2026",
+      "likeCount": 0,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2028943239416258565",
+      "url": "https://x.com/badlogicgames/status/2028943239416258565",
+      "createdAt": "Tue Mar 03 21:18:58 +0000 2026",
+      "text": "neat idea! i do worry that it will filter by seniority a lot, so newcomers have a harder time. i also would not like these kinds of scoreboards to be posted on an issue. feels kinda mean. bit it could be one of many signals to make triage easier.",
+      "likeCount": 15,
+      "retweetCount": 0,
+      "replyCount": 3
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "username": "america",
+  "name": "America",
+  "bio": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+  "followersCount": 1194396,
+  "followingCount": 1,
+  "profileUrl": "https://x.com/america",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'america', '-n', '10', '--json']' returned non-zero exit status 1."
+}

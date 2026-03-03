@@ -1,0 +1,10 @@
+{
+  "username": "S1r1u5_",
+  "name": "s1r1us (mohan)",
+  "bio": "aham nitya\u1e43 \u015bi\u1e63ya\u1e25, jagat mama guru\u1e25. {~hacker~} {founder @ElectrovoltSec, @HacktronAI}",
+  "followersCount": 12130,
+  "followingCount": 2227,
+  "profileUrl": "https://x.com/S1r1u5_",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'S1r1u5_', '-n', '10', '--json']' returned non-zero exit status 1."
+}

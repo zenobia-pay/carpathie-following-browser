@@ -1,0 +1,100 @@
+{
+  "username": "ericjang11",
+  "name": "Eric Jang",
+  "bio": "",
+  "followersCount": 119102,
+  "followingCount": 3877,
+  "profileUrl": "https://x.com/ericjang11",
+  "tweets": [
+    {
+      "id": "2027242181623173349",
+      "url": "https://x.com/ericjang11/status/2027242181623173349",
+      "createdAt": "Fri Feb 27 04:39:35 +0000 2026",
+      "text": "I\u2019m currently in China for all of March learning about the robotics ecosystem (the full stack). I\u2019ll also be taking a short detour to Seoul from Mar 13-16. If you are working on something cool and would like to meet, please DM me. Researchers at universities and companies both welcome!",
+      "likeCount": 276,
+      "retweetCount": 4,
+      "replyCount": 18
+    },
+    {
+      "id": "2027159589679182171",
+      "url": "https://x.com/ericjang11/status/2027159589679182171",
+      "createdAt": "Thu Feb 26 23:11:23 +0000 2026",
+      "text": "huge kudos",
+      "likeCount": 204,
+      "retweetCount": 5,
+      "replyCount": 3
+    },
+    {
+      "id": "2026957113902149987",
+      "url": "https://x.com/ericjang11/status/2026957113902149987",
+      "createdAt": "Thu Feb 26 09:46:49 +0000 2026",
+      "text": "Elite ball knowledge as the kids say",
+      "likeCount": 24,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2026863855314604333",
+      "url": "https://x.com/ericjang11/status/2026863855314604333",
+      "createdAt": "Thu Feb 26 03:36:15 +0000 2026",
+      "text": "I find it simply incredible that the USA is constructing so many data centers. A nation of computronium. This is such a long-term good investment.\nfrom https://t.co/3mFr7vyPuL https://t.co/i9qffFDiv8",
+      "likeCount": 84,
+      "retweetCount": 5,
+      "replyCount": 5
+    },
+    {
+      "id": "2026484872265740294",
+      "url": "https://x.com/ericjang11/status/2026484872265740294",
+      "createdAt": "Wed Feb 25 02:30:18 +0000 2026",
+      "text": "Have taken an interest in passive dynamics lately. Built @RussTedrake's passive walker in Mujoco for fun. \n\nClaude &amp; Gemini are surprisingly bad at writing and handling Mujoco XML, I had to do a lot of it by hand.\nhttps://t.co/bS7WZChzY8 https://t.co/7bjvbQr2fW",
+      "likeCount": 195,
+      "retweetCount": 10,
+      "replyCount": 13
+    },
+    {
+      "id": "2025652387994796061",
+      "url": "https://x.com/ericjang11/status/2025652387994796061",
+      "createdAt": "Sun Feb 22 19:22:18 +0000 2026",
+      "text": "RT @voooooogel: @kromem2dot0 opus likes the idea https://t.co/bASeaZGnLS",
+      "likeCount": 0,
+      "retweetCount": 15,
+      "replyCount": 0
+    },
+    {
+      "id": "2024701148465418326",
+      "url": "https://x.com/ericjang11/status/2024701148465418326",
+      "createdAt": "Fri Feb 20 04:22:25 +0000 2026",
+      "text": "Google is currently missing an opportunity to have \"Review with Gemini\" for legal documents in Gmail. In fact, I don't think I can open any email attachments easily in Gemini at all. Use the distribution advantage! https://t.co/ZReDx8fODz",
+      "likeCount": 46,
+      "retweetCount": 1,
+      "replyCount": 3
+    },
+    {
+      "id": "2024703619296350320",
+      "url": "https://x.com/ericjang11/status/2024703619296350320",
+      "createdAt": "Fri Feb 20 04:32:14 +0000 2026",
+      "text": "ah, maybe it is supported for Rivermind Pro users https://t.co/1gpGmGQPpn",
+      "likeCount": 9,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2024702438796906796",
+      "url": "https://x.com/ericjang11/status/2024702438796906796",
+      "createdAt": "Fri Feb 20 04:27:33 +0000 2026",
+      "text": "RT @DimitrisPapail: https://t.co/V7BSUMCcQB",
+      "likeCount": 0,
+      "retweetCount": 194,
+      "replyCount": 0
+    },
+    {
+      "id": "2024592117876863208",
+      "url": "https://x.com/ericjang11/status/2024592117876863208",
+      "createdAt": "Thu Feb 19 21:09:10 +0000 2026",
+      "text": "A banger of an essay. Very relevant for this time of my life https://t.co/mtnkVDIimf",
+      "likeCount": 141,
+      "retweetCount": 4,
+      "replyCount": 3
+    }
+  ]
+}

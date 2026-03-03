@@ -1,0 +1,10 @@
+{
+  "username": "glangley",
+  "name": "Garrett Langley",
+  "bio": "Safety is a fundamental right. Founder & CEO of @flock_safety.",
+  "followersCount": 2573,
+  "followingCount": 797,
+  "profileUrl": "https://x.com/glangley",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'glangley', '-n', '10', '--json']' returned non-zero exit status 1."
+}

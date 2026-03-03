@@ -1,0 +1,10 @@
+{
+  "username": "nathanrs",
+  "name": "Nathan Barry",
+  "bio": "Man in the Arena Allocator. Prev @Apple, CS + Math @UTAustin, @zfellows",
+  "followersCount": 2848,
+  "followingCount": 334,
+  "profileUrl": "https://x.com/nathanrs",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'nathanrs', '-n', '10', '--json']' returned non-zero exit status 1."
+}

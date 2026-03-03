@@ -1,0 +1,10 @@
+{
+  "username": "IvanVendrov",
+  "name": "ivan",
+  "bio": "solve cooperation, use it solve everything else. ex midjourney, anthropic, google\n\nhttps://t.co/5w7LaGnW6l",
+  "followersCount": 9899,
+  "followingCount": 1033,
+  "profileUrl": "https://x.com/IvanVendrov",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'IvanVendrov', '-n', '10', '--json']' returned non-zero exit status 1."
+}

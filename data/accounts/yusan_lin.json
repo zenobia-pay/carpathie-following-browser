@@ -1,0 +1,10 @@
+{
+  "username": "yusan_lin",
+  "name": "Yusan Lin",
+  "bio": "Founder & CEO @mirrormirror_ai | Fashion & AI | Computer Science Ph.D. | Model @MDTagencyinc",
+  "followersCount": 9330,
+  "followingCount": 428,
+  "profileUrl": "https://x.com/yusan_lin",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'yusan_lin', '-n', '10', '--json']' returned non-zero exit status 1."
+}

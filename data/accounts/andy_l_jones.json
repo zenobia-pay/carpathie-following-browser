@@ -1,0 +1,10 @@
+{
+  "username": "andy_l_jones",
+  "name": "andy jones",
+  "bio": "engineering & research at anthropic.\n\ni don't check twitter DMs. email me!",
+  "followersCount": 15391,
+  "followingCount": 351,
+  "profileUrl": "https://x.com/andy_l_jones",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'andy_l_jones', '-n', '10', '--json']' returned non-zero exit status 1."
+}

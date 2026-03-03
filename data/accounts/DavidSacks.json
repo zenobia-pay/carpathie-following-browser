@@ -1,0 +1,10 @@
+{
+  "username": "DavidSacks",
+  "name": "David Sacks",
+  "bio": "Tech founder & investor. Personal views only. Official account: @davidsacks47",
+  "followersCount": 1456540,
+  "followingCount": 3465,
+  "profileUrl": "https://x.com/DavidSacks",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'DavidSacks', '-n', '10', '--json']' returned non-zero exit status 1."
+}

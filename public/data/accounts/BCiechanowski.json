@@ -1,0 +1,10 @@
+{
+  "username": "BCiechanowski",
+  "name": "Bartosz Ciechanowski",
+  "bio": "",
+  "followersCount": 21310,
+  "followingCount": 69,
+  "profileUrl": "https://x.com/BCiechanowski",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'BCiechanowski', '-n', '10', '--json']' returned non-zero exit status 1."
+}

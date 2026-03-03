@@ -1,0 +1,10 @@
+{
+  "username": "_mario_neo_",
+  "name": "Mario Sieg",
+  "bio": "ML | Game Engines | HPC | Art\nWhat i cannot create i do not understand ~ Richard Feynman |\nResearch Engineer @PrimeIntellect",
+  "followersCount": 2951,
+  "followingCount": 172,
+  "profileUrl": "https://x.com/_mario_neo_",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', '_mario_neo_', '-n', '10', '--json']' returned non-zero exit status 1."
+}

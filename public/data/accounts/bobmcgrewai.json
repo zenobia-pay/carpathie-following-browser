@@ -1,0 +1,10 @@
+{
+  "username": "bobmcgrewai",
+  "name": "Bob McGrew",
+  "bio": "Learning new things.\n\nFormer Chief Research Officer at OpenAI, early exec at Palantir, early employee at Paypal.",
+  "followersCount": 32380,
+  "followingCount": 1243,
+  "profileUrl": "https://x.com/bobmcgrewai",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'bobmcgrewai', '-n', '10', '--json']' returned non-zero exit status 1."
+}

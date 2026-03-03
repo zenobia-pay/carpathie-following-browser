@@ -1,0 +1,10 @@
+{
+  "username": "billpeeb",
+  "name": "Bill Peebles",
+  "bio": "head of sora @openai \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+  "followersCount": 43040,
+  "followingCount": 308,
+  "profileUrl": "https://x.com/billpeeb",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'billpeeb', '-n', '10', '--json']' returned non-zero exit status 1."
+}

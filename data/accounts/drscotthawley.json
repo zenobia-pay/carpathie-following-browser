@@ -1,0 +1,10 @@
+{
+  "username": "drscotthawley",
+  "name": "Scott H. Hawley",
+  "bio": "Professor of Physics & Senior Data Fellow @BelmontUniv, teaching Audio Engineers. Mostly: ML for music producers.",
+  "followersCount": 2876,
+  "followingCount": 1382,
+  "profileUrl": "https://x.com/drscotthawley",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'drscotthawley', '-n', '10', '--json']' returned non-zero exit status 1."
+}

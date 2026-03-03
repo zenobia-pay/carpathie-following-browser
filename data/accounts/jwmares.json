@@ -1,0 +1,10 @@
+{
+  "username": "jwmares",
+  "name": "Justin Mares",
+  "bio": "Founder @truemed, @kettleandfire, @drinksurely, others. Venture partner @LongJourneyVC. \n\nSign up for my newsletter on health and startups:",
+  "followersCount": 46695,
+  "followingCount": 771,
+  "profileUrl": "https://x.com/jwmares",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jwmares', '-n', '10', '--json']' returned non-zero exit status 1."
+}

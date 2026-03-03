@@ -1,0 +1,10 @@
+{
+  "username": "askalphaxiv",
+  "name": "alphaXiv",
+  "bio": "High fidelity research",
+  "followersCount": 33993,
+  "followingCount": 45,
+  "profileUrl": "https://x.com/askalphaxiv",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'askalphaxiv', '-n', '10', '--json']' returned non-zero exit status 1."
+}

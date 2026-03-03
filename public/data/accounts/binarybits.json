@@ -1,0 +1,10 @@
+{
+  "username": "binarybits",
+  "name": "Timothy B. Lee",
+  "bio": "Reporting on AI and the future of the economy. Computer science masters degree from Princeton. @arstechnica alum. Subscribe to my AI newsletter!",
+  "followersCount": 47402,
+  "followingCount": 1553,
+  "profileUrl": "https://x.com/binarybits",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'binarybits', '-n', '10', '--json']' returned non-zero exit status 1."
+}

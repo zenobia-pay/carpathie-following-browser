@@ -1,0 +1,10 @@
+{
+  "username": "nikitabier",
+  "name": "Nikita Bier",
+  "bio": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+  "followersCount": 853928,
+  "followingCount": 2023,
+  "profileUrl": "https://x.com/nikitabier",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'nikitabier', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "stuart_sul",
+  "name": "Stuart Sul",
+  "bio": "ml research @cursor_ai, cs @Stanford, mlsys @HazyResearch",
+  "followersCount": 3201,
+  "followingCount": 135,
+  "profileUrl": "https://x.com/stuart_sul",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'stuart_sul', '-n', '10', '--json']' returned non-zero exit status 1."
+}

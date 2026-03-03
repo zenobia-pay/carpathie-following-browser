@@ -1,0 +1,100 @@
+{
+  "username": "adocomplete",
+  "name": "Ado",
+  "bio": "Community, Claude, Code at @AnthropicAI",
+  "followersCount": 23623,
+  "followingCount": 1438,
+  "profileUrl": "https://x.com/adocomplete",
+  "tweets": [
+    {
+      "id": "2028876492063805451",
+      "url": "https://x.com/adocomplete/status/2028876492063805451",
+      "createdAt": "Tue Mar 03 16:53:45 +0000 2026",
+      "text": "14\" MacBook Pro is seriously the best form factor. \n\nAnd now that it has the exact same specs as the 16\", it's a total no brainer.",
+      "likeCount": 80,
+      "retweetCount": 0,
+      "replyCount": 11
+    },
+    {
+      "id": "2028705835040583846",
+      "url": "https://x.com/adocomplete/status/2028705835040583846",
+      "createdAt": "Tue Mar 03 05:35:37 +0000 2026",
+      "text": "Love seeing OSS maintainers getting their Claude Max emails. We\u2019re just getting started y\u2019all!",
+      "likeCount": 183,
+      "retweetCount": 3,
+      "replyCount": 21
+    },
+    {
+      "id": "2028548665472938343",
+      "url": "https://x.com/adocomplete/status/2028548665472938343",
+      "createdAt": "Mon Mar 02 19:11:05 +0000 2026",
+      "text": "The amount of DM's and personal outreach I've received over the weekend showing support and love has been overwhelming. Thank you all. \ud83e\udde1\n\nThe Claude community is seriously the best. If you're new, welcome, if you've been with us for some time, keep thinking!",
+      "likeCount": 417,
+      "retweetCount": 18,
+      "replyCount": 25
+    },
+    {
+      "id": "2028181261592993859",
+      "url": "https://x.com/adocomplete/status/2028181261592993859",
+      "createdAt": "Sun Mar 01 18:51:09 +0000 2026",
+      "text": "Broke up with ChatGPT but want to keep the memories? We gotchu!\n\nClaude can import what matters to you so you don't feel like you're starting over. And I think you'll like it more here \ud83d\ude09 https://t.co/aY7SKT3uWt",
+      "likeCount": 793,
+      "retweetCount": 74,
+      "replyCount": 63
+    },
+    {
+      "id": "2028181263350480994",
+      "url": "https://x.com/adocomplete/status/2028181263350480994",
+      "createdAt": "Sun Mar 01 18:51:09 +0000 2026",
+      "text": "Check it out: https://t.co/nBzbjQI7wG",
+      "likeCount": 32,
+      "retweetCount": 1,
+      "replyCount": 4
+    },
+    {
+      "id": "2027884355952218578",
+      "url": "https://x.com/adocomplete/status/2027884355952218578",
+      "createdAt": "Sat Feb 28 23:11:21 +0000 2026",
+      "text": "\ud83e\udd47",
+      "likeCount": 282,
+      "retweetCount": 7,
+      "replyCount": 3
+    },
+    {
+      "id": "2027829793916362873",
+      "url": "https://x.com/adocomplete/status/2027829793916362873",
+      "createdAt": "Sat Feb 28 19:34:32 +0000 2026",
+      "text": "RT @_catwu: /remote-control is now available to all Pro users!",
+      "likeCount": 0,
+      "retweetCount": 127,
+      "replyCount": 0
+    },
+    {
+      "id": "2027824711351034157",
+      "url": "https://x.com/adocomplete/status/2027824711351034157",
+      "createdAt": "Sat Feb 28 19:14:21 +0000 2026",
+      "text": "RT @joshpuckett: Amodei flag https://t.co/B28l4FZ5Ut",
+      "likeCount": 0,
+      "retweetCount": 76,
+      "replyCount": 0
+    },
+    {
+      "id": "2027812804179444209",
+      "url": "https://x.com/adocomplete/status/2027812804179444209",
+      "createdAt": "Sat Feb 28 18:27:02 +0000 2026",
+      "text": "28 Days of Claude API - Day 28 - The Agent SDK\n\nThe raw API gives you Claude. The Agent SDK gives you Claude with hands.\n\nFile access. Bash. Web search. Subagents. Sessions. MCP. All built in. You define the task and the boundaries and Claude handles the rest.",
+      "likeCount": 49,
+      "retweetCount": 4,
+      "replyCount": 11
+    },
+    {
+      "id": "2027812805865574486",
+      "url": "https://x.com/adocomplete/status/2027812805865574486",
+      "createdAt": "Sat Feb 28 18:27:02 +0000 2026",
+      "text": "The difference between API and Agent SDK:\n\nRaw API \u2192 precise control over every tool call, every turn, custom orchestration. \n\nAgent SDK \u2192 you set the task and the boundaries, Claude handles execution. \n\nPick based on how much you want to drive.",
+      "likeCount": 9,
+      "retweetCount": 1,
+      "replyCount": 3
+    }
+  ]
+}

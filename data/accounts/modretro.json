@@ -1,0 +1,10 @@
+{
+  "username": "modretro",
+  "name": "ModRetro",
+  "bio": "M64 is coming. Join the waitlist: https://t.co/FqEmGHH5CK",
+  "followersCount": 25759,
+  "followingCount": 64,
+  "profileUrl": "https://x.com/modretro",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'modretro', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "TheBabylonBee",
+  "name": "The Babylon Bee",
+  "bio": "Fake news you can trust \ud83d\udc1d",
+  "followersCount": 5206412,
+  "followingCount": 10,
+  "profileUrl": "https://x.com/TheBabylonBee",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'TheBabylonBee', '-n', '10', '--json']' returned non-zero exit status 1."
+}

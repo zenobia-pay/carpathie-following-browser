@@ -1,0 +1,10 @@
+{
+  "username": "deanwball",
+  "name": "Dean W. Ball",
+  "bio": "\u201cTo some it is philosophical struggle, to me it is allegro con brio\u201d",
+  "followersCount": 34327,
+  "followingCount": 1694,
+  "profileUrl": "https://x.com/deanwball",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'deanwball', '-n', '10', '--json']' returned non-zero exit status 1."
+}

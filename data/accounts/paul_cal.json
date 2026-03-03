@@ -1,0 +1,10 @@
+{
+  "username": "paul_cal",
+  "name": "Paul Calcraft",
+  "bio": "AI is good & bad, actually.\n\nTweeting about AI/ML methods, software dev, research, tech and society, social impact.\n\n20yrs in tech, 10 in ML/AI, PhD in comp sci",
+  "followersCount": 6185,
+  "followingCount": 4880,
+  "profileUrl": "https://x.com/paul_cal",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'paul_cal', '-n', '10', '--json']' returned non-zero exit status 1."
+}

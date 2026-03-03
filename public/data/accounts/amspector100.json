@@ -1,0 +1,10 @@
+{
+  "username": "amspector100",
+  "name": "Asher Spector",
+  "bio": "@Stanford stats phd. Formerly @harvard '21.",
+  "followersCount": 7071,
+  "followingCount": 303,
+  "profileUrl": "https://x.com/amspector100",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'amspector100', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "BrendanEich",
+  "name": "BrendanEich",
+  "bio": "Co-founder & CEO @Brave Software (https://t.co/NV4bmd6vxq) and @attentiontoken (https://t.co/XhGIrdBJWu). Co-founded Mozilla & Firefox. Created JavaScript.",
+  "followersCount": 204363,
+  "followingCount": 1787,
+  "profileUrl": "https://x.com/BrendanEich",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'BrendanEich', '-n', '10', '--json']' returned non-zero exit status 1."
+}

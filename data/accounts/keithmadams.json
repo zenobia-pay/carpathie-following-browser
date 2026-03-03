@@ -1,0 +1,10 @@
+{
+  "username": "keithmadams",
+  "name": "Keith Adams // Pebblebed",
+  "bio": "Investing @pebble_bed. Started @HipHopVM and @AIatMeta (nee FAIR). Ex-Chief Architect @SlackHQ. OH: \"Unc, but chopped.\"\n\nBuilding @pebble_bed \ud83e\udde0 \ud83e\udec0",
+  "followersCount": 3235,
+  "followingCount": 843,
+  "profileUrl": "https://x.com/keithmadams",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'keithmadams', '-n', '10', '--json']' returned non-zero exit status 1."
+}

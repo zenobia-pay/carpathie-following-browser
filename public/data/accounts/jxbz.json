@@ -1,0 +1,10 @@
+{
+  "username": "jxbz",
+  "name": "Jeremy Bernstein",
+  "bio": "\ud83e\uddea @thinkymachines \u270d\ufe0f anon feedback @ https://t.co/RIhBhjMRdD",
+  "followersCount": 7460,
+  "followingCount": 645,
+  "profileUrl": "https://x.com/jxbz",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jxbz', '-n', '10', '--json']' returned non-zero exit status 1."
+}

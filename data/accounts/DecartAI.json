@@ -1,0 +1,10 @@
+{
+  "username": "DecartAI",
+  "name": "Decart",
+  "bio": "The first real-time AI video models in history, turning video, games, and streams into dynamic, interactive experiences.",
+  "followersCount": 20240,
+  "followingCount": 2,
+  "profileUrl": "https://x.com/DecartAI",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'DecartAI', '-n', '10', '--json']' returned non-zero exit status 1."
+}

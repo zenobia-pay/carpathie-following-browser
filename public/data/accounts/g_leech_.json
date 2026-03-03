@@ -1,0 +1,10 @@
+{
+  "username": "g_leech_",
+  "name": "gavin leech (Non-Reasoning)",
+  "bio": "context maximiser @ArbResearch",
+  "followersCount": 10071,
+  "followingCount": 601,
+  "profileUrl": "https://x.com/g_leech_",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'g_leech_', '-n', '10', '--json']' returned non-zero exit status 1."
+}

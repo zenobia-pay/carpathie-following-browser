@@ -1,0 +1,10 @@
+{
+  "username": "dwarkesh_sp",
+  "name": "Dwarkesh Patel",
+  "bio": "Host of @dwarkeshpodcast\n\nhttps://t.co/3SXlu7fy6N\nhttps://t.co/4DPAxODFYi\nhttps://t.co/hQfIWdM1Un",
+  "followersCount": 193544,
+  "followingCount": 1000,
+  "profileUrl": "https://x.com/dwarkesh_sp",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'dwarkesh_sp', '-n', '10', '--json']' returned non-zero exit status 1."
+}

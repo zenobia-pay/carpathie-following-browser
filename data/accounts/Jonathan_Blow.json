@@ -1,0 +1,10 @@
+{
+  "username": "Jonathan_Blow",
+  "name": "Jonathan Blow",
+  "bio": "Designer/Programmer: Order of the Sinking Star, The Witness, Braid, \u201cJai\u201d Programming Language. Wishlist the Future: https://t.co/suyQEkUAlp",
+  "followersCount": 151487,
+  "followingCount": 296,
+  "profileUrl": "https://x.com/Jonathan_Blow",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'Jonathan_Blow', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "LakerNewhouse",
+  "name": "Laker Newhouse",
+  "bio": "MIT '25 researching Muon & ML",
+  "followersCount": 843,
+  "followingCount": 17,
+  "profileUrl": "https://x.com/LakerNewhouse",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'LakerNewhouse', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "TimSweeneyEpic",
+  "name": "Tim Sweeney",
+  "bio": "Epic Games founder and CEO",
+  "followersCount": 324137,
+  "followingCount": 908,
+  "profileUrl": "https://x.com/TimSweeneyEpic",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'TimSweeneyEpic', '-n', '10', '--json']' returned non-zero exit status 1."
+}

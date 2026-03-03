@@ -1,0 +1,10 @@
+{
+  "username": "mikemorhaime",
+  "name": "Mike Morhaime",
+  "bio": "Co-founder and CEO, Dreamhaven, Co-founder and former-CEO, Blizzard Entertainment",
+  "followersCount": 102019,
+  "followingCount": 372,
+  "profileUrl": "https://x.com/mikemorhaime",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'mikemorhaime', '-n', '10', '--json']' returned non-zero exit status 1."
+}

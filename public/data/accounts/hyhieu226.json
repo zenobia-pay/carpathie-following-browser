@@ -1,0 +1,10 @@
+{
+  "username": "hyhieu226",
+  "name": "Hieu Pham",
+  "bio": "Something new \ud83c\uddfb\ud83c\uddf3 | ex: @openai, @xai, @augmentcode, @GoogleBrain, @LTIatCMU, @Stanford, ACM ICPC, IMO\ud83e\udd48\n\nOpinions are my own.",
+  "followersCount": 45772,
+  "followingCount": 23,
+  "profileUrl": "https://x.com/hyhieu226",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'hyhieu226', '-n', '10', '--json']' returned non-zero exit status 1."
+}

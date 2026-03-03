@@ -1,0 +1,10 @@
+{
+  "username": "dhh",
+  "name": "DHH",
+  "bio": "Father of three, Creator of Ruby on Rails + Omarchy, Co-owner & CTO of 37signals, Shopify director, NYT best-selling author, and Le Mans 24h class-winner.",
+  "followersCount": 604621,
+  "followingCount": 174,
+  "profileUrl": "https://x.com/dhh",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'dhh', '-n', '10', '--json']' returned non-zero exit status 1."
+}

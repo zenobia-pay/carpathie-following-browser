@@ -1,0 +1,100 @@
+{
+  "username": "mitchellh",
+  "name": "Mitchell Hashimoto",
+  "bio": "Working on a new terminal: Ghostty. \ud83d\udc7b Prev: founded @HashiCorp. Created Vagrant, Terraform, Vault, and others. Vision Jet Pilot. \ud83d\udc68\u200d\u2708\ufe0f",
+  "followersCount": 167129,
+  "followingCount": 143,
+  "profileUrl": "https://x.com/mitchellh",
+  "tweets": [
+    {
+      "id": "2028885877649543300",
+      "url": "https://x.com/mitchellh/status/2028885877649543300",
+      "createdAt": "Tue Mar 03 17:31:02 +0000 2026",
+      "text": "Beautiful views of the California central coast while in a climbing turn, plus a view of the airport I just departed from at the end. https://t.co/4Giaqu8yGY",
+      "likeCount": 281,
+      "retweetCount": 1,
+      "replyCount": 13
+    },
+    {
+      "id": "2028238263170023469",
+      "url": "https://x.com/mitchellh/status/2028238263170023469",
+      "createdAt": "Sun Mar 01 22:37:39 +0000 2026",
+      "text": "I'll write more about this later, but I've spent the past few days hooking up libghostty with AFL++ and fuzzing various parts of it and agents make the full path of fuzz =&gt; verify with test case =&gt; minimize =&gt; fix VERY efficient and enjoyable.",
+      "likeCount": 283,
+      "retweetCount": 2,
+      "replyCount": 10
+    },
+    {
+      "id": "2027877210456265146",
+      "url": "https://x.com/mitchellh/status/2027877210456265146",
+      "createdAt": "Sat Feb 28 22:42:57 +0000 2026",
+      "text": "Love to see it! Prediction: within a couple years the terminal GUI will no longer be the primary interface to agents, but there's going to be a hell of a lot of libghostty because agents are going to be increasingly talking to CLIs on the back side for a good long while.",
+      "likeCount": 645,
+      "retweetCount": 25,
+      "replyCount": 37
+    },
+    {
+      "id": "2027061576021541312",
+      "url": "https://x.com/mitchellh/status/2027061576021541312",
+      "createdAt": "Thu Feb 26 16:41:55 +0000 2026",
+      "text": "My family has donated $200,000 to @osendowment which launches today. Open source underpins critical infrastructure globally, and we need to pursue as many ways to sustainably fund it as possible; a single funding model doesn't cover all cases. https://t.co/BO9RwEBAA0",
+      "likeCount": 771,
+      "retweetCount": 57,
+      "replyCount": 14
+    },
+    {
+      "id": "2026769677280841938",
+      "url": "https://x.com/mitchellh/status/2026769677280841938",
+      "createdAt": "Wed Feb 25 21:22:01 +0000 2026",
+      "text": "During one of the macOS updates (26.2?), Apple somehow introduced an ObjC exception that sometimes triggers when a new tab is created while in the tab overview. Swift CANNOT CATCH ObjC exceptions. Instant crash. This affected Ghostty as well as Electron (unrelated project).\n\nThe fix is equally crazy: write an ObjC wrapper around the crashy-function, catch it, and basically retry periodically. This is 100% an Apple bug, but the way it manifests and the fix required to workaround it is pretty gnarly.\n\nCredit to everyone but me, I didn't do any research here, I only read the good work by others on this one (all visible in the refs).\n\nRef: https://t.co/SfkQLc4bby\nRef: https://t.co/yGBm3kE7hz",
+      "likeCount": 416,
+      "retweetCount": 7,
+      "replyCount": 17
+    },
+    {
+      "id": "2026669906893369760",
+      "url": "https://x.com/mitchellh/status/2026669906893369760",
+      "createdAt": "Wed Feb 25 14:45:34 +0000 2026",
+      "text": "I know this is pretty well established at this point, but Codex 5.3 is a much more effective model than Opus 4.6. I went back and forth on both for a bit, but haven\u2019t touched Opus at all now for a full week. First model to get me off of Opus\u2026 ever. Good job Codex team.",
+      "likeCount": 5281,
+      "retweetCount": 219,
+      "replyCount": 339
+    },
+    {
+      "id": "2026024733305905294",
+      "url": "https://x.com/mitchellh/status/2026024733305905294",
+      "createdAt": "Mon Feb 23 20:01:52 +0000 2026",
+      "text": "New pfp for the Ghostty vouch bot. lol. https://t.co/yRL6o0BWig",
+      "likeCount": 246,
+      "retweetCount": 1,
+      "replyCount": 9
+    },
+    {
+      "id": "2026004434829082966",
+      "url": "https://x.com/mitchellh/status/2026004434829082966",
+      "createdAt": "Mon Feb 23 18:41:13 +0000 2026",
+      "text": "To challenge bad AI drivers, I have to ask questions to the slopster like \"explain to me what you did wrong.\" I don't like being vague, but if I'm too specific they just ask their AI. Inability to critically analyze and formulate their own mistakes is an instant unvouch. \ud83d\udc4b\n\nMakes me feel like my own dad though. I used to hate being in trouble without knowing why I was in trouble and being told \"think about it and come back to me when you figure it out.\" But, I understand him more and more every day.",
+      "likeCount": 489,
+      "retweetCount": 14,
+      "replyCount": 16
+    },
+    {
+      "id": "2025601387258941743",
+      "url": "https://x.com/mitchellh/status/2025601387258941743",
+      "createdAt": "Sun Feb 22 15:59:39 +0000 2026",
+      "text": "Thanks to a contrib, libghostty now builds for Android (just required build system changes). I suspect we\u2019ll see some Android libghostty-based terminals soon. I\u2019m not an Android user but it seems like the terminal options there are not great based on what others have told me.",
+      "likeCount": 378,
+      "retweetCount": 6,
+      "replyCount": 21
+    },
+    {
+      "id": "2025350212014014564",
+      "url": "https://x.com/mitchellh/status/2025350212014014564",
+      "createdAt": "Sat Feb 21 23:21:34 +0000 2026",
+      "text": "I think one of the funniest things is how frontier labs spout how AI is writing their code, but the reality is that the products they ship are buggy, resource hungry messes. It's kind of the worst advertisement ever for both their products and their worldview.",
+      "likeCount": 3115,
+      "retweetCount": 191,
+      "replyCount": 100
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "username": "dottxtai",
+  "name": ".txt",
+  "bio": "Making AI Software",
+  "followersCount": 6040,
+  "followingCount": 37,
+  "profileUrl": "https://x.com/dottxtai",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'dottxtai', '-n', '10', '--json']' returned non-zero exit status 1."
+}

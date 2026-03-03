@@ -1,0 +1,10 @@
+{
+  "username": "miramurati",
+  "name": "Mira Murati",
+  "bio": "Now building @thinkymachines. Previously CTO @OpenAI",
+  "followersCount": 429895,
+  "followingCount": 600,
+  "profileUrl": "https://x.com/miramurati",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'miramurati', '-n', '10', '--json']' returned non-zero exit status 1."
+}

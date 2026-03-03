@@ -1,0 +1,10 @@
+{
+  "username": "leerob",
+  "name": "Lee Robinson",
+  "bio": "Teaching developers @cursor_ai, previously @vercel",
+  "followersCount": 226659,
+  "followingCount": 760,
+  "profileUrl": "https://x.com/leerob",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'leerob', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "Lewis_Bollard",
+  "name": "Lewis Bollard",
+  "bio": "Farm Animal Welfare Managing Director @coeff_giving. Views are my own. For more, sign up to my newsletter: https://t.co/cHPlzdQdFJ",
+  "followersCount": 10312,
+  "followingCount": 940,
+  "profileUrl": "https://x.com/Lewis_Bollard",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'Lewis_Bollard', '-n', '10', '--json']' returned non-zero exit status 1."
+}

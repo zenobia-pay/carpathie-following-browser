@@ -1,0 +1,10 @@
+{
+  "username": "_brianpotter",
+  "name": "Brian Potter",
+  "bio": "Writes Construction Physics. Senior infrastructure fellow at @IFP",
+  "followersCount": 17651,
+  "followingCount": 255,
+  "profileUrl": "https://x.com/_brianpotter",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', '_brianpotter', '-n', '10', '--json']' returned non-zero exit status 1."
+}

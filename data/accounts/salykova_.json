@@ -1,0 +1,10 @@
+{
+  "username": "salykova_",
+  "name": "Aman Salykov",
+  "bio": "AI/ML Systems Perf. @AMD",
+  "followersCount": 2543,
+  "followingCount": 69,
+  "profileUrl": "https://x.com/salykova_",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'salykova_', '-n', '10', '--json']' returned non-zero exit status 1."
+}

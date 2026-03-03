@@ -1,0 +1,10 @@
+{
+  "username": "ashleevance",
+  "name": "Ashlee Vance",
+  "bio": "Writing at https://t.co/m6EtO60SiY and host of the Core Memory podcast. 2X NYT best-seller. Filmmaker @HBO (Wild, Wild Space) + @Netflix (Don't Die).",
+  "followersCount": 188097,
+  "followingCount": 3991,
+  "profileUrl": "https://x.com/ashleevance",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ashleevance', '-n', '10', '--json']' returned non-zero exit status 1."
+}

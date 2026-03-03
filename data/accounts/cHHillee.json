@@ -1,0 +1,100 @@
+{
+  "username": "cHHillee",
+  "name": "Horace He",
+  "bio": "@thinkymachines Formerly @PyTorch \"My learning style is Horace twitter threads\" - @typedfemale",
+  "followersCount": 45743,
+  "followingCount": 555,
+  "profileUrl": "https://x.com/cHHillee",
+  "tweets": [
+    {
+      "id": "2024421490553475186",
+      "url": "https://x.com/cHHillee/status/2024421490553475186",
+      "createdAt": "Thu Feb 19 09:51:09 +0000 2026",
+      "text": "There's been a remarkable number of cool projects ranging from research to fun little projects done with tinker. It's been pretty gratifying to see :)",
+      "likeCount": 101,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2017102599531737399",
+      "url": "https://x.com/cHHillee/status/2017102599531737399",
+      "createdAt": "Fri Jan 30 05:08:30 +0000 2026",
+      "text": "Tag a friend! https://t.co/fSPeJ8DJ3Z",
+      "likeCount": 561,
+      "retweetCount": 24,
+      "replyCount": 13
+    },
+    {
+      "id": "2017106466663207291",
+      "url": "https://x.com/cHHillee/status/2017106466663207291",
+      "createdAt": "Fri Jan 30 05:23:52 +0000 2026",
+      "text": "I considered not tweeting this out out of fear of reducing my ability to find good candidates :^)",
+      "likeCount": 69,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2012628642854252697",
+      "url": "https://x.com/cHHillee/status/2012628642854252697",
+      "createdAt": "Sat Jan 17 20:50:35 +0000 2026",
+      "text": "RT @YifeiZhou02: Belated life update:\n\nI started my next chapter at Thinking Machines Lab this week, and it\u2019s been an incredible experience\u2026",
+      "likeCount": 0,
+      "retweetCount": 12,
+      "replyCount": 0
+    },
+    {
+      "id": "2002292457111994817",
+      "url": "https://x.com/cHHillee/status/2002292457111994817",
+      "createdAt": "Sat Dec 20 08:18:17 +0000 2025",
+      "text": "A: \"Nvidia has been known to do some funky numerical things. You know that time when the result looked like fp32 but they secretly accumulated in 22 bits? A lot of folks got mad at that one\"\nB: \"Oh you mean the tf32 dtype, which is actually secretly fp23?\"\nC: \"No, I'm talking about float8 accumulation on Hopper wgmma's, which were secretly done in fp22. The tf32 is a totally different case\"\n\nA conversation I had today",
+      "likeCount": 1206,
+      "retweetCount": 38,
+      "replyCount": 24
+    },
+    {
+      "id": "2000091700136693761",
+      "url": "https://x.com/cHHillee/status/2000091700136693761",
+      "createdAt": "Sun Dec 14 06:33:15 +0000 2025",
+      "text": "From a game of ML Infra jeopardy we played https://t.co/NFEWBtckos",
+      "likeCount": 387,
+      "retweetCount": 11,
+      "replyCount": 6
+    },
+    {
+      "id": "2000091831326093773",
+      "url": "https://x.com/cHHillee/status/2000091831326093773",
+      "createdAt": "Sun Dec 14 06:33:47 +0000 2025",
+      "text": "Unironically not a bad interview question.",
+      "likeCount": 75,
+      "retweetCount": 1,
+      "replyCount": 1
+    },
+    {
+      "id": "1997907555868356880",
+      "url": "https://x.com/cHHillee/status/1997907555868356880",
+      "createdAt": "Mon Dec 08 05:54:15 +0000 2025",
+      "text": "RT @ezyang: New blog: Learning to love mesh-oriented sharding https://t.co/2cmoPSs9vk",
+      "likeCount": 0,
+      "retweetCount": 30,
+      "replyCount": 0
+    },
+    {
+      "id": "1997742405962039367",
+      "url": "https://x.com/cHHillee/status/1997742405962039367",
+      "createdAt": "Sun Dec 07 18:58:00 +0000 2025",
+      "text": "I'm at the neurips workshops today! DM me if you wanna chat about life at Thinking Machines, Pytorch, or ML systems in general!",
+      "likeCount": 229,
+      "retweetCount": 6,
+      "replyCount": 4
+    },
+    {
+      "id": "1980695140022067290",
+      "url": "https://x.com/cHHillee/status/1980695140022067290",
+      "createdAt": "Tue Oct 21 17:58:15 +0000 2025",
+      "text": "I'll be at Triton conference on Tuesday, Pytorch Conference in the morning on Wednesday, and GPU mode hackathon on Friday. DM me if you want to chat!",
+      "likeCount": 261,
+      "retweetCount": 3,
+      "replyCount": 4
+    }
+  ]
+}

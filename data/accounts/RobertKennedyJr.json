@@ -1,0 +1,10 @@
+{
+  "username": "RobertKennedyJr",
+  "name": "Robert F. Kennedy Jr",
+  "bio": "Posts on this account are my personal views.",
+  "followersCount": 5793319,
+  "followingCount": 945,
+  "profileUrl": "https://x.com/RobertKennedyJr",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'RobertKennedyJr', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "ren_hongyu",
+  "name": "Hongyu Ren",
+  "bio": "research @meta superintelligence. CS PhD @stanford. prev @openai, led the development of o3-mini and o1-mini.",
+  "followersCount": 22317,
+  "followingCount": 694,
+  "profileUrl": "https://x.com/ren_hongyu",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ren_hongyu', '-n', '10', '--json']' returned non-zero exit status 1."
+}

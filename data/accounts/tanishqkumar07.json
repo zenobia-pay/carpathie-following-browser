@@ -1,0 +1,10 @@
+{
+  "username": "tanishqkumar07",
+  "name": "Tanishq Kumar",
+  "bio": "CS PhD student @StanfordAILab. prev math undergrad @Harvard",
+  "followersCount": 2429,
+  "followingCount": 77,
+  "profileUrl": "https://x.com/tanishqkumar07",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'tanishqkumar07', '-n', '10', '--json']' returned non-zero exit status 1."
+}

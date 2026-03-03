@@ -1,0 +1,1 @@
+export default { async fetch(request: Request){ return fetch(request); } };

@@ -1,0 +1,10 @@
+{
+  "username": "vincentweisser",
+  "name": "Vincent Weisser",
+  "bio": "@primeintellect ceo / open superintelligence & infra / automating ai & science",
+  "followersCount": 28040,
+  "followingCount": 5086,
+  "profileUrl": "https://x.com/vincentweisser",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'vincentweisser', '-n', '10', '--json']' returned non-zero exit status 1."
+}

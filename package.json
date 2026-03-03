@@ -1,0 +1,14 @@
+{
+  "name": "carpathie-following-browser",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "python3 scripts/scrape_following.py",
+    "build": "python3 scripts/build_site.py",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.69.0"
+  }
+}

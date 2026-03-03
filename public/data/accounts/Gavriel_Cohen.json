@@ -1,0 +1,100 @@
+{
+  "username": "Gavriel_Cohen",
+  "name": "Gavriel Cohen",
+  "bio": "Creator of NanoClaw; co-founder of https://t.co/NAu2jfIPZb; ex VP at Concrete Media; ex https://t.co/LCZI5lwsCZ developer team lead; https://t.co/laOBgXMMQ9 Physics and Computer Science at Tel Aviv University",
+  "followersCount": 5507,
+  "followingCount": 832,
+  "profileUrl": "https://x.com/Gavriel_Cohen",
+  "tweets": [
+    {
+      "id": "2028821432759717930",
+      "url": "https://x.com/Gavriel_Cohen/status/2028821432759717930",
+      "createdAt": "Tue Mar 03 13:14:57 +0000 2026",
+      "text": "It's 2026 and Google Search Is Totally Broken",
+      "likeCount": 180,
+      "retweetCount": 38,
+      "replyCount": 37
+    },
+    {
+      "id": "2028388969759600919",
+      "url": "https://x.com/Gavriel_Cohen/status/2028388969759600919",
+      "createdAt": "Mon Mar 02 08:36:30 +0000 2026",
+      "text": "You don't need 3,000 integrations",
+      "likeCount": 62,
+      "retweetCount": 11,
+      "replyCount": 9
+    },
+    {
+      "id": "2027841164150178238",
+      "url": "https://x.com/Gavriel_Cohen/status/2027841164150178238",
+      "createdAt": "Sat Feb 28 20:19:43 +0000 2026",
+      "text": "Don't trust AI agents",
+      "likeCount": 193,
+      "retweetCount": 16,
+      "replyCount": 12
+    },
+    {
+      "id": "2026028681907339382",
+      "url": "https://x.com/Gavriel_Cohen/status/2026028681907339382",
+      "createdAt": "Mon Feb 23 20:17:34 +0000 2026",
+      "text": "When @Docker welcomes you to the family",
+      "likeCount": 86,
+      "retweetCount": 1,
+      "replyCount": 4
+    },
+    {
+      "id": "2026025473449353642",
+      "url": "https://x.com/Gavriel_Cohen/status/2026025473449353642",
+      "createdAt": "Mon Feb 23 20:04:49 +0000 2026",
+      "text": "RT @Docker: Whalecome to the family! \ud83d\udc33 We can't wait to see what people come up with using NanoClaw + Docker!",
+      "likeCount": 0,
+      "retweetCount": 35,
+      "replyCount": 0
+    },
+    {
+      "id": "2025603982769410356",
+      "url": "https://x.com/Gavriel_Cohen/status/2025603982769410356",
+      "createdAt": "Sun Feb 22 16:09:58 +0000 2026",
+      "text": "NanoClaw moved from Apple Containers to Docker",
+      "likeCount": 1564,
+      "retweetCount": 119,
+      "replyCount": 63
+    },
+    {
+      "id": "2025557647043215809",
+      "url": "https://x.com/Gavriel_Cohen/status/2025557647043215809",
+      "createdAt": "Sun Feb 22 13:05:50 +0000 2026",
+      "text": "Should NanoClaw have a soul?",
+      "likeCount": 79,
+      "retweetCount": 1,
+      "replyCount": 39
+    },
+    {
+      "id": "2025253777410752807",
+      "url": "https://x.com/Gavriel_Cohen/status/2025253777410752807",
+      "createdAt": "Sat Feb 21 16:58:22 +0000 2026",
+      "text": "Note the \"tokens\" badge at the top of the ReadMe. The whole repo is ~36k tokens - you can load it all into claude and still have &gt;100k tokens to work with before you start running into context rot.\n\nRepo tokens is a reusable GitHub action. Check it out:\nhttps://t.co/Js17p8Ksjr",
+      "likeCount": 52,
+      "retweetCount": 5,
+      "replyCount": 6
+    },
+    {
+      "id": "2025185408351420878",
+      "url": "https://x.com/Gavriel_Cohen/status/2025185408351420878",
+      "createdAt": "Sat Feb 21 12:26:42 +0000 2026",
+      "text": "OpenClaw:                                                     NanoClaw: https://t.co/dLkbxSSfKh",
+      "likeCount": 609,
+      "retweetCount": 22,
+      "replyCount": 38
+    },
+    {
+      "id": "2025164832601686397",
+      "url": "https://x.com/Gavriel_Cohen/status/2025164832601686397",
+      "createdAt": "Sat Feb 21 11:04:56 +0000 2026",
+      "text": "If you're just getting started with NanoClaw, I recommend this video as an intro.\n\nIt demonstrates one of the wildest capabilities of NanoClaw: you can ask the agent in WhatsApp or Telegram to customize itself.\n\nSelf-improving software is here.\n\nhttps://t.co/KtDXGrXszN",
+      "likeCount": 153,
+      "retweetCount": 19,
+      "replyCount": 8
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "username": "ElanaPearl",
+  "name": "Elana Simon",
+  "bio": "exploring the inner workings of bio ML models @StanfordBiosci",
+  "followersCount": 3452,
+  "followingCount": 134,
+  "profileUrl": "https://x.com/ElanaPearl",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ElanaPearl', '-n', '10', '--json']' returned non-zero exit status 1."
+}

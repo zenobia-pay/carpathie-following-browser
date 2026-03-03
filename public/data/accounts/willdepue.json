@@ -1,0 +1,10 @@
+{
+  "username": "willdepue",
+  "name": "will depue",
+  "bio": "dei ex machina @openai, past: sora 1 & 2, posttraining o3/4o, applied research",
+  "followersCount": 56988,
+  "followingCount": 2267,
+  "profileUrl": "https://x.com/willdepue",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'willdepue', '-n', '10', '--json']' returned non-zero exit status 1."
+}

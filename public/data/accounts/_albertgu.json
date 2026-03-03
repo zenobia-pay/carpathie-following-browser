@@ -1,0 +1,10 @@
+{
+  "username": "_albertgu",
+  "name": "Albert Gu",
+  "bio": "assistant prof @mldcmu. chief scientist @cartesia_ai. leading the ssm revolution.",
+  "followersCount": 19598,
+  "followingCount": 77,
+  "profileUrl": "https://x.com/_albertgu",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', '_albertgu', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "agarwl_",
+  "name": "Rishabh Agarwal",
+  "bio": "Reinforcement Learner @periodiclabs, Adjunct Prof at McGill. Ex Meta, DeepMind, Brain, @iitbombay. NeurIPS Best Paper, On-Policy Distillation",
+  "followersCount": 20785,
+  "followingCount": 827,
+  "profileUrl": "https://x.com/agarwl_",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'agarwl_', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,100 @@
+{
+  "username": "eglyman",
+  "name": "Eric Glyman",
+  "bio": "Co-Founder at Ramp (@tryramp). New York City. Previously co-founded Paribus (Acq. by Capital One).",
+  "followersCount": 40774,
+  "followingCount": 1924,
+  "profileUrl": "https://x.com/eglyman",
+  "tweets": [
+    {
+      "id": "2027193953242505520",
+      "url": "https://x.com/eglyman/status/2027193953242505520",
+      "createdAt": "Fri Feb 27 01:27:56 +0000 2026",
+      "text": "Pour one out for our guy in the comments https://t.co/03EDz8m8O0",
+      "likeCount": 376,
+      "retweetCount": 1,
+      "replyCount": 14
+    },
+    {
+      "id": "2026370128489615474",
+      "url": "https://x.com/eglyman/status/2026370128489615474",
+      "createdAt": "Tue Feb 24 18:54:21 +0000 2026",
+      "text": "The @cognition team and @ScottWu46 have been putting up absurd numbers while pushing the frontier.\n\nCool to see this ship, worth making the time to try and I don\u2019t say that lightly.",
+      "likeCount": 179,
+      "retweetCount": 7,
+      "replyCount": 5
+    },
+    {
+      "id": "2023803445183213936",
+      "url": "https://x.com/eglyman/status/2023803445183213936",
+      "createdAt": "Tue Feb 17 16:55:16 +0000 2026",
+      "text": "In case you were curious, this is the guy who preps the Guinness at @stripe before the podcast. https://t.co/UZP6ZULWII",
+      "likeCount": 288,
+      "retweetCount": 6,
+      "replyCount": 6
+    },
+    {
+      "id": "2023794756883493217",
+      "url": "https://x.com/eglyman/status/2023794756883493217",
+      "createdAt": "Tue Feb 17 16:20:44 +0000 2026",
+      "text": "Finance software used to record what happened. AI lets it decide what should happen.\n\nHad a blast talking with @collision and @arampell about where this is all going, and where @tryramp sits in all of this.\n(Also apparently recorded in my new late-night radio voice.)",
+      "likeCount": 120,
+      "retweetCount": 9,
+      "replyCount": 7
+    },
+    {
+      "id": "2021962871924457624",
+      "url": "https://x.com/eglyman/status/2021962871924457624",
+      "createdAt": "Thu Feb 12 15:01:29 +0000 2026",
+      "text": "There are two non-negotiables in accounting: the books must be correct, and they must be ready on time.\n\nFor decades, companies have satisfied those constraints through an extraordinary amount of manual effort. Highly trained professionals code transactions, re-approve familiar expenses, reconcile mismatches after the fact, and compress all of it into the ritual of month-end close.\n\nIt works. But it is fundamentally retrospective.\n\nToday, @tryramp is introducing an Accounting Agent designed around a different premise: what if bookkeeping happened as the business operated, rather than after it?\n\nThe agent captures, codes, reviews, validates, accrues, and reconciles spend continuously. It learns directly from the people who understand the nuances best, the accounting team itself, and applies that context in real time.\n\nAt @perplexity_ai, where velocity is part of the company\u2019s identity, this has allowed their team to stop choosing between speed and accuracy. The majority of transactions are now coded automatically while remaining audit-ready, enabling close to start on day one instead of day thirty.\n\nWhat\u2019s been most striking is how the system learns the subtle, company-specific logic that historically lived only in human judgment. As Jim Romano, CFO at @statesidevodka, described it, the agent is already identifying patterns like when spend belongs in samples rather than travel and entertainment \u2014 the kinds of decisions that typically require institutional memory. As he put it, the goal is simple: finance teams should focus on exceptions, not the easy stuff.\n\nWe\u2019re also seeing the second-order effects emerge quickly. Teams report spending dramatically less time reviewing transactions and substantially more time on planning, analysis, and growth. As one CFO told us, \u201cWhat used to take hours of manual review now happens automatically. I\u2019m spending nearly all of my time thinking about where the business should go, not retracing where it\u2019s already been.\u201d\n\nThere is a broader shift underway in accounting. The central question is moving from \u201cwhat parts of close can be automated?\u201d to \u201cshould close even be a discrete event at all?\u201d\n\nOne belief that increasingly guides our work at Ramp is that information latency inside companies is an invisible tax. When financial truth lags behind operational reality, organizations make slower and often worse decisions. As transaction data becomes inherently digital and systems become capable of learning institutional context, continuous close stops being aspirational and starts becoming inevitable.\n\nOne thing that surprised us while building this: accounting isn\u2019t constrained by a lack of rules \u2014 it\u2019s constrained by how many of those rules are unwritten. Much of financial operations lives in patterns that experienced teams simply know. Seeing software begin to absorb and apply that tacit knowledge has been one of the clearest signals that accounting is entering a new phase.\n\nAccounting has always been the record for business reality. Our goal is to help it become something closer to real-time truth.\n\nProud of the team, and grateful to the customers building this alongside us.",
+      "likeCount": 433,
+      "retweetCount": 24,
+      "replyCount": 12
+    },
+    {
+      "id": "2020966477273465022",
+      "url": "https://x.com/eglyman/status/2020966477273465022",
+      "createdAt": "Mon Feb 09 21:02:10 +0000 2026",
+      "text": "Team recorded this yesterday from the Super Bowl https://t.co/MMUlqYM2Pc",
+      "likeCount": 127,
+      "retweetCount": 6,
+      "replyCount": 4
+    },
+    {
+      "id": "2020706888195956770",
+      "url": "https://x.com/eglyman/status/2020706888195956770",
+      "createdAt": "Mon Feb 09 03:50:39 +0000 2026",
+      "text": "The @tryramp marketing team outdid itself this weekend! Thank you to all the customers who showed up to support us too, grateful to serve you. https://t.co/WtebDZwvGy https://t.co/TZFddNJ4KD",
+      "likeCount": 155,
+      "retweetCount": 6,
+      "replyCount": 9
+    },
+    {
+      "id": "2020652221592195204",
+      "url": "https://x.com/eglyman/status/2020652221592195204",
+      "createdAt": "Mon Feb 09 00:13:26 +0000 2026",
+      "text": "Brian lookalike spotted at the Super Bowl https://t.co/g4dlOoCamd",
+      "likeCount": 113,
+      "retweetCount": 3,
+      "replyCount": 4
+    },
+    {
+      "id": "2018414294891704472",
+      "url": "https://x.com/eglyman/status/2018414294891704472",
+      "createdAt": "Mon Feb 02 20:00:42 +0000 2026",
+      "text": "Went on @CNBC with @BBBaumgartner. We\u2019re shaving heads, drinking beer, and sending people to the Super Bowl on Sunday. https://t.co/fiiCD7Aa38",
+      "likeCount": 163,
+      "retweetCount": 4,
+      "replyCount": 8
+    },
+    {
+      "id": "2018112465301565780",
+      "url": "https://x.com/eglyman/status/2018112465301565780",
+      "createdAt": "Mon Feb 02 00:01:21 +0000 2026",
+      "text": "Spotted in SF https://t.co/0ENC65I52L",
+      "likeCount": 145,
+      "retweetCount": 3,
+      "replyCount": 3
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "username": "stevenbjohnson",
+  "name": "Steven Johnson",
+  "bio": "Editorial Director, NotebookLM and Google Labs. Author of 14 books. Latest: The Infernal Machine. Speech inquiries email: wesn at leighbureau dot com",
+  "followersCount": 1049739,
+  "followingCount": 385,
+  "profileUrl": "https://x.com/stevenbjohnson",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'stevenbjohnson', '-n', '10', '--json']' returned non-zero exit status 1."
+}

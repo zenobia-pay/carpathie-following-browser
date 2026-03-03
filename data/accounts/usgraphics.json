@@ -1,0 +1,10 @@
+{
+  "username": "usgraphics",
+  "name": "U.S. Graphics Company",
+  "bio": "Engineering graphics.\n\nCheck out our new typeface, Berkeley Mono \u2192 https://t.co/dUqr2XX9Wm",
+  "followersCount": 57910,
+  "followingCount": 449,
+  "profileUrl": "https://x.com/usgraphics",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'usgraphics', '-n', '10', '--json']' returned non-zero exit status 1."
+}

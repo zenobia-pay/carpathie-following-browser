@@ -1,0 +1,10 @@
+{
+  "username": "kaicathyc",
+  "name": "Kai",
+  "bio": "Occasionally here. Currently research @OpenAI.",
+  "followersCount": 15508,
+  "followingCount": 237,
+  "profileUrl": "https://x.com/kaicathyc",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'kaicathyc', '-n', '10', '--json']' returned non-zero exit status 1."
+}

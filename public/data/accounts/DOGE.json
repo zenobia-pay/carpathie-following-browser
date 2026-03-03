@@ -1,0 +1,10 @@
+{
+  "username": "DOGE",
+  "name": "Department of Government Efficiency",
+  "bio": "The people voted for major reform.",
+  "followersCount": 4803724,
+  "followingCount": 0,
+  "profileUrl": "https://x.com/DOGE",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'DOGE', '-n', '10', '--json']' returned non-zero exit status 1."
+}

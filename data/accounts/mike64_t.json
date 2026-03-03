@@ -1,0 +1,10 @@
+{
+  "username": "mike64_t",
+  "name": "mike64_t",
+  "bio": "descending the gradient",
+  "followersCount": 6782,
+  "followingCount": 356,
+  "profileUrl": "https://x.com/mike64_t",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'mike64_t', '-n', '10', '--json']' returned non-zero exit status 1."
+}

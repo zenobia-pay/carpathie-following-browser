@@ -1,0 +1,10 @@
+{
+  "username": "sesame",
+  "name": "Sesame",
+  "bio": "Join the waitlist for our iOS beta: https://t.co/zKWuuYxxar",
+  "followersCount": 32190,
+  "followingCount": 0,
+  "profileUrl": "https://x.com/sesame",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'sesame', '-n', '10', '--json']' returned non-zero exit status 1."
+}

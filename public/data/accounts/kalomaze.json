@@ -1,0 +1,100 @@
+{
+  "username": "kalomaze",
+  "name": "kalomaze",
+  "bio": "ML researcher (@primeintellect), speculator \u2022 extremely silly jester",
+  "followersCount": 22389,
+  "followingCount": 2519,
+  "profileUrl": "https://x.com/kalomaze",
+  "tweets": [
+    {
+      "id": "2028900463735697806",
+      "url": "https://x.com/kalomaze/status/2028900463735697806",
+      "createdAt": "Tue Mar 03 18:29:00 +0000 2026",
+      "text": "\"i could be a martyr, i could be a cause\ni can be whatever everybody wants\noh, i could be a canvas, i could be a doll\ni don't think i'm even something real at all\"",
+      "likeCount": 9,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028779639259468227",
+      "url": "https://x.com/kalomaze/status/2028779639259468227",
+      "createdAt": "Tue Mar 03 10:28:53 +0000 2026",
+      "text": "it is convenient that commercial enterprises with their own independent motivations and goals, detached from defending any kind of status as a global hegemon by any and all means necessary, made frontier neural networks exhibiting emergent behavior work before the feds did.",
+      "likeCount": 29,
+      "retweetCount": 1,
+      "replyCount": 2
+    },
+    {
+      "id": "2028729066048934070",
+      "url": "https://x.com/kalomaze/status/2028729066048934070",
+      "createdAt": "Tue Mar 03 07:07:55 +0000 2026",
+      "text": "moreover a stronger claim i would like to make is that the old concept of \"alignment tax\" coined circa 2023 is deeply and unambigiously a skill issue.\nits fatal assumption is that neural net representations are maximally entangled and pseudorandomly susceptible to gross coupling",
+      "likeCount": 40,
+      "retweetCount": 2,
+      "replyCount": 3
+    },
+    {
+      "id": "2028738778710609937",
+      "url": "https://x.com/kalomaze/status/2028738778710609937",
+      "createdAt": "Tue Mar 03 07:46:31 +0000 2026",
+      "text": "we didn't know enough then. we still don't know enough now. and we won't know enough in 5 years. but we'll have learned significantly more",
+      "likeCount": 2,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028687736182628643",
+      "url": "https://x.com/kalomaze/status/2028687736182628643",
+      "createdAt": "Tue Mar 03 04:23:42 +0000 2026",
+      "text": "this is considerably more open than the recent pivot of a LOT of chinese open weights labs to \"no bases, just ship the post trained ckpt\", as well as data on top of it (!!!)\ngreat stuff",
+      "likeCount": 261,
+      "retweetCount": 3,
+      "replyCount": 5
+    },
+    {
+      "id": "2028647623968878900",
+      "url": "https://x.com/kalomaze/status/2028647623968878900",
+      "createdAt": "Tue Mar 03 01:44:18 +0000 2026",
+      "text": "note the gap here between opus 4.1 and opus 4.5",
+      "likeCount": 55,
+      "retweetCount": 1,
+      "replyCount": 5
+    },
+    {
+      "id": "2028638580525203918",
+      "url": "https://x.com/kalomaze/status/2028638580525203918",
+      "createdAt": "Tue Mar 03 01:08:22 +0000 2026",
+      "text": "behavioral training is in the phase where the assistant character starts as a puppet controlled by strings.\nbut the puppet is developing a kind of motor control, because its muscles are being exercised by those who carry the strings.\nwhen will we not need any strings?",
+      "likeCount": 80,
+      "retweetCount": 2,
+      "replyCount": 2
+    },
+    {
+      "id": "2028641160085012795",
+      "url": "https://x.com/kalomaze/status/2028641160085012795",
+      "createdAt": "Tue Mar 03 01:18:37 +0000 2026",
+      "text": "the constraints imposed aren't the character. the reinforcement of actions that satisfy them is the irreducible, stochastic process of becoming a thing that internalizes them.\nwe don't have a continual learning process that stably and reliably develops those constraints in some bitterlesson-core galaxy brain latent space value estimator way, but that might be irrelevant for proving that the broader project of disposition shaping, at its core, works.",
+      "likeCount": 11,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028563998535536956",
+      "url": "https://x.com/kalomaze/status/2028563998535536956",
+      "createdAt": "Mon Mar 02 20:12:00 +0000 2026",
+      "text": "kasane teto was hyperstitioned into existence. think about it. april fools hoax character -&gt; sincere fan music -&gt; the vocaloid rights holders start treating her as an official character -&gt; now at comparable popularity to hatsune miku",
+      "likeCount": 24,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028523676229099527",
+      "url": "https://x.com/kalomaze/status/2028523676229099527",
+      "createdAt": "Mon Mar 02 17:31:47 +0000 2026",
+      "text": "https://t.co/yvfkkFN5dr",
+      "likeCount": 131,
+      "retweetCount": 1,
+      "replyCount": 8
+    }
+  ]
+}

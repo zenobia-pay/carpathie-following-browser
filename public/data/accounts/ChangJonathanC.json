@@ -1,0 +1,10 @@
+{
+  "username": "ChangJonathanC",
+  "name": "Jonathan Chang",
+  "bio": "ML/AI Engineer, building https://t.co/uEbfxzEztO",
+  "followersCount": 1577,
+  "followingCount": 940,
+  "profileUrl": "https://x.com/ChangJonathanC",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ChangJonathanC', '-n', '10', '--json']' returned non-zero exit status 1."
+}

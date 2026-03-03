@@ -1,0 +1,100 @@
+{
+  "username": "PyTorch",
+  "name": "PyTorch",
+  "bio": "Tensors and neural networks in Python with strong hardware acceleration. PyTorch is an open source project at the Linux Foundation. #PyTorchFoundation",
+  "followersCount": 477308,
+  "followingCount": 82,
+  "profileUrl": "https://x.com/PyTorch",
+  "tweets": [
+    {
+      "id": "2028894163949781445",
+      "url": "https://x.com/PyTorch/status/2028894163949781445",
+      "createdAt": "Tue Mar 03 18:03:58 +0000 2026",
+      "text": "#PyTorch trains the models that power AI agents. This @openinfradev Live episode on March 5th at 10 AM CT is about securing the environments those agents run in",
+      "likeCount": 10,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2028892178735358218",
+      "url": "https://x.com/PyTorch/status/2028892178735358218",
+      "createdAt": "Tue Mar 03 17:56:05 +0000 2026",
+      "text": "RT @cerebral_valley: Do you want to demo your project at the Meta booth during GTC? \ud83d\ude0e\n\nJoin @Meta and @nvidia, in partnership with CV, for\u2026",
+      "likeCount": 0,
+      "retweetCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "2027504015802511741",
+      "url": "https://x.com/PyTorch/status/2027504015802511741",
+      "createdAt": "Fri Feb 27 22:00:01 +0000 2026",
+      "text": "New to the PyTorch Ecosystem Landscape: Kubetorch.\n\nKubetorch enables ML research and development on Kubernetes across training, inference, RL, evals, data processing, and more, in a simple and unopinionated package.\n\nLearn more: https://t.co/YadOKc3sQo\n\n#PyTorch #Kubernetes #MLOps #AIInfrastructure",
+      "likeCount": 93,
+      "retweetCount": 14,
+      "replyCount": 0
+    },
+    {
+      "id": "2027491732682600869",
+      "url": "https://x.com/PyTorch/status/2027491732682600869",
+      "createdAt": "Fri Feb 27 21:11:12 +0000 2026",
+      "text": "Are you tired of hand-tuning each model you develop?\n\nWhat if you could describe the architecture once and let a system apply graph transformations and optimized kernels?\n\nNVIDIA TensorRT LLM AutoDeploy marks a shift toward approaching inference optimization as a compiler and runtime responsibility rather than a burden on the model author. This approach enables faster experimentation, broader model coverage, and a cleaner separation between model design and deployment.\n\nLearn more from our documentation, examples scripts, and the blog, \u2018Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy\u2019\n\nRead the full post: https://t.co/qlIO7q35oY\n\n#PyTorch #OpenSourceAI #AI #Inference #Innovation",
+      "likeCount": 61,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2027480763763945800",
+      "url": "https://x.com/PyTorch/status/2027480763763945800",
+      "createdAt": "Fri Feb 27 20:27:37 +0000 2026",
+      "text": "Our February PyTorch Foundation newsletter is live:\n\nInside: leadership and membership announcements, live schedule for PyTorch Conference Europe 2026 in Paris, a recap of PyTorch Day India 2026, ambassador highlights, and recent technical blogs from across the ecosystem.\n\n\ud83d\udce8 Subscribe for updates delivered directly to your inbox: https://t.co/PdpCPZTflP \n\ud83d\udc49 Read: https://t.co/RFWKZrc94Q\n\n#PyTorch #PyTorchCon #AIInfrastructure #OpenSourceA",
+      "likeCount": 18,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2027292841781739765",
+      "url": "https://x.com/PyTorch/status/2027292841781739765",
+      "createdAt": "Fri Feb 27 08:00:53 +0000 2026",
+      "text": "\u23f0 Final hours. Early bird rates for #PyTorchCon Europe end TODAY at 23:59 CET.\nJoin us 7-8 April in Paris. Technical sessions, poster presentations, community expo, and the Flare Party. \ud83d\udd25\nSchedule: https://t.co/HBq4XhQLd2\nRegister: https://t.co/uzweFa52qd https://t.co/NWKdVCKdQO",
+      "likeCount": 17,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2026945355493814643",
+      "url": "https://x.com/PyTorch/status/2026945355493814643",
+      "createdAt": "Thu Feb 26 09:00:06 +0000 2026",
+      "text": "\ud83d\udea8 Prices for #PyTorchCon Europe go up tomorrow, 27 Feb at 23:59 CET!\n\nRegister for just \u20ac449 and join us from 7-8 April in Paris. Two days of #GenAI, large-scale training, performance engineering, and real-world #PyTorch deployments.\n\nSecure your pass now! https://t.co/mE4FXCU7aD",
+      "likeCount": 16,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2026743943728099635",
+      "url": "https://x.com/PyTorch/status/2026743943728099635",
+      "createdAt": "Wed Feb 25 19:39:45 +0000 2026",
+      "text": "Matt White will speak at Dubai AI Festival, joining a panel discussion on who powers the global AI infrastructure.\n\nThe session brings together leaders shaping the systems, platforms, and governance models that underpin AI at scale. As General Manager of AI at Linux Foundation, Matt will share perspectives from the open ecosystem driving AI development and deployment worldwide.\n\n\ud83d\udccd Dubai World Trade Centre\n\ud83d\udcc5 April 7\u20138, 2026\n\n\ud83d\udd17 Learn more: https://t.co/GzABsuPw0b\n\n#PyTorch #AIInfrastructure #OpenSourceAI",
+      "likeCount": 9,
+      "retweetCount": 3,
+      "replyCount": 1
+    },
+    {
+      "id": "2026718920418140650",
+      "url": "https://x.com/PyTorch/status/2026718920418140650",
+      "createdAt": "Wed Feb 25 18:00:19 +0000 2026",
+      "text": "New @DeepSpeedAI updates make large-scale multimodal training simpler and more memory-efficient. \n\nOur latest blog introduces a PyTorch-identical backward API that helps code multimodal training loops easy, plus low-precision model states (BF16/FP16) that can reduce peak memory by up to 40% when combined with torch.autocast. \n\n\ud83d\udd87\ufe0f Read the full post for details: https://t.co/sSHMGhRixV\n\n#DeepSpeed #PyTorch #MemoryEfficiency #MultimodalTraining #OpenSourceAI",
+      "likeCount": 50,
+      "retweetCount": 7,
+      "replyCount": 2
+    },
+    {
+      "id": "2026704124813693037",
+      "url": "https://x.com/PyTorch/status/2026704124813693037",
+      "createdAt": "Wed Feb 25 17:01:32 +0000 2026",
+      "text": "RT @cerebral_valley: \ud83d\ude80 Announcing the @PyTorch OpenEnv Hackathon with CV and @SHACK15sf  \n\nBuild RL environments, post-train models, and ta\u2026",
+      "likeCount": 0,
+      "retweetCount": 16,
+      "replyCount": 0
+    }
+  ]
+}

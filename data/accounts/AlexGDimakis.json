@@ -1,0 +1,10 @@
+{
+  "username": "AlexGDimakis",
+  "name": "Alex Dimakis",
+  "bio": "Professor, UC berkeley | Founder @bespokelabsai |",
+  "followersCount": 22702,
+  "followingCount": 2498,
+  "profileUrl": "https://x.com/AlexGDimakis",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'AlexGDimakis', '-n', '10', '--json']' returned non-zero exit status 1."
+}

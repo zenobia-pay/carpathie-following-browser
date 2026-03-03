@@ -1,0 +1,100 @@
+{
+  "username": "huggingface",
+  "name": "Hugging Face",
+  "bio": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+  "followersCount": 635411,
+  "followingCount": 220,
+  "profileUrl": "https://x.com/huggingface",
+  "tweets": [
+    {
+      "id": "2028864271967551638",
+      "url": "https://x.com/huggingface/status/2028864271967551638",
+      "createdAt": "Tue Mar 03 16:05:11 +0000 2026",
+      "text": "RT @ben_burtenshaw: agentic RL hackathon this weekend! \n\nmentors from @PyTorch, @huggingface , and @UnslothAI  will guide you to build agen\u2026",
+      "likeCount": 0,
+      "retweetCount": 17,
+      "replyCount": 0
+    },
+    {
+      "id": "2028754684710633884",
+      "url": "https://x.com/huggingface/status/2028754684710633884",
+      "createdAt": "Tue Mar 03 08:49:43 +0000 2026",
+      "text": "RT @alvarobartt: \ud83d\udca5 Learn how to build your own tool-calling agent with @huggingface TRL + @Alibaba_Qwen Qwen3.5 on @Azure Machine Learning!\u2026",
+      "likeCount": 0,
+      "retweetCount": 8,
+      "replyCount": 0
+    },
+    {
+      "id": "2028700352581931306",
+      "url": "https://x.com/huggingface/status/2028700352581931306",
+      "createdAt": "Tue Mar 03 05:13:50 +0000 2026",
+      "text": "RT @RisingSayak: Thanks @AnthropicAI.\n\nThanks @huggingface for letting me work on Diffusers and other open-source projects across the fleet\u2026",
+      "likeCount": 0,
+      "retweetCount": 21,
+      "replyCount": 0
+    },
+    {
+      "id": "2028700257941688518",
+      "url": "https://x.com/huggingface/status/2028700257941688518",
+      "createdAt": "Tue Mar 03 05:13:27 +0000 2026",
+      "text": "RT @ariG23498: With the help of @huggingface we (/w @RisingSayak) are building a ML Club India \ud83c\uddee\ud83c\uddf3\n\nWhat we want to do:\n1. Online talks\n2. I\u2026",
+      "likeCount": 0,
+      "retweetCount": 87,
+      "replyCount": 0
+    },
+    {
+      "id": "2028586773769818399",
+      "url": "https://x.com/huggingface/status/2028586773769818399",
+      "createdAt": "Mon Mar 02 21:42:30 +0000 2026",
+      "text": "RT @Xianbao_QIAN: New model updates from iquestlab. If you're trying to find an inference model that you can run offline, this is probably\u2026",
+      "likeCount": 0,
+      "retweetCount": 18,
+      "replyCount": 0
+    },
+    {
+      "id": "2028452986804936979",
+      "url": "https://x.com/huggingface/status/2028452986804936979",
+      "createdAt": "Mon Mar 02 12:50:53 +0000 2026",
+      "text": "RT @jandotai: Introducing Jan-Code-4B \ud83d\udcbb\n\nA compact coding model tuned for practical day-to-day tasks. Generation, refactors, debugging, tes\u2026",
+      "likeCount": 0,
+      "retweetCount": 70,
+      "replyCount": 0
+    },
+    {
+      "id": "2028190404126888426",
+      "url": "https://x.com/huggingface/status/2028190404126888426",
+      "createdAt": "Sun Mar 01 19:27:28 +0000 2026",
+      "text": "RT @JustinLin610: https://t.co/sOMaBpuaQJ",
+      "likeCount": 0,
+      "retweetCount": 43,
+      "replyCount": 0
+    },
+    {
+      "id": "2027771677434609773",
+      "url": "https://x.com/huggingface/status/2027771677434609773",
+      "createdAt": "Sat Feb 28 15:43:36 +0000 2026",
+      "text": "RT @mervenoyann: build with @huggingface Jobs and TRL to get a chance to win a Reachy Mini this weekend \ud83e\udd16\ud83d\udc9d \n\nalmost 1k developers already i\u2026",
+      "likeCount": 0,
+      "retweetCount": 15,
+      "replyCount": 0
+    },
+    {
+      "id": "2027749137597247772",
+      "url": "https://x.com/huggingface/status/2027749137597247772",
+      "createdAt": "Sat Feb 28 14:14:02 +0000 2026",
+      "text": "RT @tomaarsen: \ud83e\udd17 @perplexity_ai has released 4 open-weights state-of-the-art multilingual embedding models designed for retrieval tasks!\n\np\u2026",
+      "likeCount": 0,
+      "retweetCount": 33,
+      "replyCount": 0
+    },
+    {
+      "id": "2027675815312253384",
+      "url": "https://x.com/huggingface/status/2027675815312253384",
+      "createdAt": "Sat Feb 28 09:22:41 +0000 2026",
+      "text": "RT @Arm: Marco built Reachy Phone Home so Reachy Mini can detect when you\u2019re on your phone, using @Ultralytics YOLO26 vision, and respond i\u2026",
+      "likeCount": 0,
+      "retweetCount": 25,
+      "replyCount": 0
+    }
+  ]
+}

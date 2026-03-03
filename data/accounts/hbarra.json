@@ -1,0 +1,10 @@
+{
+  "username": "hbarra",
+  "name": "Hugo Barra",
+  "bio": "Co-founder at @Dreamer. Proud husband & father.\nEx @Android @Xiaomi @Oculus.",
+  "followersCount": 116422,
+  "followingCount": 688,
+  "profileUrl": "https://x.com/hbarra",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'hbarra', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "bryan_johnson",
+  "name": "Bryan Johnson",
+  "bio": "Conquering death will be humanity\u2019s greatest achievement.",
+  "followersCount": 892527,
+  "followingCount": 707,
+  "profileUrl": "https://x.com/bryan_johnson",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'bryan_johnson', '-n', '10', '--json']' returned non-zero exit status 1."
+}

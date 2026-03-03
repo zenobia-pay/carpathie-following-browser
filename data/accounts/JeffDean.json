@@ -1,0 +1,100 @@
+{
+  "username": "JeffDean",
+  "name": "Jeff Dean",
+  "bio": "Chief Scientist, Google DeepMind & Google Research. Gemini Lead. Opinions stated here are my own, not those of Google. TensorFlow, MapReduce, Bigtable, ...",
+  "followersCount": 415302,
+  "followingCount": 6393,
+  "profileUrl": "https://x.com/JeffDean",
+  "tweets": [
+    {
+      "id": "2028876962580816143",
+      "url": "https://x.com/JeffDean/status/2028876962580816143",
+      "createdAt": "Tue Mar 03 16:55:37 +0000 2026",
+      "text": "\u26a1 Excited to announce Gemini 3.1 Flash-Lite! We\u2019ve set a new standard for efficiency and capability to give developers our fastest, most cost-effective Gemini 3 model yet.\n\nWe engineered this model with thinking levels, allowing it to handle high-volume queries instantly, while scaling up its reasoning for complex edge cases.\n\nBy the numbers:\n\u23f1\ufe0f 2.5X faster time-to-first-token than 2.5 Flash while being significantly higher quality\n\ud83d\udcc9 $0.25 per 1M input tokens\n\ud83d\udcca 1432 Elo on LMArena & 86.9% on GPQA Diamond\n\nThrilled to see what developers build with this kind of speed and quality at scale. Available now in Google AI Studio and Vertex AI.\n\nhttps://t.co/Weal73Juh8",
+      "likeCount": 739,
+      "retweetCount": 71,
+      "replyCount": 43
+    },
+    {
+      "id": "2028877349572465022",
+      "url": "https://x.com/JeffDean/status/2028877349572465022",
+      "createdAt": "Tue Mar 03 16:57:09 +0000 2026",
+      "text": "Here's a side-by-side speed and accuracy comparison comparing Gemini 3.1 Flash Lite against our older Gemini 2.5 Flash model.  It is not only significantly faster in terms of tokens/s, it also needs many fewer tokens to accomplish complex tasks (~1/3 as many in this case). https://t.co/g0pPKULQRW",
+      "likeCount": 79,
+      "retweetCount": 4,
+      "replyCount": 5
+    },
+    {
+      "id": "2028874445260313078",
+      "url": "https://x.com/JeffDean/status/2028874445260313078",
+      "createdAt": "Tue Mar 03 16:45:37 +0000 2026",
+      "text": "Here's a side-by-side speed and accuracy comparison comparing Gemini 3.1 Flash Lite against our older Gemini 2.5 Flash model.  Not only is the new model significantly faster in terms of tokens/s, it also needs many fewer tokens to accomplish complex tasks (~1/3 as many in this case).",
+      "likeCount": 59,
+      "retweetCount": 9,
+      "replyCount": 3
+    },
+    {
+      "id": "2027761548283060732",
+      "url": "https://x.com/JeffDean/status/2027761548283060732",
+      "createdAt": "Sat Feb 28 15:03:21 +0000 2026",
+      "text": "RT @prajdabre: Btw this question is a homage to @JeffDean and @GhemawatSanjay, who wrote the paper on MapReduce.\n\nI wonder if there was som\u2026",
+      "likeCount": 0,
+      "retweetCount": 15,
+      "replyCount": 0
+    },
+    {
+      "id": "2027618717535011076",
+      "url": "https://x.com/JeffDean/status/2027618717535011076",
+      "createdAt": "Sat Feb 28 05:35:48 +0000 2026",
+      "text": "RT @iGreenGod: Every year, in the middle of February, the sunlight falls on this waterfall called \u00abHorsetail,\u00bb and because of the specific\u2026",
+      "likeCount": 0,
+      "retweetCount": 124,
+      "replyCount": 0
+    },
+    {
+      "id": "2027594881418596388",
+      "url": "https://x.com/JeffDean/status/2027594881418596388",
+      "createdAt": "Sat Feb 28 04:01:05 +0000 2026",
+      "text": "RT @DrCatharineY: We are now at 1136 new measles cases - in just the first 8 weeks of this year alone. \n\nA preventable disease resurging.\u2026",
+      "likeCount": 0,
+      "retweetCount": 4357,
+      "replyCount": 0
+    },
+    {
+      "id": "2027240104155377727",
+      "url": "https://x.com/JeffDean/status/2027240104155377727",
+      "createdAt": "Fri Feb 27 04:31:19 +0000 2026",
+      "text": "Great to see us using innovative battery technology and wind+solar to create more data centers with carbon-free energy.\n\nhttps://t.co/pXZCHdbCKR",
+      "likeCount": 242,
+      "retweetCount": 24,
+      "replyCount": 16
+    },
+    {
+      "id": "2027235896802910274",
+      "url": "https://x.com/JeffDean/status/2027235896802910274",
+      "createdAt": "Fri Feb 27 04:14:36 +0000 2026",
+      "text": "Exponential trends are very powerful: solar panel prices, transistors per mm^2, price of genomic sequencing, bits per mm^2 for hard drives, ...",
+      "likeCount": 1069,
+      "retweetCount": 103,
+      "replyCount": 33
+    },
+    {
+      "id": "2027073624411369767",
+      "url": "https://x.com/JeffDean/status/2027073624411369767",
+      "createdAt": "Thu Feb 26 17:29:47 +0000 2026",
+      "text": "Our new Nano Banana 2 model is out today!  Even better image generation, and it debuts at #1 on the Image Arena.  You too can make a bunch of awesome images! https://t.co/OMKFBpV9yK",
+      "likeCount": 467,
+      "retweetCount": 37,
+      "replyCount": 29
+    },
+    {
+      "id": "2026882776142852342",
+      "url": "https://x.com/JeffDean/status/2026882776142852342",
+      "createdAt": "Thu Feb 26 04:51:26 +0000 2026",
+      "text": "RT @NanoBanana: Prompt: Make a photo of a half peeled banana plushie, the plushie is also a sauropod https://t.co/Bv4e1lUAZl",
+      "likeCount": 0,
+      "retweetCount": 60,
+      "replyCount": 0
+    }
+  ]
+}

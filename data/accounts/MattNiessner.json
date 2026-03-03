@@ -1,0 +1,100 @@
+{
+  "username": "MattNiessner",
+  "name": "Matthias Niessner",
+  "bio": "Professor for Visual Computing & Artificial Intelligence @TU_Muenchen\nCo-Founder @synthesiaIO\nCo-Founder @SpAItial_AI",
+  "followersCount": 44658,
+  "followingCount": 293,
+  "profileUrl": "https://x.com/MattNiessner",
+  "tweets": [
+    {
+      "id": "2027045220446040286",
+      "url": "https://x.com/MattNiessner/status/2027045220446040286",
+      "createdAt": "Thu Feb 26 15:36:55 +0000 2026",
+      "text": "Adding inactive co-authors to vision &amp; ML papers is now a serious liability.\n\nWith conferences like CVPR, ECCV, NeurIPS strictly enforcing review-or-desk-reject policies, an unresponsive co-author can kill your submission.\n\nBTW, the ECCV paper registration deadline is today :)",
+      "likeCount": 73,
+      "retweetCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "2026714251235070021",
+      "url": "https://x.com/MattNiessner/status/2026714251235070021",
+      "createdAt": "Wed Feb 25 17:41:46 +0000 2026",
+      "text": "The concept of creating an exact digital replica of the physical world has always fascinated me: environments that look and behave exactly like our everyday reality, precisely captured in the digital domain. This is the essence of \ud835\udc16\ud835\udc28\ud835\udc2b\ud835\udc25\ud835\udc1d \ud835\udc0c\ud835\udc28\ud835\udc1d\ud835\udc1e\ud835\udc25\ud835\udc2c, simulated realities indistinguishable from our own. Generating these models is the core mission behind what we are building at @SpAItial_AI.\n\nTrue World Models must capture both photorealistic appearance and underlying physics, spatially-consistent across the environment. For static scenes, current models already deliver impressive results, unlocking downstream applications from gaming to 3D design. However, the true frontier lies in modeling dynamics, which will enable the training of AI agents whose learned behaviors can bridge the sim-to-real gap, thus unlocking countless real-world applications.",
+      "likeCount": 194,
+      "retweetCount": 23,
+      "replyCount": 6
+    },
+    {
+      "id": "2026437902020813255",
+      "url": "https://x.com/MattNiessner/status/2026437902020813255",
+      "createdAt": "Tue Feb 24 23:23:39 +0000 2026",
+      "text": "Some nostalgia: back in 2010 during my PhD, I interned at Microsoft Research, arguably the premier industry lab for academic research at the time. The role forced a switch from Debian to Windows, but the clear payoff was Visual Studio. Despite the protests of the Vim and Emacs purists, nothing on Linux came close to VS as an IDE.\n\nAt the same time, IntelliSense, VS's early 'coding assistant' barely functioned. It routinely failed to parse multi-class C++ codebases, and the moment it encountered a complex expression template, it completely just gave up.\n\nA PhD colleague then recommended a simple plugin called Visual Assist. For me it was a revelation: a genuinely working implementation of context-aware completion and editing. It actually understood C++ syntax and its complexities, facilitating large-scale refactoring and reliable auto-complete. \n\nThen came the deep learning boom, and Python took over. CPU-side run-time as secondary when heavy parallel workloads were efficiently wrapped for the GPU. The abstraction advantage over C++ made Python the undisputed language for ML, and productivity soared as IDE integration and package management matured.\n\nIn 2023, the next paradigm shift was LLM-based coding. Copilot institutionalized the 'tab-tab-tab' workflow with code prediction vastly superior to any prior heuristic. But even that feels primitive compared to the recent wave of coding agents. Just a year ago, maintaining reasonable productivity with these agents was a struggle; today, models like Claude Opus 4.6 operate at an entirely different level. It is a complete game-changer. Even senior researchers as myself can materialize complex projects... within hours :)\n\nThere is zero doubt that agentic coding will soon become the absolute core of every SWE workflow. For me, an open question is what the correct abstraction and interface will look like. Generating high-level plans is one thing, but fully automating the implementation process while retaining strict user alignment remains a challenge.",
+      "likeCount": 58,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2024804243547283563",
+      "url": "https://x.com/MattNiessner/status/2024804243547283563",
+      "createdAt": "Fri Feb 20 11:12:05 +0000 2026",
+      "text": "The productivity paradox of prompt-based GenAI: producing *any* compelling result is easy, but getting exactly what you want is hard.\n\nThis creates a deceptive productivity curve. In code generation, an agent can spin up a boilerplate architecture in seconds \u2014 which is impressive \u2014 but iterative editing can still take hours. We\u2019ve all seen Cursor agents fix a local bug by refactoring the entire codebase.\n\nThe issue? The abstraction layer. Natural language is optimized for ease of use, but its inherent ambiguity makes it produce non-determinist results. A major challenge will be to find better abstractions.",
+      "likeCount": 40,
+      "retweetCount": 4,
+      "replyCount": 6
+    },
+    {
+      "id": "2023423337246961775",
+      "url": "https://x.com/MattNiessner/status/2023423337246961775",
+      "createdAt": "Mon Feb 16 15:44:51 +0000 2026",
+      "text": "Historically, academia used presentation quality as a proxy for scientific merit. Now that AI is eliminating polish overhead, everyone is confused, often stuck in debates whether we should allow LLMs. \n\nOn the bright side, we are finally forced to evaluate the actual research content rather than extrapolating value from the text and visuals.",
+      "likeCount": 236,
+      "retweetCount": 19,
+      "replyCount": 22
+    },
+    {
+      "id": "2022349674481410142",
+      "url": "https://x.com/MattNiessner/status/2022349674481410142",
+      "createdAt": "Fri Feb 13 16:38:30 +0000 2026",
+      "text": "Funny enough, our TUM research group stayed on Skype until the bitter end. It was buggy, but iconic. Mostly for its simplicity in cross-institutional collab.\n\nWe were forced over to @MicrosoftTeams, which is\u2026 quite a ride: between the dropped messages and the post-call crashes, it\u2019s a paradise for bug reports.\n\nRIP Skype, you were the best \ud83e\udee1",
+      "likeCount": 60,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2020177152055144623",
+      "url": "https://x.com/MattNiessner/status/2020177152055144623",
+      "createdAt": "Sat Feb 07 16:45:40 +0000 2026",
+      "text": "\ud83d\ude80\ud83d\ude80Want to build \ud835\udc16\ud835\udc28\ud835\udc2b\ud835\udc25\ud835\udc1d \ud835\udc12\ud835\udc22\ud835\udc26\ud835\udc2e\ud835\udc25\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c?\ud83d\ude80\ud83d\ude80\n\nWe're hiring in Munich or London! Check it out: https://t.co/mdfkGfD6DI\n\nSpAItial is pioneering the next generation of World Models, pushing the boundaries of generative AI, computer vision, and the simulation of reality. We are moving beyond 2D pixels to build models that natively understand the physics and geometry of our world. Our mission is to redefine how industries, from robotics and AR/VR to gaming and cinema, generate and interact with physically-grounded 3D environments.  \n\nWe\u2019re looking for individuals who are bold, innovative, and driven by a passion for pushing the boundaries of what\u2019s possible. You should thrive in an environment where creativity meets challenge and be fearless in tackling complex problems. Our team is built on a foundation of dedication and a shared commitment to excellence, so we value people who take immense pride in their work and place the collective goals of the team above personal ambition. As a part of SpAItial, you\u2019ll be at the forefront of the AI revolution in generative AI technology, and we want you to be excited about shaping the future of this dynamic field. If you\u2019re ready to make an impact, embrace the unknown, and collaborate with a talented group of visionaries, we want to hear from you.\n\n#worldmodels #GenAI #3D #spatialintelligence",
+      "likeCount": 260,
+      "retweetCount": 28,
+      "replyCount": 4
+    },
+    {
+      "id": "2018805398178759024",
+      "url": "https://x.com/MattNiessner/status/2018805398178759024",
+      "createdAt": "Tue Feb 03 21:54:49 +0000 2026",
+      "text": "Reflecting on the @synthesia journey today, and it\u2019s truly rewarding\ud83d\ude80\n\nWatching our models evolve from static synthetic faces into hyper-realistic digital twins, capable of nuanced human emotion and fluid full-body movement, marks a definitive milestone for the entire field of generative AI.\n\nThe technical evolution of avatars has been nothing short of breathtaking. It moved from the early days of basic lip-syncing and simple graphics models to deploying the latest frontier of AI: Express-2 avatars, powered by state-of-the-art voice cloning and Diffusion Transformers (DiT).\n\nThe business journey has been just as remarkable. What began as a handful of tiny, ambitious R&D projects has scaled into the world\u2019s leading AI avatar platform. Today, Synthesia is the enterprise standard for L&D and content generation, trusted by over 90% of the Fortune 100. Seeing this shift from early prototypes to a massive, high-growth ecosystem has been an incredible ride.\n\nI am incredibly proud of everyone at Synthesia, the world-class team, our investors, and supports; of course a huge thanks to @vriparbelli, @Stjerrild, and @LourdesAgapito. This $4B valuation is a significant milestone, but has only scratched the surface. The era of interactive video avatar agents is just beginning!",
+      "likeCount": 63,
+      "retweetCount": 8,
+      "replyCount": 4
+    },
+    {
+      "id": "2014356649872433432",
+      "url": "https://x.com/MattNiessner/status/2014356649872433432",
+      "createdAt": "Thu Jan 22 15:17:04 +0000 2026",
+      "text": "\ud83d\udce2\ud83d\udce2\ud83d\udce2Data release: high-res, multi-view, OLAT face recordings \ud83d\udce2\ud83d\udce2\ud83d\udce2\n\nWe captured individuals in our custom light stage with 16 high-end, global shutter cameras (72 fps) and 40 LED modules, totaling 2.8M precisely calibrated frames.\n\nWe us the data for BecomingLit (#NeurIPS2025): intrinsically decomposed Gaussian avatars, enabling photorealistic and real-time relighting via hybrid neural shading.\n\nCode & Data: https://t.co/kvu20C4vfR\nGreat work by @jnthnschmdt, @SGiebenhain",
+      "likeCount": 235,
+      "retweetCount": 41,
+      "replyCount": 5
+    },
+    {
+      "id": "2004140927548629309",
+      "url": "https://x.com/MattNiessner/status/2004140927548629309",
+      "createdAt": "Thu Dec 25 10:43:26 +0000 2025",
+      "text": "RT @TobiasKirschst1: FlexAvatar-Santa wishes a Merry Christmas to you all! \ud83c\udf85\n\nImage generated by ChatGPT\nAvatar created with FlexAvatar (ht\u2026",
+      "likeCount": 0,
+      "retweetCount": 6,
+      "replyCount": 0
+    }
+  ]
+}

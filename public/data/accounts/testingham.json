@@ -1,0 +1,10 @@
+{
+  "username": "testingham",
+  "name": "tom cunningham",
+  "bio": "Economics & AI @ @METR_Evals (ex-openai) https://t.co/FZobuYjdOc",
+  "followersCount": 9073,
+  "followingCount": 2873,
+  "profileUrl": "https://x.com/testingham",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'testingham', '-n', '10', '--json']' returned non-zero exit status 1."
+}

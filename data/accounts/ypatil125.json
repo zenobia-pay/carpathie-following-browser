@@ -1,0 +1,10 @@
+{
+  "username": "ypatil125",
+  "name": "Yash Patil",
+  "bio": "Co-Founder, CEO @appliedcompute\nprev: @OpenAI, @Stanford",
+  "followersCount": 7385,
+  "followingCount": 538,
+  "profileUrl": "https://x.com/ypatil125",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ypatil125', '-n', '10', '--json']' returned non-zero exit status 1."
+}

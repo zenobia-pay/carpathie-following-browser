@@ -1,0 +1,10 @@
+{
+  "username": "naval",
+  "name": "Naval",
+  "bio": "Incompressible",
+  "followersCount": 3062055,
+  "followingCount": 0,
+  "profileUrl": "https://x.com/naval",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'naval', '-n', '10', '--json']' returned non-zero exit status 1."
+}

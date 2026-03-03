@@ -1,0 +1,10 @@
+{
+  "username": "NanoBanana",
+  "name": "Nano Banana 2",
+  "bio": "Nano Banana 2 \ud83c\udf4c\ud83c\udf4c the world's most powerful image editing and generation model! Try in the @GeminiApp",
+  "followersCount": 156230,
+  "followingCount": 3,
+  "profileUrl": "https://x.com/NanoBanana",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'NanoBanana', '-n', '10', '--json']' returned non-zero exit status 1."
+}

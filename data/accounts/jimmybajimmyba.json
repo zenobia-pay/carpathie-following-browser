@@ -1,0 +1,10 @@
+{
+  "username": "jimmybajimmyba",
+  "name": "Jimmy Ba",
+  "bio": "100x | pumping MPI up co-founder @xai | @uoft",
+  "followersCount": 61318,
+  "followingCount": 128,
+  "profileUrl": "https://x.com/jimmybajimmyba",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jimmybajimmyba', '-n', '10', '--json']' returned non-zero exit status 1."
+}

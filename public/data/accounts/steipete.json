@@ -1,0 +1,100 @@
+{
+  "username": "steipete",
+  "name": "Peter Steinberger \ud83e\udd9e",
+  "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw\ud83e\udd9e",
+  "followersCount": 407561,
+  "followingCount": 2271,
+  "profileUrl": "https://x.com/steipete",
+  "tweets": [
+    {
+      "id": "2028957418856624486",
+      "url": "https://x.com/steipete/status/2028957418856624486",
+      "createdAt": "Tue Mar 03 22:15:19 +0000 2026",
+      "text": "RT @danshipper: we just wrote the ultimate beginner's guide to OpenClaw\n\nalmost everyone @every has one now, and they have completely chang\u2026",
+      "likeCount": 0,
+      "retweetCount": 70,
+      "replyCount": 0
+    },
+    {
+      "id": "2028694957490373071",
+      "url": "https://x.com/steipete/status/2028694957490373071",
+      "createdAt": "Tue Mar 03 04:52:23 +0000 2026",
+      "text": "Discovered another user who just copied PRs of other people. Banned.",
+      "likeCount": 2241,
+      "retweetCount": 19,
+      "replyCount": 122
+    },
+    {
+      "id": "2028706288717181336",
+      "url": "https://x.com/steipete/status/2028706288717181336",
+      "createdAt": "Tue Mar 03 05:37:25 +0000 2026",
+      "text": "Was someone from the crypto scene, not gonna call names but it\u2019s all open source so go figure. I\u2019m fixing credits and retroactively updating the changelog.",
+      "likeCount": 484,
+      "retweetCount": 1,
+      "replyCount": 23
+    },
+    {
+      "id": "2028861427692249351",
+      "url": "https://x.com/steipete/status/2028861427692249351",
+      "createdAt": "Tue Mar 03 15:53:53 +0000 2026",
+      "text": "Found another one. This guy even copied his own PRs. ffs. https://t.co/w4jMj6lXuh",
+      "likeCount": 429,
+      "retweetCount": 4,
+      "replyCount": 17
+    },
+    {
+      "id": "2028832963031339151",
+      "url": "https://x.com/steipete/status/2028832963031339151",
+      "createdAt": "Tue Mar 03 14:00:46 +0000 2026",
+      "text": "RT @benedictk__: OpenClaw Meetup in London this week.\n\nMeet @steipete and have some lobster?\n\nhttps://t.co/eX078A2UqK",
+      "likeCount": 0,
+      "retweetCount": 6,
+      "replyCount": 0
+    },
+    {
+      "id": "2028709429286154689",
+      "url": "https://x.com/steipete/status/2028709429286154689",
+      "createdAt": "Tue Mar 03 05:49:54 +0000 2026",
+      "text": "RT @thsottiaux: All-time high requests / second on Codex yesterday and we haven't yet gone through the releases this week. The GPUs are on\u2026",
+      "likeCount": 0,
+      "retweetCount": 30,
+      "replyCount": 0
+    },
+    {
+      "id": "2028689677255852492",
+      "url": "https://x.com/steipete/status/2028689677255852492",
+      "createdAt": "Tue Mar 03 04:31:24 +0000 2026",
+      "text": "RT @flyosity: --dangerously-skip-permissions https://t.co/zk0FLxi4in",
+      "likeCount": 0,
+      "retweetCount": 993,
+      "replyCount": 0
+    },
+    {
+      "id": "2028688472068800912",
+      "url": "https://x.com/steipete/status/2028688472068800912",
+      "createdAt": "Tue Mar 03 04:26:37 +0000 2026",
+      "text": "RT @0xJapee: @steipete @openclaw https://t.co/rhV3Js15nR",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2028682449853567048",
+      "url": "https://x.com/steipete/status/2028682449853567048",
+      "createdAt": "Tue Mar 03 04:02:41 +0000 2026",
+      "text": "New @openclaw beta is up and it's MASSIVE.\nhttps://t.co/jL9ZNIefRc\n\nAsk your agent to update to beta or run: curl -fsSL https://t.co/yjjVIN9fzw | bash -s -- --beta",
+      "likeCount": 1803,
+      "retweetCount": 110,
+      "replyCount": 141
+    },
+    {
+      "id": "2028676437792698758",
+      "url": "https://x.com/steipete/status/2028676437792698758",
+      "createdAt": "Tue Mar 03 03:38:48 +0000 2026",
+      "text": "RT @OmPatil229: @steipete Some startups raise Series A.\nThis repo raised 1,000 humans.",
+      "likeCount": 0,
+      "retweetCount": 2,
+      "replyCount": 0
+    }
+  ]
+}

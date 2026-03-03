@@ -1,0 +1,100 @@
+{
+  "username": "AIatMeta",
+  "name": "AI at Meta",
+  "bio": "Together with the AI community, we are pushing the boundaries of what\u2019s possible through open science to create a more connected world.",
+  "followersCount": 756936,
+  "followingCount": 294,
+  "profileUrl": "https://x.com/AIatMeta",
+  "tweets": [
+    {
+      "id": "2026266818789454057",
+      "url": "https://x.com/AIatMeta/status/2026266818789454057",
+      "createdAt": "Tue Feb 24 12:03:50 +0000 2026",
+      "text": "Meta \ud83e\udd1d AMD\n\nToday we\u2019re announcing a multi-year agreement with @AMD to integrate their latest Instinct GPUs into our global infrastructure. With approximately 6GW of planned data center capacity dedicated to this deployment, we\u2019re scaling our compute capacity to accelerate the development of cutting-edge AI models and deliver personal superintelligence to billions around the world.\n\nLearn more: https://t.co/GFggxfNZ8w",
+      "likeCount": 2327,
+      "retweetCount": 317,
+      "replyCount": 156
+    },
+    {
+      "id": "2024631824304022000",
+      "url": "https://x.com/AIatMeta/status/2024631824304022000",
+      "createdAt": "Thu Feb 19 23:46:57 +0000 2026",
+      "text": "ICYMI: @alexandr_wang spoke at the India AI Impact Summit where he shared Meta\u2019s vision for personal superintelligence and how developers in India are already using AI to solve major societal challenges. \n\nSee highlights \ud83d\udc47 and then watch his full speech here: https://t.co/jzewOtdgjB",
+      "likeCount": 793,
+      "retweetCount": 86,
+      "replyCount": 56
+    },
+    {
+      "id": "2024261696999870661",
+      "url": "https://x.com/AIatMeta/status/2024261696999870661",
+      "createdAt": "Wed Feb 18 23:16:12 +0000 2026",
+      "text": "Our Chief AI Officer @alexandr_wang will take the stage at the India AI Impact Summit.\n\nDate: Thursday, February 19\nTime: 1:53pm IST // 12:23am PST\n\nWatch the livestream here: https://t.co/Gm225QuTSX",
+      "likeCount": 128,
+      "retweetCount": 13,
+      "replyCount": 11
+    },
+    {
+      "id": "2023425964680589381",
+      "url": "https://x.com/AIatMeta/status/2023425964680589381",
+      "createdAt": "Mon Feb 16 15:55:18 +0000 2026",
+      "text": "Our team is heading to India this week for the AI Impact Summit & Expo \ud83c\uddee\ud83c\uddf3\n\nStop by the Meta booth (Exhibition Hall 3, Booth No. 3.7) to meet our team and experience:\n\n\ud83d\udcda Demos of research, including Omnilingual Automatic Speech Recognition (ASR) and SeamlessExpressive\n\n\u26a1 Lightning talks from experts on how AI is unlocking real-world benefits across language, accessibility and health\n\n\ud83d\udc53 Hands-on demos with our latest AI glasses including the Oakley Meta Vanguard\n\nWe look forward to seeing you there!",
+      "likeCount": 420,
+      "retweetCount": 39,
+      "replyCount": 24
+    },
+    {
+      "id": "2003135223056290195",
+      "url": "https://x.com/AIatMeta/status/2003135223056290195",
+      "createdAt": "Mon Dec 22 16:07:08 +0000 2025",
+      "text": "Our Segment Anything Models are helping advance flood monitoring and disaster response.\n\nSee how @USRAedu and @USGS have fine-tuned SAM to automate a key bottleneck in real-time river mapping, enabling faster, scalable, and more cost-effective disaster preparedness: https://t.co/DRHSfhkh2z",
+      "likeCount": 525,
+      "retweetCount": 74,
+      "replyCount": 58
+    },
+    {
+      "id": "2002108673485910319",
+      "url": "https://x.com/AIatMeta/status/2002108673485910319",
+      "createdAt": "Fri Dec 19 20:07:59 +0000 2025",
+      "text": "RT @pierrefdz: We're thrilled to share the open source release of Meta Seal, a comprehensive, SOTA, and MIT-licensed suite of AI watermarki\u2026",
+      "likeCount": 0,
+      "retweetCount": 28,
+      "replyCount": 0
+    },
+    {
+      "id": "2001698702961053750",
+      "url": "https://x.com/AIatMeta/status/2001698702961053750",
+      "createdAt": "Thu Dec 18 16:58:55 +0000 2025",
+      "text": "We\u2019re open-sourcing Perception Encoder Audiovisual (PE-AV), the technical engine that helps drive SAM Audio\u2019s state-of-the-art audio separation.\n\nBuilt on our Perception Encoder model from earlier this year, PE-AV integrates audio with visual perception, achieving state-of-the-art results across a wide range of audio and video benchmarks. Its native multimodal support can assist people in everyday tasks, including sound detection and richer audio-visual scene understanding.\n\n\ud83d\udd17 Read the paper: https://t.co/RLWJOgG2uz\n\ud83d\udd17 Download the code: https://t.co/1L5ZqCZlxq",
+      "likeCount": 1364,
+      "retweetCount": 172,
+      "replyCount": 115
+    },
+    {
+      "id": "2001429429898407977",
+      "url": "https://x.com/AIatMeta/status/2001429429898407977",
+      "createdAt": "Wed Dec 17 23:08:55 +0000 2025",
+      "text": "We\u2019re hosting a Reddit AMA with the researchers behind SAM 3 + SAM 3D + SAM Audio. \n\nJoin us tomorrow at 2pm PT.\n\nhttps://t.co/du6ggA88Un",
+      "likeCount": 449,
+      "retweetCount": 52,
+      "replyCount": 21
+    },
+    {
+      "id": "2000980784425931067",
+      "url": "https://x.com/AIatMeta/status/2000980784425931067",
+      "createdAt": "Tue Dec 16 17:26:10 +0000 2025",
+      "text": "\ud83d\udd09 Introducing SAM Audio, the first unified model that isolates any sound from complex audio mixtures using text, visual, or span prompts.\n\nWe\u2019re sharing SAM Audio with the community, along with a perception encoder model, benchmarks and research papers, to empower others to explore new forms of expression and build applications that were previously out of reach.\n\n\ud83d\udd17 Learn more: https://t.co/FPnfv66UCP",
+      "likeCount": 6454,
+      "retweetCount": 930,
+      "replyCount": 381
+    },
+    {
+      "id": "2000980786153967967",
+      "url": "https://x.com/AIatMeta/status/2000980786153967967",
+      "createdAt": "Tue Dec 16 17:26:10 +0000 2025",
+      "text": "SAM Audio represents a significant advancement in audio separation technology, outperforming previous models across a wide range of benchmarks and tasks. https://t.co/86bDoRnc8A",
+      "likeCount": 218,
+      "retweetCount": 12,
+      "replyCount": 13
+    }
+  ]
+}

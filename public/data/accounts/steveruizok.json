@@ -1,0 +1,10 @@
+{
+  "username": "steveruizok",
+  "name": "Steve Ruiz",
+  "bio": "founder @tldraw",
+  "followersCount": 46824,
+  "followingCount": 877,
+  "profileUrl": "https://x.com/steveruizok",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'steveruizok', '-n', '10', '--json']' returned non-zero exit status 1."
+}

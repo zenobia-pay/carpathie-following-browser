@@ -1,0 +1,100 @@
+{
+  "username": "iamtrask",
+  "name": "\u2ffb Andrew Trask",
+  "bio": "i teach AI on X\n\nBuilding @openminedorg, @GoogleDeepMind, @OxfordUni. Also @UN @GovAI_ @CFR_org. I like to train federated/decentralized neural nets.",
+  "followersCount": 79897,
+  "followingCount": 1164,
+  "profileUrl": "https://x.com/iamtrask",
+  "tweets": [
+    {
+      "id": "1979996110761660793",
+      "url": "https://x.com/iamtrask/status/1979996110761660793",
+      "createdAt": "Sun Oct 19 19:40:34 +0000 2025",
+      "text": "I've just drafted a new blogpost\n\n\"GPU demand is (~1Mx) distorted by efficiency problems which are being solved\"\n\nMid-2024, Andrej Karpathy trained GPT-2 for $20. Six months later, Andreessen Horowitz reported LLM costs falling 10x annually. Two months after that, DeepSeek shocked markets with radical reductions in training and inference requirements.\n\nFor AI researchers, this is all good news. For executives, policymakers, and investors forecasting GPU demand... less so. Many were caught off guard.\n\nThe problem isn\u2019t that executives / policymakers / investors lacked access to information per se\u2026 it\u2019s that the technical/non-technical divide prevents them from seeing the difference between waste-based GPU demand and fundamental GPU demand.\n\nMeanwhile, tech experts like Karpathy, a16z, and DeepSeek understand fundamental principles which are easy to overlook if you\u2019re not implementing the algorithms yourself. But in presenting their results as merely \u201cAI progress\u201d, they buried the lede\u2026\n\nThe Lede: If version X of an algorithm achieves the same result as version X-1 at 1/10th the compute cost, what exactly were we paying for in version X-1?\n\nThe answer has profound implications for anyone forecasting future GPU demand: version X-1 was roughly 90% waste. And a16z\u2019s report, Karpathy\u2019s achievement, and DeepSeek\u2019s breakthrough indicate this isn\u2019t a single 12-month event\u2026 it\u2019s a multi-year pattern. Version X-1 was 90% waste. Version X-2 was 99% waste. Version X-3...\n\nWait\u2026 Leading AI labs allow waste?\n\nThe obvious question: if this waste exists at such scale, wouldn\u2019t the labs building these systems have eliminated it already?\n\nThey are eliminating it. That\u2019s what the 10x annual cost reduction represents. While hardware cost reduction accounts for some of the annual efficiency gain, software updates from AI labs constitute the vast majority\u2026 an ~86% efficiency gain annually. The puzzle isn\u2019t whether labs are optimising\u2026 clearly they are. The puzzle is why so much waste existed to eliminate in the first place... and how much remains.\n\n... (link on profile page)",
+      "likeCount": 355,
+      "retweetCount": 41,
+      "replyCount": 31
+    },
+    {
+      "id": "1980004719675240869",
+      "url": "https://x.com/iamtrask/status/1980004719675240869",
+      "createdAt": "Sun Oct 19 20:14:46 +0000 2025",
+      "text": "https://t.co/fi6YGfoQSB",
+      "likeCount": 15,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "1980083913377960016",
+      "url": "https://x.com/iamtrask/status/1980083913377960016",
+      "createdAt": "Mon Oct 20 01:29:27 +0000 2025",
+      "text": "Thank you to the researchers at @a16z and @EpochAIResearch whose excellent reports underpin this piece in important ways.",
+      "likeCount": 9,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1975327838241689970",
+      "url": "https://x.com/iamtrask/status/1975327838241689970",
+      "createdAt": "Mon Oct 06 22:30:31 +0000 2025",
+      "text": "The hottest new code library is the actual library",
+      "likeCount": 156,
+      "retweetCount": 8,
+      "replyCount": 8
+    },
+    {
+      "id": "1972167087037808995",
+      "url": "https://x.com/iamtrask/status/1972167087037808995",
+      "createdAt": "Sun Sep 28 05:10:49 +0000 2025",
+      "text": "I've just drafted a new blogpost\n\n\"The Bitter Lesson's Bitter Lesson\"\n\nRichard Sutton and Dwarkesh discussed the Bitter Lesson, where Richard argued that babies and animals don\u2019t learn through imitation, so state-of-the-art LLMs are pursuing the wrong path by imitating humans through next-token prediction. While Richard is correct about babies and animals, he overlooks the extraordinary computational savings we achieve through this approach.\n\nSutton\u2019s position effectively suggests we should re-run evolution from scratch rather than inherit knowledge from our evolutionary and cultural history. This encounters the Bitter Lesson\u2019s Bitter Lesson: if we discard everything humanity and nature have learned and attempt to re-learn policies from first principles, we must regenerate a comparable set of samples that evolution used\u2014potentially greater than 10^50 operations when accounting for neural activity across every organism that contributed to our evolutionary trajectory. For reference, current AI models use around 10^26 operations.\n\nThe Computational Reality of Pure Learning\n\nEvolution required approximately 4.5 billion years (4.5 * 10^9 years) and many quintillions of parallel experiments across roughly 10^30 living organisms to develop our cognitive capabilities. When we train LLMs on human-generated text, we inherit the compressed output of this process. Every sentence encodes millions of years of evolutionary optimization for communication, reasoning, and world-modeling.\n\nEven human babies inherit sophisticated neural architectures pre-optimized for language acquisition and social learning. The \u201cblank slate\u201d is already running highly optimized evolutionary code. What appears to be learning from scratch is actually building upon an extraordinarily sophisticated computational foundation.\n\nTwo Paradigms: Broadcasting vs. Broad Listening\n\nSutton\u2019s framework illuminates a fundamental division in AI research between experiential learning (direct environmental interaction) and inherited learning (accumulated knowledge transmission). This distinction reveals something essential about intelligence itself.\n\nConsider what happens when knowledge can\u2019t be transmitted effectively. Animals keep getting hit by cars not because they can\u2019t learn from experience\u2014it\u2019s that the animals who experience it struggle to communicate the danger to their peers and offspring. Each generation relearns the same lethal lessons\u00a0\u2014\u00a0because they don\u2019t have information technology.\n\nTo solve the problem of gathering lived experience across time and space, humans developed information technology.\n\nWe began with language 250,000 years ago, creating two revolutionary capabilities: broadcasting (transmitting learned knowledge to others) and broad listening (synthesizing information from multiple sources into superior world models). And since that time, we\u2019ve advanced information technology by increasing the scale at which we can broadcast and broad listen.\n\nThis is wholly different from re-learning through experiential learning. Modern physicists don\u2019t re-derive calculus from first principles\u2014they inherit humanity\u2019s mathematical frameworks and extend them further.\n\nThe Knowledge Access Challenge\n\nNevertheless, Sutton has a point. LLMs have exhausted the internet. So what\u2019s next? Have LLMs run their course, requiring us to pivot to experiential learning?\n\nNot necessarily. Current LLMs demonstrate broad listening at unprecedented scale, but they access only a fraction of humanity\u2019s accumulated knowledge. Leading AI models are trained on datasets measuring in hundreds of terabytes\u2014for reference, you could store GPT-4\u2019s training data using a few dozen consumer hard drives from Walmart. Meanwhile, the world has digitized an estimated 180 zettabytes of data, over a million times more than what trained today\u2019s leading models.\n\nThe vast majority of human knowledge remains locked in private databases, medical records, proprietary research, and institutional knowledge. Consider the scale:\n\n- Current LLM training data: ~100-200 terabytes\n- All digitized human knowledge: ~180 zettabytes (180,000,000,000,000 terabytes)\n- Ratio: Over 1,000,000,000x more data exists than we currently use to train LLMs\n\nImagine AI systems practicing broad listening across all human knowledge\u2014every hospital\u2019s patient data, every company\u2019s operational insights, every research institution\u2019s findings. This isn\u2019t just more data; it\u2019s higher-quality data that organizations continuously validate for accuracy because they depend on it for operational decisions. This would represent a paradigm shift comparable to the original development of language, potentially accessing millions of times more high-quality data than current models.\n\nThe challenge isn\u2019t data scarcity\u2014it\u2019s enabling knowledge transfer while preserving control and ownership (e.g. privacy, safety, security, copyright, etc.).\n\nBeyond Current Architectures\n\nThe computational advantages of inherited learning point toward AI architectures that maintain attribution and control, allowing data owners to contribute to collective intelligence while retaining governance over their knowledge. Such systems would implement broad listening at civilizational scale while respecting contributor interests.\n\nRather than viewing inherited learning as inferior to pure discovery, we should recognize it as the foundation for systems that can stand on the shoulders of all human knowledge. This represents the next evolution of the broad listening capabilities that made human civilization possible, scaled to encompass our entire species\u2019 collective intelligence.\n\nThe technical and policy frameworks for implementing such systems are rapidly developing. The convergence of privacy-enhancing technologies, attribution-based AI architectures, and new approaches to data governance creates unprecedented opportunities to build AI systems that truly leverage the computational advantages of inherited learning at civilizational scale.\n\nThe bitter lesson\u2019s bitter lesson reveals that the most successful intelligence strategy combines inherited optimization with continued learning capabilities. Nature spent billions of years learning not to start over\u2014and the future belongs to AI systems that can inherit vast human knowledge while maintaining robust capabilities for novel discovery.",
+      "likeCount": 976,
+      "retweetCount": 102,
+      "replyCount": 75
+    },
+    {
+      "id": "1972167154931061103",
+      "url": "https://x.com/iamtrask/status/1972167154931061103",
+      "createdAt": "Sun Sep 28 05:11:05 +0000 2025",
+      "text": "https://t.co/qgj41CRQ09",
+      "likeCount": 20,
+      "retweetCount": 2,
+      "replyCount": 1
+    },
+    {
+      "id": "1971197830258950236",
+      "url": "https://x.com/iamtrask/status/1971197830258950236",
+      "createdAt": "Thu Sep 25 12:59:20 +0000 2025",
+      "text": "IMO \u2014\u00a0biggest misunderstanding in AI right now...\n\nSynthetic data isn't synthetic data. It's a cleaner version of the original data. It was named poorly.",
+      "likeCount": 410,
+      "retweetCount": 20,
+      "replyCount": 58
+    },
+    {
+      "id": "1971238636034118112",
+      "url": "https://x.com/iamtrask/status/1971238636034118112",
+      "createdAt": "Thu Sep 25 15:41:29 +0000 2025",
+      "text": "Refinement: synthetic data is a compressed version of the original training data. When synthetic data does a good job, that lossy compression removes noise. \n\nBut the synthetic data isn't \"smarter\" than the original. It's just easier to train on because it's better signal-to-noise.",
+      "likeCount": 20,
+      "retweetCount": 1,
+      "replyCount": 8
+    },
+    {
+      "id": "1971245980512063631",
+      "url": "https://x.com/iamtrask/status/1971245980512063631",
+      "createdAt": "Thu Sep 25 16:10:40 +0000 2025",
+      "text": "For example, If you have dots on an XY-plane, and you fit a model to them... drawing a line between the dots... you can then use that model to generate more dots which didn't exist before.   \n\nAnd if you train a model on that new line + dots, the model can be *smaller* and *more accurate* because it gets to learn the simple line instead of having to fight/memorize lots of noisy dots around the line.   \n\nThis is very good for learning.  \n\nBut it's not strictly speaking *new* information. Synthetic data doesn't create inforamtion in the information theoretic sense...it cleans out the noise and lets teh downstream model learn teh line (which is the real \"information\" hidden within teh samples).",
+      "likeCount": 14,
+      "retweetCount": 0,
+      "replyCount": 6
+    },
+    {
+      "id": "1970892295261282308",
+      "url": "https://x.com/iamtrask/status/1970892295261282308",
+      "createdAt": "Wed Sep 24 16:45:15 +0000 2025",
+      "text": "IMO\u00a0\u2014\u00a0Ilya is wrong\n\n- Frontier LLMs are are trained on ~200 TBs of text\n- There's ~200 Zettabytes of data out there\n- That's about 1 billion times more data\n- It doubles every 2 years\n\nThe problem is the data is private. Can't scrape it.\n\nThe problem is not data scarcity, it's data access.\n\nThe solution is attribution-based control (article below)\n\n\"Unlocking a Million Times More Data For AI\"",
+      "likeCount": 998,
+      "retweetCount": 79,
+      "replyCount": 137
+    }
+  ]
+}

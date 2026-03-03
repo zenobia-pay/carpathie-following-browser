@@ -1,0 +1,10 @@
+{
+  "username": "ryanmart3n",
+  "name": "Ryan Marten",
+  "bio": "Building @harborframework and @terminalbench with @alexgshaw",
+  "followersCount": 1940,
+  "followingCount": 1836,
+  "profileUrl": "https://x.com/ryanmart3n",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ryanmart3n', '-n', '10', '--json']' returned non-zero exit status 1."
+}

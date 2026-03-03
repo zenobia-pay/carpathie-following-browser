@@ -1,0 +1,10 @@
+{
+  "username": "PI010101",
+  "name": "Paata Ivanisvili",
+  "bio": "Professor of Mathematics @ UCI. Former postdoc @ Princeton.  Exploring what AI can (and can\u2019t) do in math.",
+  "followersCount": 3923,
+  "followingCount": 139,
+  "profileUrl": "https://x.com/PI010101",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'PI010101', '-n', '10', '--json']' returned non-zero exit status 1."
+}

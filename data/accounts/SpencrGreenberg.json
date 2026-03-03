@@ -1,0 +1,10 @@
+{
+  "username": "SpencrGreenberg",
+  "name": "Spencer Greenberg \ud83d\udd0d",
+  "bio": "A mathematician/entrepreneur in social science. Tweets about psychology, society, rationality, tech, science, and philosophy. Founder of https://t.co/2YGraOwo77",
+  "followersCount": 34061,
+  "followingCount": 6569,
+  "profileUrl": "https://x.com/SpencrGreenberg",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'SpencrGreenberg', '-n', '10', '--json']' returned non-zero exit status 1."
+}

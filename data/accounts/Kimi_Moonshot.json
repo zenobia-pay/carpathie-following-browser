@@ -1,0 +1,10 @@
+{
+  "username": "Kimi_Moonshot",
+  "name": "Kimi.ai",
+  "bio": "Built by Moonshot AI to empower everyone to be superhuman. \u26a1\ufe0fAPI: https://t.co/ggYlFf809H\n@KimiProduct where we share cool use cases and prompts.",
+  "followersCount": 118777,
+  "followingCount": 131,
+  "profileUrl": "https://x.com/Kimi_Moonshot",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'Kimi_Moonshot', '-n', '10', '--json']' returned non-zero exit status 1."
+}

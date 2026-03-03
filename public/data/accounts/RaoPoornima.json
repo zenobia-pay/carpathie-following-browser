@@ -1,0 +1,10 @@
+{
+  "username": "RaoPoornima",
+  "name": "Poornima Rao",
+  "bio": "OpenAI Whistleblower Suchir Balaji\u2019s mom",
+  "followersCount": 12866,
+  "followingCount": 85,
+  "profileUrl": "https://x.com/RaoPoornima",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'RaoPoornima', '-n', '10', '--json']' returned non-zero exit status 1."
+}

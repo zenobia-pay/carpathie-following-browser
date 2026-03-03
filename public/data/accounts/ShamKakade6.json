@@ -1,0 +1,10 @@
+{
+  "username": "ShamKakade6",
+  "name": "Sham Kakade",
+  "bio": "Harvard Professor. \nFull stack ML and AI. \nCo-director of  the Kempner Institute for the Study of Artificial and Natural Intelligence.",
+  "followersCount": 17464,
+  "followingCount": 552,
+  "profileUrl": "https://x.com/ShamKakade6",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ShamKakade6', '-n', '10', '--json']' returned non-zero exit status 1."
+}

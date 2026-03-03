@@ -1,0 +1,100 @@
+{
+  "username": "_akhaliq",
+  "name": "AK",
+  "bio": "AI research paper tweets, ML @Gradio (acq. by @HuggingFace \ud83e\udd17) dm for promo ,submit papers here: https://t.co/UzmYN5XOCi",
+  "followersCount": 460255,
+  "followingCount": 3146,
+  "profileUrl": "https://x.com/_akhaliq",
+  "tweets": [
+    {
+      "id": "2028895953839964504",
+      "url": "https://x.com/_akhaliq/status/2028895953839964504",
+      "createdAt": "Tue Mar 03 18:11:05 +0000 2026",
+      "text": "RT @ch3cook_csj: Thank @_akhaliq for sharing!\n\nWe have launched a live Demo at: https://t.co/riYwuzGQmM Give it a try!\n\nHF Daily: https://t\u2026",
+      "likeCount": 0,
+      "retweetCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "2028881079709417922",
+      "url": "https://x.com/_akhaliq/status/2028881079709417922",
+      "createdAt": "Tue Mar 03 17:11:58 +0000 2026",
+      "text": "Enhancing Spatial Understanding in Image Generation via Reward Modeling\nhttps://t.co/3t4ylnDlTo",
+      "likeCount": 11,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028880643325641160",
+      "url": "https://x.com/_akhaliq/status/2028880643325641160",
+      "createdAt": "Tue Mar 03 17:10:14 +0000 2026",
+      "text": "CUDA Agent\n\nLarge-Scale Agentic RL for High-Performance CUDA Kernel Generation\nhttps://t.co/9XfQnJn1s9",
+      "likeCount": 21,
+      "retweetCount": 1,
+      "replyCount": 3
+    },
+    {
+      "id": "2028878151485411419",
+      "url": "https://x.com/_akhaliq/status/2028878151485411419",
+      "createdAt": "Tue Mar 03 17:00:20 +0000 2026",
+      "text": "OmniLottie\n\nGenerating Vector Animations via Parameterized Lottie Tokens\n\npaper: https://t.co/cRXmK9UCTB https://t.co/Lid1OjIhfq",
+      "likeCount": 88,
+      "retweetCount": 11,
+      "replyCount": 2
+    },
+    {
+      "id": "2028879616627359781",
+      "url": "https://x.com/_akhaliq/status/2028879616627359781",
+      "createdAt": "Tue Mar 03 17:06:10 +0000 2026",
+      "text": "app: https://t.co/ofgei8artL",
+      "likeCount": 2,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028855121174544581",
+      "url": "https://x.com/_akhaliq/status/2028855121174544581",
+      "createdAt": "Tue Mar 03 15:28:49 +0000 2026",
+      "text": "From Scale to Speed\n\nAdaptive Test-Time Scaling for Image Editing\npaper: https://t.co/hk64M452W6",
+      "likeCount": 27,
+      "retweetCount": 4,
+      "replyCount": 2
+    },
+    {
+      "id": "2028508177558348143",
+      "url": "https://x.com/_akhaliq/status/2028508177558348143",
+      "createdAt": "Mon Mar 02 16:30:12 +0000 2026",
+      "text": "Mode Seeking meets Mean Seeking for Fast Long Video Generation\n\npaper: https://t.co/TFznQW57cC https://t.co/nfLMnHpp9b",
+      "likeCount": 115,
+      "retweetCount": 17,
+      "replyCount": 4
+    },
+    {
+      "id": "2028507665421254833",
+      "url": "https://x.com/_akhaliq/status/2028507665421254833",
+      "createdAt": "Mon Mar 02 16:28:09 +0000 2026",
+      "text": "Enhancing Spatial Understanding in Image Generation via Reward Modeling\nhttps://t.co/3t4ylnDlTo",
+      "likeCount": 57,
+      "retweetCount": 8,
+      "replyCount": 3
+    },
+    {
+      "id": "2028507502607036834",
+      "url": "https://x.com/_akhaliq/status/2028507502607036834",
+      "createdAt": "Mon Mar 02 16:27:31 +0000 2026",
+      "text": "dLLM\n\nSimple Diffusion Language Modeling\nhttps://t.co/8a3wDPMZiN",
+      "likeCount": 144,
+      "retweetCount": 13,
+      "replyCount": 7
+    },
+    {
+      "id": "2028280006695133357",
+      "url": "https://x.com/_akhaliq/status/2028280006695133357",
+      "createdAt": "Mon Mar 02 01:23:31 +0000 2026",
+      "text": "RT @AtsuMiyaiAM: Thank @_akhaliq for sharing our paper!\n\nOur paper has been accepted by TMLR2026!\n\nStarting from a baseline paper and code,\u2026",
+      "likeCount": 0,
+      "retweetCount": 9,
+      "replyCount": 0
+    }
+  ]
+}

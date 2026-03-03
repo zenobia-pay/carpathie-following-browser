@@ -1,0 +1,10 @@
+{
+  "username": "Kijaidesign",
+  "name": "Jukka Sepp\u00e4nen",
+  "bio": "3D modeling/printing artist, AI enthusiast, rookie Python coder.",
+  "followersCount": 6453,
+  "followingCount": 79,
+  "profileUrl": "https://x.com/Kijaidesign",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'Kijaidesign', '-n', '10', '--json']' returned non-zero exit status 1."
+}

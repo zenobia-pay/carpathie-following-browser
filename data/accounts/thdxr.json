@@ -1,0 +1,100 @@
+{
+  "username": "thdxr",
+  "name": "dax",
+  "bio": "building https://t.co/eVz8bbXqxp at https://t.co/tuf3muzh5t\nnot the ceo",
+  "followersCount": 108614,
+  "followingCount": 371,
+  "profileUrl": "https://x.com/thdxr",
+  "tweets": [
+    {
+      "id": "2028856455747490085",
+      "url": "https://x.com/thdxr/status/2028856455747490085",
+      "createdAt": "Tue Mar 03 15:34:08 +0000 2026",
+      "text": "RT @bentlegen: Coding isn't holding you back. Product work is.\n\nIntroducing Modem, your dev team's auto-triage PM.\n\nIt listens to user sign\u2026",
+      "likeCount": 0,
+      "retweetCount": 64,
+      "replyCount": 0
+    },
+    {
+      "id": "2028852569821294680",
+      "url": "https://x.com/thdxr/status/2028852569821294680",
+      "createdAt": "Tue Mar 03 15:18:41 +0000 2026",
+      "text": "nothing pairs better with a productive morning than cutting-edge aerospace and defense systems from raytheon",
+      "likeCount": 65,
+      "retweetCount": 0,
+      "replyCount": 4
+    },
+    {
+      "id": "2028851557530312760",
+      "url": "https://x.com/thdxr/status/2028851557530312760",
+      "createdAt": "Tue Mar 03 15:14:40 +0000 2026",
+      "text": "when you think of feature A your job is to recognize that it's actually a special case of feature X and if you implement feature X it unlocks feature A B C\n\npeople are struggling with this lately because they can't think bigger than what their agent can do",
+      "likeCount": 716,
+      "retweetCount": 36,
+      "replyCount": 51
+    },
+    {
+      "id": "2028847708346192077",
+      "url": "https://x.com/thdxr/status/2028847708346192077",
+      "createdAt": "Tue Mar 03 14:59:22 +0000 2026",
+      "text": "so many companies both established and startup are trying to get a foothold on something ai related\n\nso now whenever there's any new ai concept no matter how small there's a massive pile on\n\ndoesn't help that you can shit out code now for any idea",
+      "likeCount": 130,
+      "retweetCount": 2,
+      "replyCount": 14
+    },
+    {
+      "id": "2028838216694956538",
+      "url": "https://x.com/thdxr/status/2028838216694956538",
+      "createdAt": "Tue Mar 03 14:21:39 +0000 2026",
+      "text": "if i have a mac that can be always on what is the best solution to use the messages app from web on a non-mac device?",
+      "likeCount": 120,
+      "retweetCount": 0,
+      "replyCount": 18
+    },
+    {
+      "id": "2028830918236950570",
+      "url": "https://x.com/thdxr/status/2028830918236950570",
+      "createdAt": "Tue Mar 03 13:52:39 +0000 2026",
+      "text": "in the early days of SaaS you were going after customers who weren't already using something so it was kind of easy to get users\n\npeople started giving advice on how to build products and would say \"i'm successful listen to me\"\n\nbut most of the advice was completely wrong because things look totally different 10 years later in a world where software has proliferated\n\na similar thing is happening now with AI tools - everyone is hungry to try new workflows so it's relatively easy to get users\n\nthe same dynamic is playing out again, there's terrible advice proliferating with \"but we have users\" as validation\n\nit should actually be a negative signal because they can't actually explain their thoughts",
+      "likeCount": 207,
+      "retweetCount": 9,
+      "replyCount": 32
+    },
+    {
+      "id": "2028827251534352764",
+      "url": "https://x.com/thdxr/status/2028827251534352764",
+      "createdAt": "Tue Mar 03 13:38:05 +0000 2026",
+      "text": "we've never done code review\n\nbut damn if your team is producing this much code you're using LLMs entirely incorrectly\n\nno one struggles with large amounts of code more than an LLM, if you don't keep that in check you have a self defeating codebase",
+      "likeCount": 769,
+      "retweetCount": 26,
+      "replyCount": 52
+    },
+    {
+      "id": "2028661911567409563",
+      "url": "https://x.com/thdxr/status/2028661911567409563",
+      "createdAt": "Tue Mar 03 02:41:05 +0000 2026",
+      "text": "this thing about open source projects making their tests private\n\nyou're either open source or not - part of that is enabling a successor to show up for net benefit of the world\n\nmaking that intentionally difficult is fine but then it's something different",
+      "likeCount": 1015,
+      "retweetCount": 33,
+      "replyCount": 71
+    },
+    {
+      "id": "2028628480078840276",
+      "url": "https://x.com/thdxr/status/2028628480078840276",
+      "createdAt": "Tue Mar 03 00:28:14 +0000 2026",
+      "text": "https://t.co/YMLshA3akw",
+      "likeCount": 3559,
+      "retweetCount": 34,
+      "replyCount": 116
+    },
+    {
+      "id": "2028621778218557519",
+      "url": "https://x.com/thdxr/status/2028621778218557519",
+      "createdAt": "Tue Mar 03 00:01:36 +0000 2026",
+      "text": "could have prompted a git worktree feature into existence a while ago\n\nbut we put in the time to design a system that can also support docker containers, remote sandboxes, etc\n\nwith sync that can tolerate going offline\n\nwe're always the last to ship, but we're the last to ship",
+      "likeCount": 1086,
+      "retweetCount": 30,
+      "replyCount": 52
+    }
+  ]
+}

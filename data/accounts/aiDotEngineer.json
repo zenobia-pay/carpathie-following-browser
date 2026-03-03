@@ -1,0 +1,10 @@
+{
+  "username": "aiDotEngineer",
+  "name": "AI Engineer",
+  "bio": "A network of engineers enhanced by and building with AI. \n\nOrganizers of the AI Engineer Summit, AI Engineer World's Fair, and AI Engineer Europe.",
+  "followersCount": 42292,
+  "followingCount": 9,
+  "profileUrl": "https://x.com/aiDotEngineer",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'aiDotEngineer', '-n', '10', '--json']' returned non-zero exit status 1."
+}

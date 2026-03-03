@@ -1,0 +1,10 @@
+{
+  "username": "jackminong",
+  "name": "Jackmin",
+  "bio": "making sand smarter @PrimeIntellect \ud83c\uddfa\ud83c\uddf8. Previously @JinaAI_ \ud83c\udde9\ud83c\uddea @MoneyLion \ud83c\uddf2\ud83c\uddfe.",
+  "followersCount": 2104,
+  "followingCount": 845,
+  "profileUrl": "https://x.com/jackminong",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jackminong', '-n', '10', '--json']' returned non-zero exit status 1."
+}

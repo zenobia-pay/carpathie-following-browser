@@ -1,0 +1,10 @@
+{
+  "username": "noampomsky",
+  "name": "Ava",
+  "bio": "text II is active, moved by pleasure",
+  "followersCount": 64304,
+  "followingCount": 661,
+  "profileUrl": "https://x.com/noampomsky",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'noampomsky', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "PrimeIntellect",
+  "name": "Prime Intellect",
+  "bio": "open superintelligence stack \n\nhttps://t.co/ZRZOsRQDGT",
+  "followersCount": 60906,
+  "followingCount": 35,
+  "profileUrl": "https://x.com/PrimeIntellect",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'PrimeIntellect', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "leloykun",
+  "name": "leloy!",
+  "bio": "Math @ AdMU \u2022 NanoGPT speedrunner \u2022 Muon fan \ud83e\udd0d \u2022 prev ML @ XPD \u2022 2x IOI & 2x ICPC \u2022 https://t.co/nfO038itfn",
+  "followersCount": 7196,
+  "followingCount": 4429,
+  "profileUrl": "https://x.com/leloykun",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'leloykun', '-n', '10', '--json']' returned non-zero exit status 1."
+}

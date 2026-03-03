@@ -1,0 +1,10 @@
+{
+  "username": "Mononofu",
+  "name": "Julian Schrittwieser",
+  "bio": "Member of Technical Staff at Anthropic | AlphaGo, AlphaZero, MuZero, AlphaCode, AlphaTensor, AlphaProof Gemini RL Prev Principal Research Engineer at DeepMind",
+  "followersCount": 23562,
+  "followingCount": 105,
+  "profileUrl": "https://x.com/Mononofu",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'Mononofu', '-n', '10', '--json']' returned non-zero exit status 1."
+}

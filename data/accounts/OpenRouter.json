@@ -1,0 +1,10 @@
+{
+  "username": "OpenRouter",
+  "name": "OpenRouter",
+  "bio": "Discover and use the latest LLMs. 500+ models (incl. 50+ free), explorable data, private chat, & a unified API. https://t.co/qJG5mKrigL",
+  "followersCount": 73728,
+  "followingCount": 362,
+  "profileUrl": "https://x.com/OpenRouter",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'OpenRouter', '-n', '10', '--json']' returned non-zero exit status 1."
+}

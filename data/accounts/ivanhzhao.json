@@ -1,0 +1,100 @@
+{
+  "username": "ivanhzhao",
+  "name": "Ivan Zhao",
+  "bio": "CEO @NotionHQ. Malleable software. Tools for thought.",
+  "followersCount": 78656,
+  "followingCount": 1755,
+  "profileUrl": "https://x.com/ivanhzhao",
+  "tweets": [
+    {
+      "id": "2028886692908941798",
+      "url": "https://x.com/ivanhzhao/status/2028886692908941798",
+      "createdAt": "Tue Mar 03 17:34:17 +0000 2026",
+      "text": "Introducing a brand new Notion (opt-in)",
+      "likeCount": 112,
+      "retweetCount": 3,
+      "replyCount": 7
+    },
+    {
+      "id": "2028884284153708960",
+      "url": "https://x.com/ivanhzhao/status/2028884284153708960",
+      "createdAt": "Tue Mar 03 17:24:42 +0000 2026",
+      "text": "RT @zachtratar: Announcing MCP &amp; API support for Notion AI Meeting Notes!\n\nInstall in 8 seconds.\n\n\ud83e\ude84\u00a0Turn meetings into code, fast\n\ud83e\uddd1\u200d\ud83d\udcbb\u00a0Vibe\u2026",
+      "likeCount": 0,
+      "retweetCount": 13,
+      "replyCount": 0
+    },
+    {
+      "id": "2028590545128558619",
+      "url": "https://x.com/ivanhzhao/status/2028590545128558619",
+      "createdAt": "Mon Mar 02 21:57:30 +0000 2026",
+      "text": "RT @himanshustwts: dude custom agents are sick!\n\nlike if you draft articles on notion first and then publish cross-platform - its just coup\u2026",
+      "likeCount": 0,
+      "retweetCount": 6,
+      "replyCount": 0
+    },
+    {
+      "id": "2028548917588299889",
+      "url": "https://x.com/ivanhzhao/status/2028548917588299889",
+      "createdAt": "Mon Mar 02 19:12:05 +0000 2026",
+      "text": "RT @NotionHQ: Allow us to reintroduce ourselves. https://t.co/UQADRM4Jj3",
+      "likeCount": 0,
+      "retweetCount": 209,
+      "replyCount": 0
+    },
+    {
+      "id": "2028193475611738622",
+      "url": "https://x.com/ivanhzhao/status/2028193475611738622",
+      "createdAt": "Sun Mar 01 19:39:41 +0000 2026",
+      "text": "RT @wildenfreetech: Okay now that I\u2019m looking at this up close, this markdown update for Notion is massive for Agentic use. Not a small upd\u2026",
+      "likeCount": 0,
+      "retweetCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "2028156152417071398",
+      "url": "https://x.com/ivanhzhao/status/2028156152417071398",
+      "createdAt": "Sun Mar 01 17:11:22 +0000 2026",
+      "text": "RT @pfista: I fully automated monthly client invoicing with @NotionHQ custom agents and workers\n\nEvery month my custom agent:\n\n- Pulls bill\u2026",
+      "likeCount": 0,
+      "retweetCount": 7,
+      "replyCount": 0
+    },
+    {
+      "id": "2027745670065488188",
+      "url": "https://x.com/ivanhzhao/status/2027745670065488188",
+      "createdAt": "Sat Feb 28 14:00:16 +0000 2026",
+      "text": "We added a new model to Custom Agents last night (MiniMax M2.5). Give us cost and performance feedback. More models coming",
+      "likeCount": 188,
+      "retweetCount": 17,
+      "replyCount": 18
+    },
+    {
+      "id": "2027472821626998824",
+      "url": "https://x.com/ivanhzhao/status/2027472821626998824",
+      "createdAt": "Fri Feb 27 19:56:03 +0000 2026",
+      "text": "And our goal is to make the graph/cost go DOWN for our customers!",
+      "likeCount": 138,
+      "retweetCount": 4,
+      "replyCount": 10
+    },
+    {
+      "id": "2027239042274742783",
+      "url": "https://x.com/ivanhzhao/status/2027239042274742783",
+      "createdAt": "Fri Feb 27 04:27:06 +0000 2026",
+      "text": "RT @brian_lovin: And lo, the vibe coders did look upward and rejoice \ud83d\ude4c",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2027226328253001773",
+      "url": "https://x.com/ivanhzhao/status/2027226328253001773",
+      "createdAt": "Fri Feb 27 03:36:35 +0000 2026",
+      "text": "Markdown API",
+      "likeCount": 236,
+      "retweetCount": 13,
+      "replyCount": 13
+    }
+  ]
+}

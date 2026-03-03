@@ -1,0 +1,10 @@
+{
+  "username": "snwy_me",
+  "name": "snwy",
+  "bio": "the distribution is anything but normal",
+  "followersCount": 13584,
+  "followingCount": 1400,
+  "profileUrl": "https://x.com/snwy_me",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'snwy_me', '-n', '10', '--json']' returned non-zero exit status 1."
+}

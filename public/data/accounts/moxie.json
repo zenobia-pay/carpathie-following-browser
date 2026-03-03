@@ -1,0 +1,10 @@
+{
+  "username": "moxie",
+  "name": "Moxie Marlinspike",
+  "bio": "Founder @signalapp",
+  "followersCount": 185744,
+  "followingCount": 213,
+  "profileUrl": "https://x.com/moxie",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'moxie', '-n', '10', '--json']' returned non-zero exit status 1."
+}

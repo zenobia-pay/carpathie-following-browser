@@ -1,0 +1,10 @@
+{
+  "username": "alexocheema",
+  "name": "Alex Cheema",
+  "bio": "building @exolabs | prev @UniOfOxford  We're hiring: https://t.co/UlkApFndnH",
+  "followersCount": 44775,
+  "followingCount": 2450,
+  "profileUrl": "https://x.com/alexocheema",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'alexocheema', '-n', '10', '--json']' returned non-zero exit status 1."
+}

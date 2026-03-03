@@ -1,0 +1,10 @@
+{
+  "username": "willccbb",
+  "name": "will brown",
+  "bio": "reward hacking @primeintellect",
+  "followersCount": 40864,
+  "followingCount": 1264,
+  "profileUrl": "https://x.com/willccbb",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'willccbb', '-n', '10', '--json']' returned non-zero exit status 1."
+}

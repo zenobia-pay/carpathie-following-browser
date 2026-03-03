@@ -1,0 +1,10 @@
+{
+  "username": "dps",
+  "name": "David Singleton",
+  "bio": "CEO at @dreamer\nformerly CTO @stripe. \ud83c\udfe1 in SF via London and Belfast, married to @fjsingleton.\n\nI like to make things.",
+  "followersCount": 16056,
+  "followingCount": 1463,
+  "profileUrl": "https://x.com/dps",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'dps', '-n', '10', '--json']' returned non-zero exit status 1."
+}

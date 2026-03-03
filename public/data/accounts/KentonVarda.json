@@ -1,0 +1,100 @@
+{
+  "username": "KentonVarda",
+  "name": "Kenton Varda",
+  "bio": "Tech lead for @Cloudflare Workers, https://t.co/bFUDCZ7BUc, https://t.co/Hjf1slmJqs, https://t.co/oIKxYZA4LW. \ud83e\udd8b https://t.co/8QKY5gf1BK",
+  "followersCount": 12683,
+  "followingCount": 263,
+  "profileUrl": "https://x.com/KentonVarda",
+  "tweets": [
+    {
+      "id": "2028941374507114710",
+      "url": "https://x.com/KentonVarda/status/2028941374507114710",
+      "createdAt": "Tue Mar 03 21:11:34 +0000 2026",
+      "text": "Worries that software developer jobs are going away are backwards. There is SO MUCH software to build right now, that previously wasn't possible (uses AI directly) or wasn't cost-effective (too niche). We're going to have more developers, and orders of magnitude more software.",
+      "likeCount": 128,
+      "retweetCount": 12,
+      "replyCount": 9
+    },
+    {
+      "id": "2028941933461078461",
+      "url": "https://x.com/KentonVarda/status/2028941933461078461",
+      "createdAt": "Tue Mar 03 21:13:47 +0000 2026",
+      "text": "It increasingly makes sense for nearly every company to have software developers on staff just to build custom in-house stuff. In-house apps can be customized to the specific company and work much better than off-the-shelf apps that have too many unwanted features.",
+      "likeCount": 21,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2028942367152083386",
+      "url": "https://x.com/KentonVarda/status/2028942367152083386",
+      "createdAt": "Tue Mar 03 21:15:30 +0000 2026",
+      "text": "This does, however, challenge the business model of SaaS. If it gets much easier to make software for an audience of 10, it paradoxically gets much harder to sell software to an audience of 10 million.",
+      "likeCount": 21,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028924505091969047",
+      "url": "https://x.com/KentonVarda/status/2028924505091969047",
+      "createdAt": "Tue Mar 03 20:04:32 +0000 2026",
+      "text": "Remembering the time RBG totally pwned Clarence Thomas in Counter-Strike. https://t.co/aWTeqSRJlE",
+      "likeCount": 10,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028924628647747739",
+      "url": "https://x.com/KentonVarda/status/2028924628647747739",
+      "createdAt": "Tue Mar 03 20:05:01 +0000 2026",
+      "text": "(Supreme Court LAN Party has been my personal benchmark for AI image generators for a while. This is Nano Banana 2. We've come a long way.)",
+      "likeCount": 5,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028897180149264504",
+      "url": "https://x.com/KentonVarda/status/2028897180149264504",
+      "createdAt": "Tue Mar 03 18:15:57 +0000 2026",
+      "text": "Sometime in the last couple months AI code review bots got really good. 3-6 months ago they were still posting false positives and sycophancy. Now suddenly I'm getting way better feedback from AI than from humans.",
+      "likeCount": 160,
+      "retweetCount": 7,
+      "replyCount": 19
+    },
+    {
+      "id": "2028898870676341032",
+      "url": "https://x.com/KentonVarda/status/2028898870676341032",
+      "createdAt": "Tue Mar 03 18:22:40 +0000 2026",
+      "text": "A lot of my job is reviewing other people's code and let me tell you, I am SO READY for AI to take this job from me so I can spend more time building.",
+      "likeCount": 41,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028681885442871578",
+      "url": "https://x.com/KentonVarda/status/2028681885442871578",
+      "createdAt": "Tue Mar 03 04:00:27 +0000 2026",
+      "text": "\"AMD GPUs have the best Linux support\" everyone says.\n\nThe one AMD GPU in my house locks up randomly every day or two.\n\nI gave the dmesg error log to Claude and it was like \"This is a classic AMD GPU display flip timeout.\" and then \"The amdgpu DC codebase is a mess.\"\n\nThanks.",
+      "likeCount": 154,
+      "retweetCount": 0,
+      "replyCount": 22
+    },
+    {
+      "id": "2028619349729173890",
+      "url": "https://x.com/KentonVarda/status/2028619349729173890",
+      "createdAt": "Mon Mar 02 23:51:57 +0000 2026",
+      "text": "Getting really tired of these reply bots. https://t.co/qnRiaSuBzA",
+      "likeCount": 36,
+      "retweetCount": 1,
+      "replyCount": 7
+    },
+    {
+      "id": "2028620114812080586",
+      "url": "https://x.com/KentonVarda/status/2028620114812080586",
+      "createdAt": "Mon Mar 02 23:54:59 +0000 2026",
+      "text": "Bluesky: You talk about AI, you get shouted down and scolded.\nX: You talk about AI, you get tons of positive replies... from AI.",
+      "likeCount": 16,
+      "retweetCount": 0,
+      "replyCount": 7
+    }
+  ]
+}

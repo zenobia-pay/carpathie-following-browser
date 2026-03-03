@@ -1,0 +1,10 @@
+{
+  "username": "ashleybchae",
+  "name": "Ashley Ha",
+  "bio": "ashley ha \ud558\ucc44\ub839 | uc berkeley | building browser agents | korea \u26b2 sf \u263c",
+  "followersCount": 11366,
+  "followingCount": 887,
+  "profileUrl": "https://x.com/ashleybchae",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'ashleybchae', '-n', '10', '--json']' returned non-zero exit status 1."
+}

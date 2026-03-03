@@ -1,0 +1,100 @@
+{
+  "username": "si_pbc",
+  "name": "Standard Intelligence",
+  "bio": "",
+  "followersCount": 7460,
+  "followingCount": 0,
+  "profileUrl": "https://x.com/si_pbc",
+  "tweets": [
+    {
+      "id": "2026680189460296125",
+      "url": "https://x.com/si_pbc/status/2026680189460296125",
+      "createdAt": "Wed Feb 25 15:26:25 +0000 2026",
+      "text": "RT @tszzl: @tbpn @devanshpandey @Roon my blog post in \u201822 actually emphasizes the importance of adept (rip) but also just about the utility\u2026",
+      "likeCount": 0,
+      "retweetCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "2026676742518354221",
+      "url": "https://x.com/si_pbc/status/2026676742518354221",
+      "createdAt": "Wed Feb 25 15:12:43 +0000 2026",
+      "text": "RT @tbpn: Standard Intelligence's @devanshpandey responds to @tszzl's tweet that \"text is the universal interface,\" and explains why their\u2026",
+      "likeCount": 0,
+      "retweetCount": 9,
+      "replyCount": 0
+    },
+    {
+      "id": "2026382500579389672",
+      "url": "https://x.com/si_pbc/status/2026382500579389672",
+      "createdAt": "Tue Feb 24 19:43:31 +0000 2026",
+      "text": "RT @yudhister_: in other words: we've counterfactually accelerated the automation of white-collar labor by at least a month",
+      "likeCount": 0,
+      "retweetCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "2026146602457682311",
+      "url": "https://x.com/si_pbc/status/2026146602457682311",
+      "createdAt": "Tue Feb 24 04:06:08 +0000 2026",
+      "text": "RT @tszzl: feels like a pivotal moment for realtime",
+      "likeCount": 0,
+      "retweetCount": 71,
+      "replyCount": 0
+    },
+    {
+      "id": "2026129021852090774",
+      "url": "https://x.com/si_pbc/status/2026129021852090774",
+      "createdAt": "Tue Feb 24 02:56:17 +0000 2026",
+      "text": "RT @ayaannmalik: some great design decisions here. masked diffusion, binning of delta mouse movements, IDM in the wild, self-supervision em\u2026",
+      "likeCount": 0,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2026088294656975282",
+      "url": "https://x.com/si_pbc/status/2026088294656975282",
+      "createdAt": "Tue Feb 24 00:14:27 +0000 2026",
+      "text": "RT @itsandrewgao: computer use today lags pretty far behind other capabilities. a lot of it depends on the model guessing the right pixel c\u2026",
+      "likeCount": 0,
+      "retweetCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "2026071736127811771",
+      "url": "https://x.com/si_pbc/status/2026071736127811771",
+      "createdAt": "Mon Feb 23 23:08:39 +0000 2026",
+      "text": "RT @AnjneyMidha: Very cool",
+      "likeCount": 0,
+      "retweetCount": 2,
+      "replyCount": 0
+    },
+    {
+      "id": "2026067062087721465",
+      "url": "https://x.com/si_pbc/status/2026067062087721465",
+      "createdAt": "Mon Feb 23 22:50:04 +0000 2026",
+      "text": "RT @_neelr_: FDM-1 is what i've been working on for the past year\u2014excited to finally release!\n\ni genuinely think pretraining on computer us\u2026",
+      "likeCount": 0,
+      "retweetCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "2026063454940135809",
+      "url": "https://x.com/si_pbc/status/2026063454940135809",
+      "createdAt": "Mon Feb 23 22:35:44 +0000 2026",
+      "text": "RT @JunliWang2021: Great work by @si_pbc! Teaching computer-using agents on 11 million hours of video data is an unbelievable achievement.\u2026",
+      "likeCount": 0,
+      "retweetCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "2026060666243867015",
+      "url": "https://x.com/si_pbc/status/2026060666243867015",
+      "createdAt": "Mon Feb 23 22:24:39 +0000 2026",
+      "text": "RT @devanshpandey: there is much work to do. in the next few months we need to train 100x larger models on 200x as much data as we have don\u2026",
+      "likeCount": 0,
+      "retweetCount": 15,
+      "replyCount": 0
+    }
+  ]
+}

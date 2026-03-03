@@ -1,0 +1,10 @@
+{
+  "username": "lulumeservey",
+  "name": "Lulu Cheng Meservey",
+  "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+  "followersCount": 130082,
+  "followingCount": 2898,
+  "profileUrl": "https://x.com/lulumeservey",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'lulumeservey', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "nickcammarata",
+  "name": "Nick",
+  "bio": "neural network interpretability, meditation, jhana brother",
+  "followersCount": 90864,
+  "followingCount": 875,
+  "profileUrl": "https://x.com/nickcammarata",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'nickcammarata', '-n', '10', '--json']' returned non-zero exit status 1."
+}

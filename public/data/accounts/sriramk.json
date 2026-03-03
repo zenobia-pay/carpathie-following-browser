@@ -1,0 +1,10 @@
+{
+  "username": "sriramk",
+  "name": "Sriram Krishnan",
+  "bio": "work on AI at the @whitehouse. pro wrestling fan. official: @skrishnan47",
+  "followersCount": 306463,
+  "followingCount": 2372,
+  "profileUrl": "https://x.com/sriramk",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'sriramk', '-n', '10', '--json']' returned non-zero exit status 1."
+}

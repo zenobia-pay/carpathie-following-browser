@@ -1,0 +1,100 @@
+{
+  "username": "bcherny",
+  "name": "Boris Cherny",
+  "bio": "Claude Code @anthropicai",
+  "followersCount": 294232,
+  "followingCount": 129,
+  "profileUrl": "https://x.com/bcherny",
+  "tweets": [
+    {
+      "id": "2028638679204577380",
+      "url": "https://x.com/bcherny/status/2028638679204577380",
+      "createdAt": "Tue Mar 03 01:08:46 +0000 2026",
+      "text": "RT @_catwu: Here's a roundup of how Claude Code has changed engineering at inside Ramp, Rakuten, Brex, Wiz, Shopify, and Spotify \ud83e\uddf5",
+      "likeCount": 0,
+      "retweetCount": 108,
+      "replyCount": 0
+    },
+    {
+      "id": "2028629573722939789",
+      "url": "https://x.com/bcherny/status/2028629573722939789",
+      "createdAt": "Tue Mar 03 00:32:35 +0000 2026",
+      "text": "\ud83c\udfb6 I've been using voice mode to write much of my CLI code this last week\n\nCan't wait to hear what you think.",
+      "likeCount": 3101,
+      "retweetCount": 148,
+      "replyCount": 225
+    },
+    {
+      "id": "2028567040114713038",
+      "url": "https://x.com/bcherny/status/2028567040114713038",
+      "createdAt": "Mon Mar 02 20:24:05 +0000 2026",
+      "text": "RT @claudeai: Memory is now available on the free plan.\n\nWe've also made it easier to import saved memories into Claude. \n\nYou can export t\u2026",
+      "likeCount": 0,
+      "retweetCount": 2408,
+      "replyCount": 0
+    },
+    {
+      "id": "2028550226316050514",
+      "url": "https://x.com/bcherny/status/2028550226316050514",
+      "createdAt": "Mon Mar 02 19:17:17 +0000 2026",
+      "text": "RT @levelsio: Claude Remote Control is extremely nice\n\nCan edit on MacOS or iOS in Claude app on my production server from anywhere\n\nA bit\u2026",
+      "likeCount": 0,
+      "retweetCount": 54,
+      "replyCount": 0
+    },
+    {
+      "id": "2027888681034649900",
+      "url": "https://x.com/bcherny/status/2027888681034649900",
+      "createdAt": "Sat Feb 28 23:28:32 +0000 2026",
+      "text": "RT @mikeyk: Claude is #1 in the App Store today \u2014 I want to say a huge thank you to all of our new (and existing!) users for the support. W\u2026",
+      "likeCount": 0,
+      "retweetCount": 500,
+      "replyCount": 0
+    },
+    {
+      "id": "2027627970731643362",
+      "url": "https://x.com/bcherny/status/2027627970731643362",
+      "createdAt": "Sat Feb 28 06:12:34 +0000 2026",
+      "text": "RT @bunjavascript: Bun v1.3.10\n- Fixes 155 issues (addressing 642 \ud83d\udc4d)\n- `bun repl` - native JS/TS repl\n- Windows ARM64\n- ECMAScript decorato\u2026",
+      "likeCount": 0,
+      "retweetCount": 46,
+      "replyCount": 0
+    },
+    {
+      "id": "2027627119371817190",
+      "url": "https://x.com/bcherny/status/2027627119371817190",
+      "createdAt": "Sat Feb 28 06:09:11 +0000 2026",
+      "text": "RT @trq212: a few Friday afternoon ships to end the week:\n\nthe AskUserQuestion tool can now show markdown snippets to display diagrams, cod\u2026",
+      "likeCount": 0,
+      "retweetCount": 166,
+      "replyCount": 0
+    },
+    {
+      "id": "2027566467106148378",
+      "url": "https://x.com/bcherny/status/2027566467106148378",
+      "createdAt": "Sat Feb 28 02:08:10 +0000 2026",
+      "text": "RT @AnthropicAI: A statement on the comments from Secretary of War Pete Hegseth. \n\nhttps://t.co/Gg7Zb09IMR",
+      "likeCount": 0,
+      "retweetCount": 6756,
+      "replyCount": 0
+    },
+    {
+      "id": "2027534984534544489",
+      "url": "https://x.com/bcherny/status/2027534984534544489",
+      "createdAt": "Sat Feb 28 00:03:04 +0000 2026",
+      "text": "In the next version of Claude Code..\n\nWe're introducing two new Skills: /simplify and /batch. I have been using both daily, and am excited to share them with everyone.\n\nCombined, these kills automate much of the work it used to take to (1) shepherd a pull request to production and (2) perform straightforward, parallelizable code migrations.",
+      "likeCount": 12267,
+      "retweetCount": 806,
+      "replyCount": 415
+    },
+    {
+      "id": "2027534987462119828",
+      "url": "https://x.com/bcherny/status/2027534987462119828",
+      "createdAt": "Sat Feb 28 00:03:05 +0000 2026",
+      "text": "/batch\n\nInteractively plan out code migrations, then execute in parallel using dozens of agents.\n\nEach agent runs with full isolation using git worktrees, testing its work before putting up a PR.\n\nUsage: \"/batch migrate src/ from Solid to React\"",
+      "likeCount": 962,
+      "retweetCount": 20,
+      "replyCount": 39
+    }
+  ]
+}

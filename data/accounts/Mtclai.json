@@ -1,0 +1,10 @@
+{
+  "username": "Mtclai",
+  "name": "Michael Lai",
+  "bio": "AI for government @AnthropicAI | SF elected | community builder",
+  "followersCount": 4629,
+  "followingCount": 1638,
+  "profileUrl": "https://x.com/Mtclai",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'Mtclai', '-n', '10', '--json']' returned non-zero exit status 1."
+}

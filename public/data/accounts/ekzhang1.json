@@ -1,0 +1,100 @@
+{
+  "username": "ekzhang1",
+  "name": "Eric Zhang",
+  "bio": "Computer systems person, interaction designer. @thinkymachines\nprev founding eng @modal\n\n\u2192 dreams of: a simpler, more honest, more human sort of software",
+  "followersCount": 20173,
+  "followingCount": 577,
+  "profileUrl": "https://x.com/ekzhang1",
+  "tweets": [
+    {
+      "id": "2028204297251352728",
+      "url": "https://x.com/ekzhang1/status/2028204297251352728",
+      "createdAt": "Sun Mar 01 20:22:41 +0000 2026",
+      "text": "Thanks Bryce @blelbach for coming to NYSRG and giving a really wonderful talk about cuTile\u2014also just being incredibly knowledgeable about everything GPUs, from scientific computing to ML. feeling lucky to get to hang out + learn a lot :) https://t.co/3j6q0nWclk",
+      "likeCount": 116,
+      "retweetCount": 4,
+      "replyCount": 3
+    },
+    {
+      "id": "2027456753579819447",
+      "url": "https://x.com/ekzhang1/status/2027456753579819447",
+      "createdAt": "Fri Feb 27 18:52:13 +0000 2026",
+      "text": "Being mildly sick is like, you wake up and feel awful, uh oh. So you stop doing things, and at some point it stops getting worse. And there's this empty space\u2026 just your thoughts, and then you finally recall the last time you've been idle and realize how much you've sacrificed",
+      "likeCount": 82,
+      "retweetCount": 0,
+      "replyCount": 3
+    },
+    {
+      "id": "2027063789061861570",
+      "url": "https://x.com/ekzhang1/status/2027063789061861570",
+      "createdAt": "Thu Feb 26 16:50:42 +0000 2026",
+      "text": "honestly just \"phil's thoughts\" sounds pretty great too",
+      "likeCount": 104,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2026901812301734132",
+      "url": "https://x.com/ekzhang1/status/2026901812301734132",
+      "createdAt": "Thu Feb 26 06:07:04 +0000 2026",
+      "text": "we\u2019ll know for sure that the ai is superintelligent when it can correctly do tasks that no human can, such as set IAM policies correctly",
+      "likeCount": 197,
+      "retweetCount": 2,
+      "replyCount": 11
+    },
+    {
+      "id": "2026148832967348457",
+      "url": "https://x.com/ekzhang1/status/2026148832967348457",
+      "createdAt": "Tue Feb 24 04:15:00 +0000 2026",
+      "text": "5 years ago, I was making programming languages, dreaming up interfaces, learning graphics, building with Rust/Wasm.\n\neverything was new. how beautiful were the things you made if you put yourself out there and were a bit scrappy?\n\nthen at some point I GOT A JOB and started doing INFRA and working with COMPLEX CODEBASES and PRODUCTION SERVICES. and now I am like every other software engineer. lol",
+      "likeCount": 972,
+      "retweetCount": 15,
+      "replyCount": 18
+    },
+    {
+      "id": "2026139446110765139",
+      "url": "https://x.com/ekzhang1/status/2026139446110765139",
+      "createdAt": "Tue Feb 24 03:37:42 +0000 2026",
+      "text": "today I really appreciate the engineering behind OSS AI infra, like sglang/vllm.\n\nLike yes, they're huge messes of complexity, but they also \"just work\" out-of-the-box for tons of people, hundreds of contributors, various setups\u2014kind of amazing. It must take so much work",
+      "likeCount": 287,
+      "retweetCount": 3,
+      "replyCount": 12
+    },
+    {
+      "id": "2022695110593413407",
+      "url": "https://x.com/ekzhang1/status/2022695110593413407",
+      "createdAt": "Sat Feb 14 15:31:08 +0000 2026",
+      "text": "For the next couple weeks at NY systems reading group, we\u2019ll be writing some GPU kernels\n\nThis was much requested, and I think now that there\u2019s some excellent, well-written content online about CuTe DSL, makes sense to learn!\n\n(CUDA is too hard / arcane, CuTe DSL is just low-level enough to be interesting to systems folks looking for a new challenge perhaps. Plus it might be useful to learn it for work.)\n\nI was trying to figure out how we give people a quick trial of Hopper/Blackwell GPUs and realized I already made a free product for this at my last job lol, and it\u2019s on-demand + collaborative. So we\u2019ll use Notebooks.\n\nhttps://t.co/ArFSF8ESxA",
+      "likeCount": 758,
+      "retweetCount": 42,
+      "replyCount": 8
+    },
+    {
+      "id": "2021398557568401723",
+      "url": "https://x.com/ekzhang1/status/2021398557568401723",
+      "createdAt": "Wed Feb 11 01:39:06 +0000 2026",
+      "text": "it really doesn\u2019t feel like mid-February",
+      "likeCount": 30,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2021397799406010840",
+      "url": "https://x.com/ekzhang1/status/2021397799406010840",
+      "createdAt": "Wed Feb 11 01:36:05 +0000 2026",
+      "text": "RT @bilaltwovec: very belated update: i joined @isomorphiclabs right after graduating early last year\u2014its been really incredible  getting t\u2026",
+      "likeCount": 0,
+      "retweetCount": 7,
+      "replyCount": 0
+    },
+    {
+      "id": "2019834770986012789",
+      "url": "https://x.com/ekzhang1/status/2019834770986012789",
+      "createdAt": "Fri Feb 06 18:05:10 +0000 2026",
+      "text": "one thing I realized is that for many of these math+coding benchmarks, there\u2019s really not that many problems. AIME is only 15 questions, and TerminalBench is &lt;100, written by engineers \u2014 they sometimes give the impression of being larger",
+      "likeCount": 87,
+      "retweetCount": 3,
+      "replyCount": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "username": "MinqiJiang",
+  "name": "Minqi Jiang",
+  "bio": "",
+  "followersCount": 6255,
+  "followingCount": 883,
+  "profileUrl": "https://x.com/MinqiJiang",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'MinqiJiang', '-n', '10', '--json']' returned non-zero exit status 1."
+}

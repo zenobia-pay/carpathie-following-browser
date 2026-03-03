@@ -1,0 +1,10 @@
+{
+  "username": "doodlestein",
+  "name": "Jeffrey Emanuel",
+  "bio": "Former Quant Investor | My Open Source Projects: https://t.co/9qbOCDlaqM |\nTry https://t.co/oCtjI2mBIl , my collection of agent coding tooling.",
+  "followersCount": 40449,
+  "followingCount": 12775,
+  "profileUrl": "https://x.com/doodlestein",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'doodlestein', '-n', '10', '--json']' returned non-zero exit status 1."
+}

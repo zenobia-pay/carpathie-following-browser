@@ -1,0 +1,10 @@
+{
+  "username": "jacobaustin132",
+  "name": "Jacob Austin",
+  "bio": "I sometimes do AI research. I also play piano and climb. NYC. Previously @GoogleDeepMind, @Google Brain. Opinions my own",
+  "followersCount": 7611,
+  "followingCount": 926,
+  "profileUrl": "https://x.com/jacobaustin132",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'jacobaustin132', '-n', '10', '--json']' returned non-zero exit status 1."
+}

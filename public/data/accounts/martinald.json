@@ -1,0 +1,100 @@
+{
+  "username": "martinald",
+  "name": "Martin Alderson",
+  "bio": "Writing up my thoughts on the AI transformation",
+  "followersCount": 1040,
+  "followingCount": 885,
+  "profileUrl": "https://x.com/martinald",
+  "tweets": [
+    {
+      "id": "2028658078758150232",
+      "url": "https://x.com/martinald/status/2028658078758150232",
+      "createdAt": "Tue Mar 03 02:25:51 +0000 2026",
+      "text": "Very interesting. Think we are going to see a lot more of this soon.",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2028239026105262551",
+      "url": "https://x.com/martinald/status/2028239026105262551",
+      "createdAt": "Sun Mar 01 22:40:41 +0000 2026",
+      "text": "Wrote some thoughts on why on device agentic AI is proving so elusive: https://t.co/POrHpw4Saj https://t.co/LekSAeF3mM",
+      "likeCount": 1,
+      "retweetCount": 0,
+      "replyCount": 3
+    },
+    {
+      "id": "2028198509770322421",
+      "url": "https://x.com/martinald/status/2028198509770322421",
+      "createdAt": "Sun Mar 01 19:59:41 +0000 2026",
+      "text": "RT @t_blom: The entire Accenture workforce is about to be outperformed by a 24-year-old who learned Claude Code last Tuesday.",
+      "likeCount": 0,
+      "retweetCount": 332,
+      "replyCount": 0
+    },
+    {
+      "id": "2028117793627889665",
+      "url": "https://x.com/martinald/status/2028117793627889665",
+      "createdAt": "Sun Mar 01 14:38:57 +0000 2026",
+      "text": "Some really insightful thinking from @rowlsmanthorpe on the potential labour market disruption https://t.co/y6VSwFqvjH",
+      "likeCount": 1,
+      "retweetCount": 1,
+      "replyCount": 1
+    },
+    {
+      "id": "2027548065939239382",
+      "url": "https://x.com/martinald/status/2027548065939239382",
+      "createdAt": "Sat Feb 28 00:55:03 +0000 2026",
+      "text": "RT @martinald: Found a cool pattern for running AI code reviews with @opencode, without a seperate SaaS subscription. \n\nDetails here: https\u2026",
+      "likeCount": 0,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2027067284468924522",
+      "url": "https://x.com/martinald/status/2027067284468924522",
+      "createdAt": "Thu Feb 26 17:04:36 +0000 2026",
+      "text": "Found a cool pattern for running AI code reviews with @opencode, without a seperate SaaS subscription. \n\nDetails here: https://t.co/jEVeFH7j2z",
+      "likeCount": 2,
+      "retweetCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "2026396466802053280",
+      "url": "https://x.com/martinald/status/2026396466802053280",
+      "createdAt": "Tue Feb 24 20:39:00 +0000 2026",
+      "text": "This graph from @METR_Evals got updated with Opus 4.6. Probably the most important graph out there right now. By the end of the year AI will be doing week long tasks if this holds up (in maybe 1% of that time)... https://t.co/1mCGU8fJza",
+      "likeCount": 4,
+      "retweetCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "2026395804907266288",
+      "url": "https://x.com/martinald/status/2026395804907266288",
+      "createdAt": "Tue Feb 24 20:36:23 +0000 2026",
+      "text": "RT @noahzweben: Announcing a new Claude Code feature: Remote Control. It's rolling out now to Max users in research preview. Try it with /r\u2026",
+      "likeCount": 0,
+      "retweetCount": 1287,
+      "replyCount": 0
+    },
+    {
+      "id": "2026124876172460270",
+      "url": "https://x.com/martinald/status/2026124876172460270",
+      "createdAt": "Tue Feb 24 02:39:48 +0000 2026",
+      "text": "RT @rseroter: Is your favorite web framework a token hog? Or can AI build an app with your preferred framework without burning too many tok\u2026",
+      "likeCount": 0,
+      "retweetCount": 7,
+      "replyCount": 0
+    },
+    {
+      "id": "2025839732647751808",
+      "url": "https://x.com/martinald/status/2025839732647751808",
+      "createdAt": "Mon Feb 23 07:46:45 +0000 2026",
+      "text": "Really shows something about how hard scaling reliable compute is that even Google is having to panic ban people from using Antigravity to avoid service degradation... \n\nThe world is so short of compute right now",
+      "likeCount": 1,
+      "retweetCount": 0,
+      "replyCount": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "username": "jeremyphoward",
+  "name": "Jeremy Howard",
+  "bio": "\ud83c\udde6\ud83c\uddfa Co-founder: @AnswerDotAI/@FastDotAI ;\nPrev: Professor@UQ; Stanford fellow; @kaggle founding president; founder @fastmail/@enlitic/\u2026\nhttps://t.co/16UBFTWzwQ",
+  "followersCount": 273042,
+  "followingCount": 6463,
+  "profileUrl": "https://x.com/jeremyphoward",
+  "tweets": [
+    {
+      "id": "2028936658624930003",
+      "url": "https://x.com/jeremyphoward/status/2028936658624930003",
+      "createdAt": "Tue Mar 03 20:52:49 +0000 2026",
+      "text": "An OpenAI staffer here claiming that our legal analysis to explain the actual meaning of the contract they signed shows that I \"hate\" OpenAI.\n\nThe truth is, I was the first to defend OpenAI's position back when they first announced GPT2: https://t.co/27tyFxLfAW",
+      "likeCount": 70,
+      "retweetCount": 3,
+      "replyCount": 6
+    },
+    {
+      "id": "2028936662127165470",
+      "url": "https://x.com/jeremyphoward/status/2028936662127165470",
+      "createdAt": "Tue Mar 03 20:52:50 +0000 2026",
+      "text": "Analyzing and explaining the law, to help a party understand their legal position, should not be considered a sign of hatred.\n\nIt is, in fact, a sign of care.",
+      "likeCount": 18,
+      "retweetCount": 0,
+      "replyCount": 2
+    },
+    {
+      "id": "2028809717154566353",
+      "url": "https://x.com/jeremyphoward/status/2028809717154566353",
+      "createdAt": "Tue Mar 03 12:28:24 +0000 2026",
+      "text": "RT @SkyeSharkie: \"\"\u2022 Consistent with applicable laws, including the Fourth Amendment to the United States Constitution, National Security A\u2026",
+      "likeCount": 0,
+      "retweetCount": 41,
+      "replyCount": 0
+    },
+    {
+      "id": "2028576482998792346",
+      "url": "https://x.com/jeremyphoward/status/2028576482998792346",
+      "createdAt": "Mon Mar 02 21:01:37 +0000 2026",
+      "text": "RT @David_Kasten: This is also an interesting update: Anthropic staff say their natsec model has technical safeguards akin to much of what\u2026",
+      "likeCount": 0,
+      "retweetCount": 20,
+      "replyCount": 0
+    },
+    {
+      "id": "2028556035183759719",
+      "url": "https://x.com/jeremyphoward/status/2028556035183759719",
+      "createdAt": "Mon Mar 02 19:40:22 +0000 2026",
+      "text": "According to OpenAI, their contract with the US DoW locks in current law, \"even if those laws or policies change in the future\".\n\nOur legal analysis, with Virgil Law CEO @LukeVerswey, shows that this is almost certainly incorrect.\nhttps://t.co/LSkMZGSusy",
+      "likeCount": 450,
+      "retweetCount": 51,
+      "replyCount": 17
+    },
+    {
+      "id": "2028556065013641341",
+      "url": "https://x.com/jeremyphoward/status/2028556065013641341",
+      "createdAt": "Mon Mar 02 19:40:29 +0000 2026",
+      "text": "Whilst mechanisms exist that in theory can freeze reference to legislation to a point in time, they are very rare, almost never used in government contracts, and would be unlikely to be enforceable in this case. https://t.co/xia0lqCe9N",
+      "likeCount": 24,
+      "retweetCount": 0,
+      "replyCount": 1
+    },
+    {
+      "id": "2028556068901765216",
+      "url": "https://x.com/jeremyphoward/status/2028556068901765216",
+      "createdAt": "Mon Mar 02 19:40:30 +0000 2026",
+      "text": "Our legal analysis shows that this critical claim from OpenAI, that \"use of our systems must still remain aligned with the current standards reflected in the agreement\", is very unlikely to be supported by their contract with the DoW, or by the law. https://t.co/uQOujqGSuT",
+      "likeCount": 33,
+      "retweetCount": 2,
+      "replyCount": 1
+    },
+    {
+      "id": "2028541789125386367",
+      "url": "https://x.com/jeremyphoward/status/2028541789125386367",
+      "createdAt": "Mon Mar 02 18:43:45 +0000 2026",
+      "text": "RT @ThePrimeagen: we are about to hit 1 9 of availability while coding is largely solved https://t.co/4NJB1YNsPk",
+      "likeCount": 0,
+      "retweetCount": 163,
+      "replyCount": 0
+    },
+    {
+      "id": "2028541764441866627",
+      "url": "https://x.com/jeremyphoward/status/2028541764441866627",
+      "createdAt": "Mon Mar 02 18:43:39 +0000 2026",
+      "text": "RT @adamscochran: Well there is part of what the DoD Anthropic was about.\n\nBased on the contract language around analyzing bulk commercial\u2026",
+      "likeCount": 0,
+      "retweetCount": 338,
+      "replyCount": 0
+    },
+    {
+      "id": "2028541633244082373",
+      "url": "https://x.com/jeremyphoward/status/2028541633244082373",
+      "createdAt": "Mon Mar 02 18:43:08 +0000 2026",
+      "text": "RT @DKThomp: A quite brilliant essay on AI, the law, and the future of the republic. \n\nAn upshot: If the US govt can go to any company, dem\u2026",
+      "likeCount": 0,
+      "retweetCount": 604,
+      "replyCount": 0
+    }
+  ]
+}

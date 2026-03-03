@@ -1,0 +1,10 @@
+{
+  "username": "gaunernst",
+  "name": "Thien Tran",
+  "bio": "",
+  "followersCount": 2301,
+  "followingCount": 249,
+  "profileUrl": "https://x.com/gaunernst",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'gaunernst', '-n', '10', '--json']' returned non-zero exit status 1."
+}

@@ -1,0 +1,10 @@
+{
+  "username": "arlanr",
+  "name": "Arlan",
+  "bio": "ceo @nozomioai, 18 (hiring btw) | 11th grade dropout, ex. stanford research \ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddff",
+  "followersCount": 18016,
+  "followingCount": 2587,
+  "profileUrl": "https://x.com/arlanr",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'arlanr', '-n', '10', '--json']' returned non-zero exit status 1."
+}

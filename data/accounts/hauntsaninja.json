@@ -1,0 +1,10 @@
+{
+  "username": "hauntsaninja",
+  "name": "Shantanu Jain",
+  "bio": "@OpenAI. CPython core dev, making Python typing better\n\nhttps://t.co/EnctamjenJ\n\nawesome in every mausam.",
+  "followersCount": 1471,
+  "followingCount": 160,
+  "profileUrl": "https://x.com/hauntsaninja",
+  "tweets": [],
+  "error": "Command '['bird', 'user-tweets', 'hauntsaninja', '-n', '10', '--json']' returned non-zero exit status 1."
+}
