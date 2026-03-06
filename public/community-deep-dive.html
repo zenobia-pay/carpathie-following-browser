@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Influencer Community Deep Dive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Newsreader:opsz,wght@6..72,500&display=swap" rel="stylesheet">
+  <style>
+    :root{--bg:#f7f3ed;--panel:#fffdfa;--ink:#181510;--muted:#6f665b;--line:#d9ccbb;--accent:#a14629;--accent2:#335f9c}
+    *{box-sizing:border-box} body{margin:0;font-family:Manrope,sans-serif;background:linear-gradient(180deg,#faf7f2,#f4ede2);color:var(--ink)}
+    .wrap{max-width:1400px;margin:0 auto;padding:18px}
+    .top{position:sticky;top:0;background:rgba(247,243,237,.94);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);z-index:20;padding:12px 0}
+    h1{font-family:Newsreader,serif;margin:0;font-size:34px;line-height:1}
+    .sub{margin-top:6px;color:var(--muted);font-size:13px}
+    .controls{display:grid;grid-template-columns:220px 1fr 180px auto auto;gap:8px;margin-top:10px}
+    input,select,button{border:1px solid var(--line);background:#fff;border-radius:10px;padding:10px 12px;font:inherit;color:var(--ink)}
+    button{cursor:pointer}.primary{background:var(--accent);border-color:var(--accent);color:#fff}.ghost{background:#fff}
+    .kpis{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px;margin-top:10px}
+    .kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:9px}.kpi .l{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px}.kpi .v{font-size:20px;font-weight:800;margin-top:2px}
+    .grid{display:grid;grid-template-columns:320px 1fr;gap:12px;margin-top:12px}
+    .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+    .panel h3{margin:0 0 8px 0;font-size:14px;text-transform:uppercase;letter-spacing:1px;color:#5f574d}
+    .chips{display:flex;gap:6px;flex-wrap:wrap}.chip{font-size:11px;padding:5px 8px;border:1px solid var(--line);border-radius:999px;background:#fff;color:#564f46;cursor:pointer}
+    .agent-log{font-family:ui-monospace,Menlo,monospace;font-size:12px;background:#fbf8f3;border:1px dashed var(--line);border-radius:8px;padding:8px;max-height:240px;overflow:auto;white-space:pre-wrap}
+    .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+    .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:6px;min-height:155px}
+    .row{display:flex;justify-content:space-between;align-items:center;gap:6px}.handle{font-weight:800;text-decoration:none;color:var(--ink)}.handle:hover{text-decoration:underline}
+    .pill{font-size:10px;color:#6b6257;text-transform:uppercase;letter-spacing:.8px}
+    .bio{font-size:13px;line-height:1.4;color:#2e281f;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+    .meta{margin-top:auto;font-size:12px;color:var(--muted)}
+    @media (max-width:1100px){.controls{grid-template-columns:1fr 1fr}.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="top">
+      <h1>Deep dive: influencer community</h1>
+      <div class="sub">Separated datasets for <strong>karpathy</strong> and <strong>manabovetown</strong>. Natural-language search runs a mini agent loop (keyword + regex passes).</div>
+      <div class="controls">
+        <select id="dataset"><option value="karpathy">karpathy</option><option value="manabovetown">manabovetown</option></select>
+        <input id="q" placeholder="e.g. find AI safety writers who run newsletters" />
+        <select id="sort"><option value="followers">sort: followers</option><option value="following">sort: following</option><option value="alpha">sort: A→Z</option></select>
+        <button class="ghost" id="run">Run agent loop</button>
+        <button class="primary" id="reset">Reset</button>
+      </div>
+      <div class="kpis" id="kpis"></div>
+    </section>
+
+    <section class="grid">
+      <aside class="panel">
+        <h3>Semantic facets</h3>
+        <div class="chips" id="chips"></div>
+        <h3 style="margin-top:12px">Agent loop trace</h3>
+        <div id="log" class="agent-log">ready.</div>
+      </aside>
+      <section class="panel">
+        <h3>Results</h3>
+        <div class="cards" id="cards"></div>
+      </section>
+    </section>
+  </main>
+
+<script>
+const FACETS = {
+  writers: [/(writer|author|essayist|essay|journalist|novelist|poet|columnist|editor|substack|newsletter|reporter|critic)/i],
+  ai: [/(ai|ml|llm|machine learning|deep learning|pytorch|research scientist|anthropic|openai|xai)/i],
+  startup: [/(founder|co-founder|startup|vc|investor|builder|entrepreneur|company)/i],
+  politics: [/(policy|politic|government|senate|state|economist|law)/i],
+  media: [/(podcast|media|newsletter|magazine|editor|journal|press)/i],
+  eng: [/(engineer|developer|programmer|cto|infra|compiler)/i]
+};
+let ALL=[], VIEW=[];
+
+const $ = id => document.getElementById(id);
+
+async function loadDataset(name){
+  const res = await fetch(`/data/${name}-following-raw.json`);
+  const obj = await res.json();
+  ALL = dedupe(obj.users || []);
+  VIEW = [...ALL];
+  $('log').textContent = `loaded ${ALL.length} accounts from ${name}.`;
+  render();
+}
+
+function dedupe(arr){
+  const seen=new Set();
+  return arr.filter(u=>{const k=(u.username||'').toLowerCase(); if(!k||seen.has(k)) return false; seen.add(k); return true;});
+}
+
+function text(u){ return `${u.username||''} ${u.name||''} ${u.description||''}`.toLowerCase(); }
+
+function buildPatterns(nl){
+  const t=(nl||'').toLowerCase().trim();
+  const out=[];
+  const log=[];
+  if(!t) return {patterns:[],log:['empty query => show all']};
+
+  // loop 1: facet triggers
+  Object.entries(FACETS).forEach(([k,regs])=>{
+    if (new RegExp(`\b${k}\b`).test(t)) { out.push(...regs); log.push(`facet:${k}`); }
+  });
+
+  // loop 2: phrase heuristics
+  const heur=[
+    [/ai safety/, [/(safety|alignment|governance|ai safety)/i]],
+    [/newsletter/, [/(newsletter|substack)/i]],
+    [/research/, [/(research|scientist|lab|phd)/i]],
+    [/writers?/, FACETS.writers],
+    [/engineers?/, FACETS.eng],
+  ];
+  heur.forEach(([rx,regs])=>{ if(rx.test(t)){ out.push(...regs); log.push(`heur:${rx}`);} });
+
+  // loop 3: token regex expansion
+  t.split(/\s+/).filter(w=>w.length>2).forEach(w=>{
+    const safe=w.replace(/[.*+?^${}()|[\]\]/g,'\$&');
+    out.push(new RegExp(`\b${safe}`, 'i')); log.push(`kw:${w}`);
+  });
+
+  return {patterns:out,log};
+}
+
+function runSearch(){
+  const q=$('q').value;
+  const {patterns,log}=buildPatterns(q);
+  const loop=[];
+  loop.push(`query: ${q||'(none)'}`);
+  loop.push(`passes: ${log.join(' | ') || 'none'}`);
+  let cur=[...ALL];
+  if(patterns.length){
+    cur = cur.filter(u=>{const t=text(u); return patterns.some(p=>p.test(t));});
+  }
+  VIEW=cur;
+  loop.push(`matched: ${VIEW.length}/${ALL.length}`);
+  $('log').textContent = loop.join('
+');
+  render();
+}
+
+function render(){
+  const sort=$('sort').value;
+  const arr=[...VIEW];
+  if(sort==='followers') arr.sort((a,b)=>(b.followersCount||0)-(a.followersCount||0));
+  if(sort==='following') arr.sort((a,b)=>(b.followingCount||0)-(a.followingCount||0));
+  if(sort==='alpha') arr.sort((a,b)=>(a.username||'').localeCompare(b.username||''));
+
+  const facetsCount={};
+  Object.keys(FACETS).forEach(k=>facetsCount[k]=0);
+  arr.forEach(u=>{const t=text(u); Object.entries(FACETS).forEach(([k,regs])=>{if(regs.some(r=>r.test(t))) facetsCount[k]++;});});
+
+  $('kpis').innerHTML = `
+    <div class="kpi"><div class="l">total captured</div><div class="v">${ALL.length.toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">visible</div><div class="v">${arr.length.toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">writers</div><div class="v">${facetsCount.writers.toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">ai</div><div class="v">${facetsCount.ai.toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">startup</div><div class="v">${facetsCount.startup.toLocaleString()}</div></div>
+    <div class="kpi"><div class="l">media</div><div class="v">${facetsCount.media.toLocaleString()}</div></div>`;
+
+  $('chips').innerHTML = Object.entries(facetsCount).map(([k,v])=>`<button class="chip" data-f="${k}">${k} (${v})</button>`).join('');
+  [...$('chips').querySelectorAll('.chip')].forEach(b=>b.onclick=()=>{$('q').value=b.dataset.f; runSearch();});
+
+  $('cards').innerHTML = arr.slice(0,3000).map(u=>`
+    <article class="card">
+      <div class="row"><a class="handle" href="https://x.com/${u.username}" target="_blank">@${u.username}</a><span class="pill">${u.isBlueVerified?'verified':'account'}</span></div>
+      <div><strong>${escapeHtml(u.name||'')}</strong></div>
+      <div class="bio">${escapeHtml(u.description||'')}</div>
+      <div class="meta">${(u.followersCount||0).toLocaleString()} followers · ${(u.followingCount||0).toLocaleString()} following</div>
+    </article>`).join('');
+}
+
+function escapeHtml(s){return String(s).replace(/[&<>'"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':'&quot;'}[c]));}
+
+$('run').onclick=runSearch;
+$('q').addEventListener('keydown',e=>{if(e.key==='Enter') runSearch();});
+$('sort').onchange=render;
+$('dataset').onchange=()=>loadDataset($('dataset').value);
+$('reset').onclick=()=>{$('q').value=''; VIEW=[...ALL]; $('log').textContent='reset.'; render();};
+const qp = new URLSearchParams(location.search);
+const ds = qp.get('dataset');
+if (ds && ['karpathy','manabovetown'].includes(ds)) $('dataset').value = ds;
+loadDataset($('dataset').value);
+</script>
+</body></html>
